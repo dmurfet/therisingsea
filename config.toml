@@ -1,3 +1,5 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://159.203.216.192/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Rising Sea"
+newContentEditor = "vim"
+theme = "hugo-multi-bootswatch"
