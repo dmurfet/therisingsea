@@ -1,4 +1,4 @@
-baseurl = "http://159.203.216.192/"
+baseurl = "http://therisingsea.org/"
 languageCode = "en-us"
 title = "The Rising Sea"
 newContentEditor = "vim"
