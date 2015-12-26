@@ -1,3 +1,8 @@
+++++
+ +date = "2015-12-26T01:09:22-05:00"
+ +title = "Lecture Notes"
+++++
+
 During my PhD I took detailed notes. I am making some of these available in the hope that they may be useful. Many notes are heavily cross-referenced with other notes. I use an acronym system, where a reference of the form (MRS, Proposition 6) refers to my "Modules over Ringed Spaces" notes, for example. I have tried to document the relevant acronyms here, but there may be references to notes that I haven't published online.
 
 It goes without saying that most of the results in my notes are from one book or another. I've tried to list some of the main sources below, together with my shorthand for each book.
