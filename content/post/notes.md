@@ -72,31 +72,55 @@ It goes without saying that most of the results in my notes are from one book or
 ## Commutative Algebra
 
 *   [Matsumura](http://therisingsea.org/notes/Matsumura.pdf): (MAT) General rings, flatness, depth, Cohen-Macaulay rings, normal and regular rings, koszul complexes, unique factorisation.
+
 *   [Matsumura Part II](http://therisingsea.org/notes/Matsumura-Part2.pdf): (MAT2) Extension of a ring by a module, derivations and differentials, separability.
+
 *   [Noether Normalisation](http://therisingsea.org/notes/NoetherNormalisation.pdf): First introduction to various versions of Noether normalisation.
+
 *   [More Noether Normalisation](http://therisingsea.org/notes/MoreNoetherNormalisation.pdf): A version of noether normalisation involving separability.
+
 *   [Hensel's Lemma](http://therisingsea.org/notes/HenselsLemma.pdf): Hensel's Lemma and a few small examples.
+
 *   [Cohen's Theorem](http://therisingsea.org/notes/CohensTheorem.pdf).
+
 *   [Graded Rings and Modules](http://therisingsea.org/notes/GradedModules.pdf): (GRM) Definitions and basic properties, the category of graded modules, quasi-structures, grading tensor products.
+
 *   [Tensor, Exterior and Symmetric algebras](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf): (TES) The tensor algebra and properties, exterior algebra and properties, including: dimension theorems, the determinant formula (i.e. highest exterior powers), and duality properties, the symmetric algebra and properties.
+
 *   [Automorphisms of Power Series Rings](http://therisingsea.org/notes/AutoPowerSeries.pdf): (APSR) Constructing automorphisms of power series rings from an independent family of power series.
 
 ## Category Theory and Noncommutative Algebra
 
 *   [Foundations for Category Theory](http://therisingsea.org/notes/FoundationsForCategoryTheory.pdf): (FCT) Outline of the problem of foundations in category theory, first order theories, NBG and associated problems, review of ZFC and grothendieck universes. This forms the logical background for all my notes.
+
 *   [Abelian Categories](http://therisingsea.org/notes/AbelianCategories.pdf): (AC) Definition of categories, limits and colimits, functor categories, pointwise limits and colimits, adjoint functors, abelian categories, grothendieck abelian categories and reflective subcategories (mostly just to fix notation. These notes are not a complete reference on category theory).
+
 *   [Diagram Chasing in Abelian Categories](http://therisingsea.org/notes/DiagramChasingInAbelianCategories.pdf): (DCAC) Proving the Five Lemma in an abelian category, using an embedding to establish diagram chasing in arbitrary abelian categories (we use only the "first" embedding theorem into the category of abelian groups, since its proof is more accessible, and you probably have to do the same amount of work to avoid well-definedness issues for the connecting morphism even with the better embeddings).
+
 *   [Derived Functors](http://therisingsea.org/notes/DerivedFunctors.pdf): (DF) (co)chain complexes in an abelian category, (co)homology, projective and injective resolutions, left and right derived functors of additive functors between abelian categories, long exact (co)homology sequences, long exact sequences of derived functors, dimension shifting and acyclic resolutions, change of base, homology and colimits, cohomology and limits, delta functors.
+
 *   [Triangulated Categories Part I](http://therisingsea.org/notes/TriangulatedCategories.pdf): (TRC) [Verdier quotients] Triangulated categories, triangulated functors, homotopy colimits, localising subcategories, right derived functors, left derived functors, portly considerations.
+
 *   [Triangulated Categories Part II](http://therisingsea.org/notes/TriangulatedCategoriesPart2.pdf): (TRC2) [Thomason localisation] Finer localising subcategories, perfect classes, small objects, compact objects, portly considerations, morphisms in the quotient.
+
 *   [Triangulated Categories Part III](http://therisingsea.org/notes/TriangulatedCategoriesPart3.pdf): (TRC3) [Brown representability] Representability theorems, compactly generated triangulated categories.
+
 *   [Derived Categories Part I](http://therisingsea.org/notes/DerivedCategories.pdf): (DTC) Homotopy categories, derived categories (extending functors, introduction to hearts, bounded derived categories), homotopy resolutions, homotopy direct limits, bousfield subcategories, existence of resolutions.
+
 *   [Derived Categories Part II](http://therisingsea.org/notes/DerivedCategoriesPart2.pdf): (DTC2) Derived functors, derived Hom, derived Tensor, brown representability.
+
 *   [Derived Categories Of Sheaves](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf): (DCOS) Representing cohomology, derived direct image, derived sheaf Hom, derived Tensor, derived inverse image.
+
 *   [Derived Categories Of Quasi-coherent Sheaves](http://therisingsea.org/notes/DerivedCategoriesOfQuasicoherentSheaves.pdf): (DCOQS) Derived direct image, Derived inverse image, Sheaves with quasi-coherent cohomology, local cohomology triangle, resolutions by Cech sheaves and the Cech triangles, Neeman's unbounded Grothendieck duality, comparing the derived category of quasi-coherent sheaves with the derived category of sheaves with quasi-coherent cohomology, quasi-coherent hypercohomology, perfect complexes and compactness, projection formula and friends.
+
 *   [Ext](http://therisingsea.org/notes/Ext.pdf): (EXT) Ext in general abelian categories, using injectives and projectives and balancing the two, Ext for linear categories, dimension shifting, Ext and coproducts, Ext for commutative rings, another characterisation of derived functors.
+
 *   [Tor](http://therisingsea.org/notes/Tor.pdf): (TOR) Tor on the left and right and balancing the two, dimension shifting, Tor and colimits, Tor for commutative rings and bimodules, criteria for flatness.
+
 *   [Dimensions](http://therisingsea.org/notes/Dimensions.pdf): (DIM) Projective dimension, injective dimension, global dimension, flat dimension and change of rings.
+
 *   [Spectral Sequences](http://therisingsea.org/notes/SpectralSequences.pdf): (SS) Definition, basic convergence properties, the spectral sequence of a complex filtration, the two spectral sequences of a bicomplex, the Grothendieck spectral sequence.
+
 *   [Algebra in a Category](http://therisingsea.org/notes/AlgebraInACategory.pdf): (ALCAT) Groups, rings and modules in an arbitrary category. Sheaves of groups, rings and modules and graded versions.
+
 *   [Linearised Categories](http://therisingsea.org/notes/LinearisedCategories.pdf): (LC) Generalise the group ring construction to the linearisation of any small category with respect to a sheaf of rings, the graded version of this construction. Includes proof that the category of graded sheaves of modules is grothendieck abelian.
