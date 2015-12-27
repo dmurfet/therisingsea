@@ -23,7 +23,7 @@ It goes without saying that most of the results in my notes are from one book or
 
 *  H or Hartshorne: Hartshorne's "Algebraic Geometry".
 
-## Algebraic Geometry
+### Algebraic Geometry
 
 *  [Sheaves of Groups and Rings](http://therisingsea.org/notes/SheavesOfSetsGroupsRings.pdf): (SGR) Sheaves of sets (incomplete), sheaves of abelian groups, stalks, sheaf Hom, tensor products, inverse and direct image, extension by zero.
 
@@ -69,7 +69,7 @@ It goes without saying that most of the results in my notes are from one book or
 
 *  [Ample Families](http://therisingsea.org/notes/AmpleFamilies.pdf): (AMF) Ample sheaves and ample families of sheaves on arbitrary schemes, as described in EGA and later SGA.
 
-## Commutative Algebra
+### Commutative Algebra
 
 *   [Matsumura](http://therisingsea.org/notes/Matsumura.pdf): (MAT) General rings, flatness, depth, Cohen-Macaulay rings, normal and regular rings, koszul complexes, unique factorisation.
 
@@ -89,7 +89,7 @@ It goes without saying that most of the results in my notes are from one book or
 
 *   [Automorphisms of Power Series Rings](http://therisingsea.org/notes/AutoPowerSeries.pdf): (APSR) Constructing automorphisms of power series rings from an independent family of power series.
 
-## Category Theory and Noncommutative Algebra
+### Category Theory and Noncommutative Algebra
 
 *   [Foundations for Category Theory](http://therisingsea.org/notes/FoundationsForCategoryTheory.pdf): (FCT) Outline of the problem of foundations in category theory, first order theories, NBG and associated problems, review of ZFC and grothendieck universes. This forms the logical background for all my notes.
 
