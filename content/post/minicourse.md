@@ -4,7 +4,7 @@ title = "Mini-course on the fusion of defects"
 
 +++
 
-Recently I gave a mini-course on the fusion of defects in topological Landau-Ginzburg models. This included several computer demos, the source for which can be found [on GitHub](https://github.com/dmurfet/mf).
+Recently I gave a [mini-course at the IBS in Korea](http://cgp.ibs.re.kr/activities/seminars/227/1476) on the fusion of defects in topological Landau-Ginzburg models. This included several computer demos, the source for which can be found [on GitHub](https://github.com/dmurfet/mf).
 
 *  [Lecture 1](http://therisingsea.org/notes/korea-lecture1.pdf): 2D TFT with defects and matrix factorisations.
 *  [Lecture 2](http://therisingsea.org/notes/korea-lecture2.pdf): The bicategory of Landau-Ginzburg models.
