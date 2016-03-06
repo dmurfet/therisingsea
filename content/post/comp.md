@@ -28,12 +28,12 @@ Some references on computational complexity theory:
 Relations between computation and category theory:
 
 *  [Lectures on the Curry-Howard isomorphism](https://www.elsevier.com/books/lectures-on-the-curry-howard-isomorphism/srensen/978-0-444-52077-7) by Morten Heine Sorensen and Pawel Urzyczyn.
-*  [Notions of computation and monads](https://core.ac.uk/download/files/145/21173011.pdf).
-*  [Homotopy type theory](http://homotopytypetheory.org/).
+*  [Notions of computation and monads](https://core.ac.uk/download/files/145/21173011.pdf) by Eugenio Moggi.
+*  [Homotopy type theory](http://homotopytypetheory.org/) is a semantics of Martin-Lof type theory defined using homotopy-theory.
 
 Relations between computation and physics:
 
-*  [The Feynman lectures on computation](http://www.amazon.com/Feynman-Lectures-On-Computation-Richard/dp/0738202967).
+*  [The Feynman lectures on computation](http://www.amazon.com/Feynman-Lectures-On-Computation-Richard/dp/0738202967), seminal work in the field of quantum computing, also has a good discussion of basics including Bennett's work on irreversibility (find a PDF on bookzz).
 *  [Complexity and phase transitions](http://www.cs.cornell.edu/selman/papers/pdf/99.nature.phase.pdf), Nature paper from 1999.
 *  There is a deep and interesting connection between Maxwell's demon and topics in computation, for which see [Szilard](https://www.weizmann.ac.il/complex/tlusty/courses/InfoInBio/Papers/Szilard1929.pdf), [Brillouin](http://adsabs.harvard.edu/abs/1961AmJPh..29..318B), [Landauer](http://worrydream.com/refs/Landauer%20-%20Irreversibility%20and%20Heat%20Generation%20in%20the%20Computing%20Process.pdf) and the papers of Bennett below.
 *  [The thermodynamics of computation](http://www.pitt.edu/~jdnorton/lectures/Rotman_Summer_School_2013/thermo_computing_docs/Bennett_1982.pdf) by Bennett 1982.
