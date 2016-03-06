@@ -11,7 +11,7 @@ General "big picture" references on computation and logic:
 *  [The Nature of Computation](https://global.oup.com/academic/product/the-nature-of-computation-9780199233212?cc=us&lang=en&), a textbook by Cristopher Moore and Stephan Mertens.
 *  [Towards a geometry of interaction](https://jb55.com/linear/pdf/Towards%20a%20geometry%20of%20interaction.pdf) by Jean-Yves Girard.
 *  [The Blind Spot](http://iml.univ-mrs.fr/~girard/coursang/coursang.html) also by Girard, quite eclectic and unpolished, but full of interesting ideas (especially the sections on Russell's paradox and complexity).
-*  [Constructive mathematics and computer programming](http://www.cs.tufts.edu/~nr/cs257/archive/per-martin-lof/constructive-math.pdf) by Martin-L`&ouml;`f.
+*  [Constructive mathematics and computer programming](http://www.cs.tufts.edu/~nr/cs257/archive/per-martin-lof/constructive-math.pdf) by Martin-Lof.
 *  [Two puzzles about computation](http://arxiv.org/abs/1403.4880) by Samson Abramsky.
 
 Some references on lambda-calculus, System F and proof theory:
@@ -27,7 +27,7 @@ Some references on computational complexity theory:
 
 Relations between computation and category theory:
 
-*  [Lectures on the Curry-Howard isomorphism](https://www.elsevier.com/books/lectures-on-the-curry-howard-isomorphism/srensen/978-0-444-52077-7) by Morten Heine S`&oslash;`rensen and Pawel Urzyczyn.
+*  [Lectures on the Curry-Howard isomorphism](https://www.elsevier.com/books/lectures-on-the-curry-howard-isomorphism/srensen/978-0-444-52077-7) by Morten Heine Sorensen and Pawel Urzyczyn.
 *  [Notions of computation and monads](https://core.ac.uk/download/files/145/21173011.pdf).
 *  [Homotopy type theory](http://homotopytypetheory.org/).
 
