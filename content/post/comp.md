@@ -28,6 +28,9 @@ Some references on computational complexity theory:
 Relations between computation and category theory:
 
 *  [Lectures on the Curry-Howard isomorphism](https://www.elsevier.com/books/lectures-on-the-curry-howard-isomorphism/srensen/978-0-444-52077-7) by Morten Heine Sorensen and Pawel Urzyczyn.
+*  [Physics, Topology, Logic and Computation:
+A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf) by John Baez and Mike Stay.
+*  [Categorical semantics of linear logic](http://www.pps.univ-paris-diderot.fr/~mellies/mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) by Paul-Andre Mellies.
 *  [Notions of computation and monads](https://core.ac.uk/download/files/145/21173011.pdf) by Eugenio Moggi.
 *  [Homotopy type theory](http://homotopytypetheory.org/) is a semantics of Martin-Lof type theory defined using homotopy-theory.
 
