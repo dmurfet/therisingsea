@@ -6,8 +6,9 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
-*  Reading group on proof-nets, April 2016 in the Melbourne logic seminar ([handout](http://therisingsea.org/notes/logic-seminar-proofnets.pdf) and [background notes/outline of plan](http://therisingsea.org/post/seminar-proofnets/)).
+*  Reading group on proof-nets, April 2016 in the Melbourne logic seminar ([handout](http://therisingsea.org/notes/logic-seminar-proofnets.pdf) and [background notes](http://therisingsea.org/post/seminar-proofnets/)).
 *  Stratifications and complexity in linear logic, March 2016 in the Melbourne logic seminar ([lecture slides](http://therisingsea.org/notes/talk-stratifications.pdf)).
+*  An introduction to A-infinity algebras, November 2015 in the Melbourne Algebraic Topology seminar ([lecture notes](http://therisingsea.org/notes/ainf-intro-talk.pdf)).
 
 I gave a [mini-course at the IBS in Korea](http://cgp.ibs.re.kr/conferences/MathematicalQuantumFieldTheory/) on the fusion of defects in topological Landau-Ginzburg models. This included several computer demos, the source for which can be found [on GitHub](https://github.com/dmurfet/mf).
 
