@@ -31,3 +31,10 @@ Here is a rough plan that makes sense to me, for the first seminar:
 9. If there is any time remaining, some details of the proof of the Sequentialisation Theorem from [G96].
 
 The canonical reference for proof-nets and the Sequentialisation Theorem is Girard [G96], but in order to have notational consistency with the second seminar on light linear logic, and to see an overview free of complicating details, I think [BM09] is a better starting point for us. This means we would view [G96], [J91], [PTF09] as augmenting references for the real details (which are completely absent from [BM09]).
+
+A rough plan for the second seminar, which will be taken almost entirely from [BM09].
+
+1. A brief recall of the relation between stratification and complexity from my earlier talk ([slides](http://therisingsea.org/notes/talk-stratifications.pdf) and [screencast](https://vimeo.com/160036378)). 
+2. A brief recall of proof-nets and their cut-elimination steps from last time.
+3. The definition of stratified proof-nets (mL3 in Baillot-Mazza) from Section 2.1 of [BM09].
+4. Then Section 3 of [BM09] in its entirety, which has three parts (A) weak normalisation for cut-elimination in untyped stratified proof-nets (Proposition 13) (B) the characterisation of elementary time by stratification (Theorem 16) (C) the characterisation of polynomial time by stratification (Theorem 23).
