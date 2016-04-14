@@ -6,7 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
-*  Reading group on proof-nets, April 2016 in the Melbourne logic seminar ([handout](http://therisingsea.org/notes/logic-seminar-proofnets.pdf) and [background notes](http://therisingsea.org/post/seminar-proofnets/)).
+*  Reading group on proof-nets, April 2016 in the Melbourne logic seminar ([handout 1](http://therisingsea.org/notes/logic-seminar-proofnets.pdf), [handout 2](http://therisingsea.org/notes/logic-seminar-proofnets2.pdf) and [background notes](http://therisingsea.org/post/seminar-proofnets/)).
 *  Stratifications and complexity in linear logic, March 2016 in the Melbourne logic seminar ([slides](http://therisingsea.org/notes/talk-stratifications.pdf) and [screencast](https://vimeo.com/160036378)).
 *  An introduction to A-infinity algebras, November 2015 in the Melbourne Algebraic Topology seminar ([lecture notes](http://therisingsea.org/notes/ainf-intro-talk.pdf)).
 

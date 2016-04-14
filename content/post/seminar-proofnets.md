@@ -8,7 +8,7 @@ menu = "main"
 These are the notes for the reading group on proof-nets in linear logic, spanning April 8 and 15 of the [logic seminar](http://blogs.unimelb.edu.au/logic/) at the University of Melbourne. The aim is to:
 
   * **April 8** ([handout](http://therisingsea.org/notes/logic-seminar-proofnets.pdf)): understand the definition of proof-nets and their cut-elimination procedure, and see the statement of the two main theorems in the theory: the Sequentialisation Theorem (which identifies those proof-nets coming from sequent calculus proofs) and the Strong Normalisation Theorem. 
-  * **April 15**: work through details of the proof that in stratified linear logic, cut-elimination is achieved in polynomial time (Theorem 16 of Baillot and Mazza's "Linear logic by levels") as stated in my [previous talk](http://therisingsea.org/notes/talk-stratifications.pdf) without details.
+  * **April 15** ([handout](http://therisingsea.org/notes/logic-seminar-proofnets2.pdf)): work through details of the proof that in stratified linear logic, cut-elimination is achieved in polynomial time (Theorem 16 of Baillot and Mazza's "Linear logic by levels") as stated in my [previous talk](http://therisingsea.org/notes/talk-stratifications.pdf) without details.
   
 The main references are:
 
