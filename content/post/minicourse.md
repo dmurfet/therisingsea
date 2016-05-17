@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* The Landau-Ginzburg/Conformal Field Theory correspondence, May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-lgcft.pdf)).
 * The super-A-polynomial and knot differentials, May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-supera.pdf)).
 *  A-infinity algebras and minimal models [Part 1], May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-ainf-minimal.pdf) and [screencast](https://vimeo.com/165138188)).
 *  Reading group on proof-nets, April 2016 in the Melbourne logic seminar ([handout 1](http://therisingsea.org/notes/logic-seminar-proofnets.pdf), [handout 2](http://therisingsea.org/notes/logic-seminar-proofnets2.pdf) and [notes](http://therisingsea.org/post/seminar-proofnets/)).
