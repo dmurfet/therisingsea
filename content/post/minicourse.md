@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* A-infinity algebras and matrix factorisations, June 2016 in Banff ([lecture notes](http://therisingsea.org/notes/talk-ainfmfbanff.pdf) and [video](http://www.birs.ca/events/2016/5-day-workshops/16w5040/videos/watch/201606201531-Murfet.html)).
 * The Landau-Ginzburg/Conformal Field Theory correspondence, May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-lgcft.pdf)).
 * The super-A-polynomial and knot differentials, May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-supera.pdf)).
 *  A-infinity algebras and minimal models [Part 1], May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-ainf-minimal.pdf) and [screencast](https://vimeo.com/165138188)).
