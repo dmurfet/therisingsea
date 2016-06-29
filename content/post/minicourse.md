@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* Linear logic and deep learning (based on joint work with Huiyi Hu), June 2016 at the [AAL in Melbourne](http://blogs.unimelb.edu.au/logic/aal-2016/).
 * A-infinity algebras and matrix factorisations, June 2016 in Banff ([lecture notes](http://therisingsea.org/notes/talk-ainfmfbanff.pdf) and [video](http://www.birs.ca/events/2016/5-day-workshops/16w5040/videos/watch/201606201531-Murfet.html)).
 * The Landau-Ginzburg/Conformal Field Theory correspondence, May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-lgcft.pdf)).
 * The super-A-polynomial and knot differentials, May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-supera.pdf)).
