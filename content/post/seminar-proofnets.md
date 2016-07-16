@@ -1,7 +1,6 @@
 +++
 date = "2015-10-26T21:25:32-05:00"
 title = "Reading group on proof-nets"
-menu = "main"
 
 +++
 
