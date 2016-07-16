@@ -5,7 +5,7 @@ menu = "main"
 
 +++
 
-This is the webpage for the Curry-Howard seminar at the University of Melbourne. Currently in very rough shape.
+This is the webpage for the Curry-Howard seminar at the University of Melbourne. The aim of the seminar is to explore the growing field of connections between logic, functional programming and category theory, referred to as the *Curry-Howard correspondence*.
   
 The main reference is:
 
