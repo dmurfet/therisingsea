@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* Spectral sequences for vertex algebras, July 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-specseq.pdf)).
 * Linear logic and deep learning (joint with Huiyi Hu), June 2016 at the [AAL in Melbourne](http://blogs.unimelb.edu.au/logic/aal-2016/) ([slides](http://therisingsea.org/notes/talk-lldl.pdf) and [transcript](http://therisingsea.org/notes/talk-lldl-transcript.pdf)).
 * A-infinity algebras and matrix factorisations, June 2016 in [Banff](http://www.birs.ca/events/2016/5-day-workshops/16w5040) ([lecture notes](http://therisingsea.org/notes/talk-ainfmfbanff.pdf) and [video](http://www.birs.ca/events/2016/5-day-workshops/16w5040/videos/watch/201606201531-Murfet.html)).
 * The Landau-Ginzburg/Conformal Field Theory correspondence, May 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-lgcft.pdf)).
