@@ -16,7 +16,7 @@ A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)"
   
 The schedule:
 
-  * 14/7 Will Troiani "The Church-Rosser Theorem"
+  * 14/7 Will Troiani "The Church-Rosser Theorem" ([lecture notes](http://therisingsea.org/notes/talk-will-churchrosser.pdf))
   * 2/8 Will Troiani "Introduction to lambda calculus" (Sections 1.1-1.3)
   * 9/8 Sam Lyons "Computable functions in the lambda calculus" (Section 1.7)
   * 16/8 James Clift - "Simply-typed lambda calculus" (beginning of Section 3)
