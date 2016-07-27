@@ -9,7 +9,7 @@ This is the webpage for the Topological Field Theory (TFT) at the University of 
 
 #### Schedule
 
-  * 28-7 Daniel Murfet "Overview of two-dimensional TQFT"
+  * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([lecture notes](http://therisingsea.org/notes/talk-2dtqft.pdf))
   * 4-8 Patrick Elliott "Introduction to Frobenius algebras" (beginning of Chapter 2)
   * 11-8 Michelle Strumila "The cobordism category 2Cob" (beginning of Chapter 1)
   
