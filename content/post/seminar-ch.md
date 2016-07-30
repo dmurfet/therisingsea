@@ -17,6 +17,7 @@ As a general introduction, I recommend Philip Wadler's famous talk [Propositions
   * 2-8 William Troiani "Introduction to lambda calculus" (Sections 1.1-1.3)
   * 9-8 Samuel Lyons "Computable functions in the lambda calculus" (Section 1.7)
   * 16-8 James Clift "Simply-typed lambda calculus" (beginning of Section 3)
+  * *Volunteers welcome*
   
 #### References
 

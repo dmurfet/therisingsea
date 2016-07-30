@@ -5,13 +5,17 @@ menu = "main"
 
 +++
 
-This is the webpage for the Topological Field Theory (TFT) at the University of Melbourne, which is on Thursdays from 1-2pm in Room 107 of Richard Berry. The theme for Semester 2 of 2016 is two-dimensional field theories, and our aim is to first read [Kock's book](http://mat.uab.es/~kock/TQFT.html) on the equivalence between closed 2D TFTs and commutative Frobenius algebras.
+This is the webpage for the Topological Field Theory (TFT) seminar at the University of Melbourne, which is on Thursdays from 1-2pm in Room 107 of Richard Berry. The theme for Semester 2 of 2016 is two-dimensional field theories, and our aim is to read [Kock's book](http://mat.uab.es/~kock/TQFT.html) on the equivalence between closed 2D TFTs and commutative Frobenius algebras.
 
 #### Schedule
 
-  * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([lecture notes](http://therisingsea.org/notes/talk-2dtqft.pdf))
+  * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf))
   * 4-8 Patrick Elliott "Introduction to Frobenius algebras" (beginning of Chapter 2)
   * 11-8 Michelle Strumila "The cobordism category 2Cob" (beginning of Chapter 1)
+  * 18-8 Omar Foda "Supersymmetry and Morse theory"
+  * TBD Campbell Wheeler "Enumerative Geometry, Categorification and TQFT"
+  * TBD Thomas Quella "Chern-Simons theory and the Jones polynomial"
+  * *Volunteers welcome*
   
 #### References
 
