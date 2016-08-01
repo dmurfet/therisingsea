@@ -5,7 +5,7 @@ menu = "main"
 
 +++
 
-This is the webpage for the Curry-Howard seminar at the University of Melbourne, which is on Tuesdays from 2-3pm in Room 107 of Richard Berry. The seminar has as its theme the growing field of connections between logic, functional programming and category theory, sometimes referred to as the [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) (or by the slogan "formulas-as-types, proofs-as-programs").
+This is the webpage for the Curry-Howard seminar at the University of Melbourne, which is on Tuesdays from 2-3pm in Room 107 of Richard Berry. The seminar has as its theme the growing field of connections between logic, functional programming and category theory, sometimes referred to as the [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) (or by the slogan "formulas-as-types, proofs-as-programs"). To receive announcements about the seminar [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list.
 
 Our aim is to read Sorensen and Urzycz's book "Lectures on the Curry-Howard isomorphism", up to the proof of the original Curry-Howard correspondence (between simply-typed lambda calculus and intuitionistic logic) in Chapter 4, and to augment this with a third equivalence which involves category theory.
 

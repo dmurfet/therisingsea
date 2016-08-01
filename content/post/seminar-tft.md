@@ -5,7 +5,7 @@ menu = "main"
 
 +++
 
-This is the webpage for the Topological Field Theory (TFT) seminar at the University of Melbourne, which is on Thursdays from 1-2pm in Room 107 of Richard Berry. The theme for Semester 2 of 2016 is two-dimensional field theories, and our aim is to read [Kock's book](http://mat.uab.es/~kock/TQFT.html) on the equivalence between closed 2D TFTs and commutative Frobenius algebras.
+This is the webpage for the Topological Field Theory (TFT) seminar at the University of Melbourne, which is on Thursdays from 1-2pm in Room 107 of Richard Berry. The theme for Semester 2 of 2016 is two-dimensional field theories, and our aim is to read [Kock's book](http://mat.uab.es/~kock/TQFT.html) on the equivalence between closed 2D TFTs and commutative Frobenius algebras. To receive announcements about the seminar [subscribe](http://www.tinyletter.com/dmurfet-tft) to the mailing list.
 
 #### Schedule
 
