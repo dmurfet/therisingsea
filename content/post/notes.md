@@ -89,6 +89,8 @@ It goes without saying that most of the results in my notes are from one book or
 
 *   [Automorphisms of Power Series Rings](http://therisingsea.org/notes/AutoPowerSeries.pdf): (APSR) Constructing automorphisms of power series rings from an independent family of power series.
 
+*   [Topological Rings](http://therisingsea.org/notes/TopologicalRings.pdf): Topological groups and rings, fundamental systems of ideals and preparation for Gabriel topologies.
+
 #### Category Theory and Noncommutative Algebra
 
 *   [Foundations for Category Theory](http://therisingsea.org/notes/FoundationsForCategoryTheory.pdf): (FCT) Outline of the problem of foundations in category theory, first order theories, NBG and associated problems, review of ZFC and grothendieck universes. This forms the logical background for all my notes.
