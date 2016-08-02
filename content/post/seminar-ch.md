@@ -25,3 +25,7 @@ As a general introduction, I recommend Philip Wadler's famous talk [Propositions
   * Related [lecture notes](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf), seems to be a draft version of the book.
   *  John Baez and Mike Stay "[Physics, Topology, Logic and Computation:
 A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)"
+
+#### Other
+
+  * The functional programming language Haskell compiles internally to an extension of System F, which is discussed in Sorensen and Urzycz's text and is an extension of simply-typed lambda calculus. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl exploring how Haskell compiles to System F.
