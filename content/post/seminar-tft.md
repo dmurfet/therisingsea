@@ -10,7 +10,7 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
 #### Schedule
 
   * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf))
-  * 4-8 Patrick Elliott "Introduction to Frobenius algebras" (beginning of Chapter 2)
+  * 4-8 Patrick Elliott "Introduction to Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick.pdf))
   * 11-8 Michelle Strumila "The cobordism category 2Cob" (beginning of Chapter 1)
   * 18-8 Omar Foda "Supersymmetry and Morse theory"
   * TBD Campbell Wheeler "Enumerative Geometry, Categorification and TQFT"
