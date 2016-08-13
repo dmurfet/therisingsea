@@ -15,8 +15,8 @@ As a general introduction, I recommend Philip Wadler's famous talk [Propositions
 
   * 14-7 William Troiani "The Church-Rosser Theorem" ([lecture notes](http://therisingsea.org/notes/talk-will-churchrosser.pdf))
   * 2-8 William Troiani "Introduction to lambda calculus" (Sections 1.1-1.3, [lecture notes](http://therisingsea.org/notes/talk-will-lambda.pdf))
-  * 9-8 Samuel Lyons "Computable functions in the lambda calculus" (Section 1.7, [lecture notes](http://therisingsea.org/notes/talk-sam-definable.pdf))
-  * 16-8 James Clift "Simply-typed lambda calculus" (Chapter 3)
+  * 9-8 Samuel Lyons "All partial recursive functions are lambda-definable" (Section 1.7, [lecture notes](http://therisingsea.org/notes/talk-sam-definable.pdf))
+  * 16-8 James Clift "Simply-typed lambda calculus and strong normalisation" (Chapter 3, [lecture notes](http://therisingsea.org/notes/talk-james-simplytyped.pdf))
   * 23-8 Shawn Standefer "Introduction to natural deduction" (Chapter 2)
   * *Volunteers welcome*
   
