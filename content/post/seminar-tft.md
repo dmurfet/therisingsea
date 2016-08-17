@@ -13,6 +13,7 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
   * 4-8 Patrick Elliott "Introduction to Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick.pdf))
   * 11-8 Michelle Strumila "The cobordism category 2Cob" (beginning of Chapter 1)
   * 18-8 Omar Foda "Supersymmetry and Morse theory"
+  * 24-8 Patrick Elliott "The category of Frobenius algebras"
   * TBD Campbell Wheeler "Enumerative Geometry, Categorification and TQFT"
   * TBD Thomas Quella "Chern-Simons theory and the Jones polynomial"
   * *Volunteers welcome*
