@@ -12,8 +12,9 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
   * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf))
   * 4-8 Patrick Elliott "Introduction to Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick.pdf))
   * 11-8 Michelle Strumila "The cobordism category 2Cob" (beginning of Chapter 1)
-  * 18-8 Omar Foda "Supersymmetry and Morse theory"
-  * 24-8 Patrick Elliott "The category of Frobenius algebras"
+  * 18-8 Omar Foda "Supersymmetry and Morse theory" (references are [Witten's paper](http://www.math.toronto.edu/mgualt/Morse%20Theory/Witten%20Morse%20Theory%20and%20Supersymmetry.pdf) and [Nicolas Mee's thesis](http://www.virtualimage.co.uk/nickmee/html/supersymmetry.html))
+  * 25-8 Patrick Elliott "The category of Frobenius algebras"
+  * 1-9 Daniel Murfet "The cobordism category 2Cob Part II"
   * TBD Campbell Wheeler "Enumerative Geometry, Categorification and TQFT"
   * TBD Thomas Quella "Chern-Simons theory and the Jones polynomial"
   * *Volunteers welcome*
