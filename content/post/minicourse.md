@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* Two odd things about computation, October 2015 in Vienna and August 2016 in Melbourne ([slides](http://therisingsea.org/notes/talk-twothings.pdf) and [transcript](http://therisingsea.org/notes/talk-twothings-transcript.pdf))
 * Topological Quantum Field Theory in two dimensions, July 2016 in Melbourne ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf))
 * Spectral sequences for vertex algebras, July 2016 in Melbourne ([lecture notes](http://therisingsea.org/notes/talk-specseq.pdf)).
 * Linear logic and deep learning (joint with Huiyi Hu), June 2016 at the [AAL in Melbourne](http://blogs.unimelb.edu.au/logic/aal-2016/) ([slides](http://therisingsea.org/notes/talk-lldl.pdf) and [transcript](http://therisingsea.org/notes/talk-lldl-transcript.pdf)).
