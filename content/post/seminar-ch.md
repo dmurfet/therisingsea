@@ -18,6 +18,7 @@ As a general introduction, I recommend Philip Wadler's famous talk [Propositions
   * 9-8 Samuel Lyons "All partial recursive functions are lambda-definable" (Section 1.7, [lecture notes](http://therisingsea.org/notes/talk-sam-definable.pdf))
   * 16-8 James Clift "Simply-typed lambda calculus and strong normalisation" (Chapter 3, [lecture notes](http://therisingsea.org/notes/talk-james-simplytyped.pdf))
   * 23-8 Shawn Standefer "Introduction to natural deduction" (Chapter 2)
+  * 30-8 Daniel Murfet "The category of simply-typed lambda terms"
   * *Volunteers welcome*
   
 #### References
