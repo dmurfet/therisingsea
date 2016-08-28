@@ -19,15 +19,15 @@ As a general introduction, I recommend Philip Wadler's famous talk [Propositions
   * 16-8 James Clift "Simply-typed lambda calculus and strong normalisation" (Chapter 3, [lecture notes](http://therisingsea.org/notes/talk-james-simplytyped.pdf))
   * 23-8 Shawn Standefer "Introduction to natural deduction" (Chapter 2)
   * 30-8 Daniel Murfet "The category of simply-typed lambda terms"
+  * 6-9 Shawn Standefer "Kripke semantics of intuitionistic logic"
   * *Volunteers welcome*
   
 #### References
 
-  * Sorensen, Urzyczyn "Lectures on the Curry-Howard isomorphism".
-  * Related [lecture notes](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf), seems to be a draft version of the book.
-  *  John Baez and Mike Stay "[Physics, Topology, Logic and Computation:
-A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)"
-  * Another [seminar webpage](https://pls.wikit.itu.dk/Seminar+on+Semantics+of+Linear+Logic).
+  * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)".
+  * Girard, Lafont, Taylor "[Proofs and types](http://www.paultaylor.eu/stable/prot.pdf)".
+  * Gallier "[Constructive Logics Part I](https://ai2-s2-pdfs.s3.amazonaws.com/55ec/dffd387d44e3d939a8a7dacf7c655a84a793.pdf)".
+  * Wadler "[Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)".
 
 #### Other
 

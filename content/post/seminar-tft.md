@@ -16,7 +16,8 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
   * 25-8 **No seminar**
   * 1-9 Patrick Elliott "The category of Frobenius algebras"
   * 8-9 Thomas Quella "Chern-Simons theory and the Jones polynomial"
-  * TBD Campbell Wheeler "Enumerative Geometry, Categorification and TQFT"
+  * 15-9 Campbell Wheeler "Symmetric monoidal categories and functors"
+  * 22-9 Daniel Murfet "The cobordism category 2Cob Part 2"
   * *Volunteers welcome*
   
 #### References
