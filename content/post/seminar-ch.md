@@ -15,7 +15,7 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 2-8 William Troiani "Introduction to lambda calculus" (Sections 1.1-1.3, [lecture notes](http://therisingsea.org/notes/talk-will-lambda.pdf))
   * 9-8 Samuel Lyons "All partial recursive functions are lambda-definable" (Section 1.7, [lecture notes](http://therisingsea.org/notes/talk-sam-definable.pdf))
   * 16-8 James Clift "Simply-typed lambda calculus and strong normalisation" (Chapter 3, [lecture notes](http://therisingsea.org/notes/talk-james-simplytyped.pdf))
-  * 23-8 Shawn Standefer "Introduction to natural deduction" (Chapter 2)
+  * 23-8 Shawn Standefer "Introduction to natural deduction" (Chapter 2, [lecture notes](http://therisingsea.org/notes/talk-shawn-introintuit.pdf))
   * 30-8 Daniel Murfet "The category of simply-typed lambda terms" ([lecture notes](http://therisingsea.org/notes/talk-catsimplytyped.pdf))
   * 6-9 Shawn Standefer "Kripke semantics of intuitionistic logic"
   * 13-9 **No live talk**, instead we'll watch (parts of) Wadler's [Propositions as types](https://www.youtube.com/watch?v=IOiZatlZtGU) and discuss
