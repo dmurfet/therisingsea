@@ -22,6 +22,7 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 20-9 TBD "Proof of the Curry-Howard correspondence"
   * 27-9 TBD "Second-order intuitionistic logic"
   * 4-10 TBD "System F: Polymorphic lambda calculus"
+  * 11-10 TBD "System F in the real world: Haskell and functional programming"
   
 #### References
 
