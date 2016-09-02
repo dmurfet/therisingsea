@@ -19,10 +19,11 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 30-8 Daniel Murfet "The category of simply-typed lambda terms" ([lecture notes](http://therisingsea.org/notes/talk-catsimplytyped.pdf))
   * 6-9 Shawn Standefer "Kripke semantics of intuitionistic logic"
   * 13-9 **No live talk**, instead we'll watch (parts of) Wadler's [Propositions as types](https://www.youtube.com/watch?v=IOiZatlZtGU) and discuss
-  * 20-9 TBD "Proof of the Curry-Howard correspondence"
-  * 27-9 TBD "Second-order intuitionistic logic"
-  * 4-10 TBD "System F: Polymorphic lambda calculus"
-  * 11-10 TBD "System F in the real world: Haskell and functional programming"
+  * 20-9 Daniel Murfet "Proof of the Curry-Howard correspondence"
+  * 27-9 Samuel Lyons "Second-order intuitionistic logic"
+  * 4-10 James Clift "System F: Polymorphic lambda calculus" 
+  * 11-10 William Troiani "Curry-Howard at second order"
+  * 18-10 TBD "System F in the real world: Haskell and functional programming"
   
 #### References
 
