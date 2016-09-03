@@ -23,7 +23,7 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 27-9 Samuel Lyons "Second-order intuitionistic logic"
   * 4-10 James Clift "System F: Polymorphic lambda calculus" 
   * 11-10 William Troiani "Curry-Howard at second order"
-  * 18-10 TBD "System F in the real world: Haskell and functional programming"
+  * 18-10 Daniel Murfet "System F in the real world: Haskell and functional programming"
   
 #### References
 
