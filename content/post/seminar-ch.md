@@ -17,7 +17,7 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 16-8 James Clift "Simply-typed lambda calculus and strong normalisation" (Chapter 3, [lecture notes](http://therisingsea.org/notes/talk-james-simplytyped.pdf))
   * 23-8 Shawn Standefer "Introduction to natural deduction" (Chapter 2, [lecture notes](http://therisingsea.org/notes/talk-shawn-introintuit.pdf))
   * 30-8 Daniel Murfet "The category of simply-typed lambda terms" ([lecture notes](http://therisingsea.org/notes/talk-catsimplytyped.pdf))
-  * 6-9 Shawn Standefer "Kripke semantics of intuitionistic logic"
+  * 6-9 Shawn Standefer "Kripke semantics of intuitionistic logic" ([lecture notes](http://therisingsea.org/notes/talk-shawn-kripke.pdf))
   * 13-9 **No live talk**, instead we'll watch (parts of) Wadler's [Propositions as types](https://www.youtube.com/watch?v=IOiZatlZtGU) and discuss
   * 20-9 Daniel Murfet "Proof of the Curry-Howard correspondence"
   * 27-9 Samuel Lyons "Second-order intuitionistic logic"
