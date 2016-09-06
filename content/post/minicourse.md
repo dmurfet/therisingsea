@@ -6,7 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
-* Generalised orbifolding of simple singularities, [minicourse at the IPMU](http://www.math.nagoya-u.ac.jp/~ohta/conference/conference2016_1/) ([lecture 1](http://therisingsea.org/notes/talk-ipmu-genorb1.pdf), [lecture 2](http://therisingsea.org/notes/talk-ipmu-genorb2.pdf)).
+* Generalised orbifolding of simple singularities, September 2016 [minicourse at the IPMU](http://www.math.nagoya-u.ac.jp/~ohta/conference/conference2016_1/) ([lecture 1](http://therisingsea.org/notes/talk-ipmu-genorb1.pdf), [lecture 2](http://therisingsea.org/notes/talk-ipmu-genorb2.pdf), [lecture 3](http://therisingsea.org/notes/talk-ipmu-genorb3.pdf)).
 * Generalised orbifolding of simple singularities, August 2016 at [Geometry at the ANU](https://maths-people.anu.edu.au/~alperj/geometry-at-the-anu.html) ([lecture notes](http://therisingsea.org/notes/talk-genorb.pdf)).
 * Two odd things about computation, October 2015 in Vienna and August 2016 in Melbourne ([slides](http://therisingsea.org/notes/talk-twothings.pdf) and [transcript](http://therisingsea.org/notes/talk-twothings-transcript.pdf)).
 * Topological Quantum Field Theory in two dimensions, July 2016 in Melbourne ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf)).
