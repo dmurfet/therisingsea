@@ -9,13 +9,13 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
 
 #### Schedule
 
-  * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf))
-  * 4-8 Patrick Elliott "Introduction to Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick.pdf))
-  * 11-8 Michelle Strumila "The cobordism category 2Cob" (beginning of Chapter 1, [lecture notes](http://therisingsea.org/notes/talk-michelle-2cob.pdf))
-  * 18-8 Omar Foda "Supersymmetry and Morse theory" (references are [Witten's paper](http://www.math.toronto.edu/mgualt/Morse%20Theory/Witten%20Morse%20Theory%20and%20Supersymmetry.pdf) and [Nicolas Mee's thesis](http://www.virtualimage.co.uk/nickmee/html/supersymmetry.html))
+  * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf)).
+  * 4-8 Patrick Elliott "Introduction to Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick.pdf)).
+  * 11-8 Michelle Strumila "The cobordism category 2Cob" (beginning of Chapter 1, [lecture notes](http://therisingsea.org/notes/talk-michelle-2cob.pdf)).
+  * 18-8 Omar Foda "Supersymmetry and Morse theory" (references are [Witten's paper](http://www.math.toronto.edu/mgualt/Morse%20Theory/Witten%20Morse%20Theory%20and%20Supersymmetry.pdf) and [Nicolas Mee's thesis](http://www.virtualimage.co.uk/nickmee/html/supersymmetry.html)).
   * 25-8 **No seminar**
-  * 1-9 Patrick Elliott "The category of Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick-catfrob.pdf))
-  * 8-9 Thomas Quella "Chern-Simons theory and the Jones polynomial"
+  * 1-9 Patrick Elliott "The category of Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick-catfrob.pdf)).
+  * 8-9 Thomas Quella "Chern-Simons theory as an example of a TQFT" ([lecture notes](http://therisingsea.org/notes/Talk20160908.pdf)).
   * 15-9 Campbell Wheeler "Symmetric monoidal categories and functors"
   * 22-9 Daniel Murfet "The cobordism category 2Cob, Part 2"
   * *Volunteers welcome*
