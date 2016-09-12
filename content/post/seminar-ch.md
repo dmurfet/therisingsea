@@ -20,10 +20,11 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 6-9 Shawn Standefer "Kripke semantics of intuitionistic logic" ([lecture notes](http://therisingsea.org/notes/talk-shawn-kripke.pdf))
   * 13-9 **No live talk**, instead we'll watch (parts of) Wadler's [Propositions as types](https://www.youtube.com/watch?v=IOiZatlZtGU) and discuss
   * 20-9 Daniel Murfet "Proof of the Curry-Howard correspondence"
-  * 27-9 Samuel Lyons "Second-order intuitionistic logic"
-  * 4-10 James Clift "System F: Polymorphic lambda calculus" 
-  * 11-10 William Troiani "Curry-Howard at second order"
-  * 18-10 Daniel Murfet "System F in the real world: Haskell and functional programming"
+  * 27-9 **Semester break**
+  * 4-10 Samuel Lyons "Second-order intuitionistic logic"
+  * 11-10 James Clift "System F: Polymorphic lambda calculus" 
+  * 18-10 William Troiani "Curry-Howard at second order"
+  * TBD Daniel Murfet "System F in the real world: Haskell and functional programming"
   
 #### References
 
@@ -42,3 +43,5 @@ For the more categorical aspects, see:
 #### Other
 
   * The functional programming language Haskell compiles internally to an extension of System F, which is discussed in Sorensen and Urzycz's text and is an extension of simply-typed lambda calculus. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl exploring how Haskell compiles to System F.
+
+  * An interesting [podcast](http://typetheorypodcast.com/) on Type Theory.

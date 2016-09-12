@@ -18,7 +18,8 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
   * 8-9 Thomas Quella "Chern-Simons theory as an example of a TQFT" ([lecture notes](http://therisingsea.org/notes/Talk20160908.pdf)).
   * 15-9 Campbell Wheeler "Symmetric monoidal categories and functors"
   * 22-9 Daniel Murfet "The cobordism category 2Cob, Part 2"
-  * *Volunteers welcome*
+  * 29-9 **Semester break**
+  * 6-10 TBD
   
 #### References
 
