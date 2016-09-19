@@ -25,6 +25,8 @@ It goes without saying that most of the results in my notes are from one book or
 
 #### Algebraic Geometry
 
+*  [Introduction to EGA I](http://therisingsea.org/notes/EGA1.pdf): The motivating ideas of modern algebraic geometry, presented beautifully by Grothendieck.
+
 *  [Sheaves of Groups and Rings](http://therisingsea.org/notes/SheavesOfSetsGroupsRings.pdf): (SGR) Sheaves of sets (incomplete), sheaves of abelian groups, stalks, sheaf Hom, tensor products, inverse and direct image, extension by zero.
 
 *  [Modules over a Ringed Space](http://therisingsea.org/notes/RingedSpaceModules.pdf"): (MRS) Inverse and direct image, tensor products, ideals, locally free sheaves, exponential tensor products, sheaf Hom, coinverse image and extension by zero. Sheaves of graded modules over sheaves of graded rings, quasi-structures, modules over schemes, sheaves of algebras and sheaves of graded algebras (Quite rough in places, I'm in the process of typing written notes).
@@ -126,3 +128,5 @@ It goes without saying that most of the results in my notes are from one book or
 *   [Algebra in a Category](http://therisingsea.org/notes/AlgebraInACategory.pdf): (ALCAT) Groups, rings and modules in an arbitrary category. Sheaves of groups, rings and modules and graded versions.
 
 *   [Linearised Categories](http://therisingsea.org/notes/LinearisedCategories.pdf): (LC) Generalise the group ring construction to the linearisation of any small category with respect to a sheaf of rings, the graded version of this construction. Includes proof that the category of graded sheaves of modules is grothendieck abelian.
+
+*   [Rings of Quotients](http://therisingsea.org/notes/Stenstrom.pdf): My notes from Stenstrom's book "Rings of Quotients", covering some basic material on modules, rings of fractions for noncommutative rings (Ore condition etc), Gabriel topologies, torsion theories, localisation with resect to a Gabriel topology, Giraud subcategories and their classification theorems.
