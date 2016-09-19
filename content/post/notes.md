@@ -129,4 +129,4 @@ It goes without saying that most of the results in my notes are from one book or
 
 *   [Linearised Categories](http://therisingsea.org/notes/LinearisedCategories.pdf): (LC) Generalise the group ring construction to the linearisation of any small category with respect to a sheaf of rings, the graded version of this construction. Includes proof that the category of graded sheaves of modules is grothendieck abelian.
 
-*   [Rings of Quotients](http://therisingsea.org/notes/Stenstrom.pdf): My notes from Stenstrom's book "Rings of Quotients", covering some basic material on modules, rings of fractions for noncommutative rings (Ore condition etc), Gabriel topologies, torsion theories, localisation with resect to a Gabriel topology, Giraud subcategories and their classification theorems.
+*   [Rings of Quotients](http://therisingsea.org/notes/Stenstrom.pdf): My notes from Stenstrom's book "Rings and Modules of Quotients", covering some basic material on modules, rings of fractions for noncommutative rings (Ore condition etc), Gabriel topologies, torsion theories, localisation with resect to a Gabriel topology, Giraud subcategories and their classification theorems.
