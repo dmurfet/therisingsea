@@ -17,9 +17,10 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
   * 1-9 Patrick Elliott "The category of Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick-catfrob.pdf)).
   * 8-9 Thomas Quella "Chern-Simons theory as an example of a TQFT" ([lecture notes](http://therisingsea.org/notes/Talk20160908.pdf)).
   * 15-9 Campbell Wheeler "Symmetric monoidal categories and functors" ([lecture notes](http://therisingsea.org/notes/talk-campbell-monoid.pdf)).
-  * 22-9 Daniel Murfet "The cobordism category 2Cob, Part 2"
-  * 29-9 **Semester break**
-  * 6-10 TBD
+  * 22-9 **No seminar**
+  * 29-9 **No seminar**
+  * 6-10 Daniel Murfet "The cobordism category 2Cob, Part 2"
+  * 13-10 TBD "2D TQFTs are equivalent to commutative Frobenius algebras"
   
 #### References
 
