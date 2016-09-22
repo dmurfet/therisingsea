@@ -45,3 +45,5 @@ For the more categorical aspects, see:
   * The functional programming language Haskell compiles internally to an extension of System F, which is discussed in Sorensen and Urzycz's text and is an extension of simply-typed lambda calculus. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl exploring how Haskell compiles to System F.
 
   * An interesting [podcast](http://typetheorypodcast.com/) on Type Theory.
+  
+  * Videos from the [ICFP 2016](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw?app=desktop).
