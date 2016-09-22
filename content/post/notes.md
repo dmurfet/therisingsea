@@ -25,7 +25,7 @@ It goes without saying that most of the results in my notes are from one book or
 
 #### Algebraic Geometry
 
-*  [Introduction to EGA I](http://therisingsea.org/notes/EGA1.pdf): The motivating ideas of modern algebraic geometry, presented beautifully by Grothendieck (translated with the help of Tamah Murfet).
+*  [Introduction to EGA I](http://therisingsea.org/notes/EGA1.pdf): The motivating ideas of modern algebraic geometry, presented beautifully by Grothendieck (translated with the help of Tamah Murfet, way back in 2003).
 
 *  [Sheaves of Groups and Rings](http://therisingsea.org/notes/SheavesOfSetsGroupsRings.pdf): (SGR) Sheaves of sets (incomplete), sheaves of abelian groups, stalks, sheaf Hom, tensor products, inverse and direct image, extension by zero.
 

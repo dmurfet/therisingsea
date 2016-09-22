@@ -47,3 +47,5 @@ For the more categorical aspects, see:
   * An interesting [podcast](http://typetheorypodcast.com/) on Type Theory.
   
   * Videos from the [ICFP 2016](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw?app=desktop).
+  
+* Videos from a recent functional programming conference [Compose](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5&app=desktop) in Melbourne.
