@@ -6,7 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
-* The category of simply-typed lambda terms, September 2016 ([lecture 1](http://therisingsea.org/notes/talk-catsimplytyped.pdf), [lecture 2](http://therisingsea.org/notes/talk-catsimplytyped2.pdf)).
+* The category of simply-typed lambda terms, September 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture 1](http://therisingsea.org/notes/talk-catsimplytyped.pdf), [lecture 2](http://therisingsea.org/notes/talk-catsimplytyped2.pdf)).
 * Sheaves of A-infinity algebras from matrix factorisations, September 2016 [at the IPMU](http://www.math.nagoya-u.ac.jp/~ohta/conference/conference2016_1/) ([lecture notes](http://therisingsea.org/notes/talk-ipmu-ainfmf.pdf)).
 * Generalised orbifolding, September 2016 [minicourse at the IPMU](http://www.math.nagoya-u.ac.jp/~ohta/conference/conference2016_1/) ([lecture 1](http://therisingsea.org/notes/talk-ipmu-genorb1.pdf), [lecture 2](http://therisingsea.org/notes/talk-ipmu-genorb2.pdf), [lecture 3](http://therisingsea.org/notes/talk-ipmu-genorb3.pdf)).
 * Generalised orbifolding of simple singularities, August 2016 at [Geometry at the ANU](https://maths-people.anu.edu.au/~alperj/geometry-at-the-anu.html) ([lecture notes](http://therisingsea.org/notes/talk-genorb.pdf)).
