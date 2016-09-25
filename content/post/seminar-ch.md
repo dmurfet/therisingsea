@@ -20,8 +20,8 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 6-9 Shawn Standefer "Kripke semantics of intuitionistic logic" ([lecture notes](http://therisingsea.org/notes/talk-shawn-kripke.pdf))
   * 13-9 **No live talk**, instead we'll watch (parts of) Wadler's [Propositions as types](https://www.youtube.com/watch?v=IOiZatlZtGU) and discuss
   * 20-9 Daniel Murfet "The category of simply-typed lambda terms II" ([lecture notes](http://therisingsea.org/notes/talk-catsimplytyped2.pdf) and an [appendix](http://therisingsea.org/notes/talk-catsimplytyped2-cuts.pdf))
-  * 27-9 **TBC** Daniel Murfet "Proof of the Curry-Howard correspondence"
-  * 4-10 Samuel Lyons "Second-order intuitionistic logic"
+  * 27-9 **No talk**
+  * 4-10 Daniel Murfet "Proof of the Curry-Howard correspondence"
   * 11-10 James Clift "System F: Polymorphic lambda calculus" 
   * 18-10 William Troiani "System F in the real world: Haskell and functional programming"
   
@@ -42,13 +42,12 @@ For the more categorical aspects, see:
 
 #### Other
 
-  * The functional programming language Haskell compiles internally to an extension of System F, which is discussed in Sorensen and Urzycz's text and is an extension of simply-typed lambda calculus. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl exploring how Haskell compiles to System F.
+* The functional programming language Haskell compiles internally to an extension of System F, which is discussed in Sorensen and Urzycz's text and is an extension of simply-typed lambda calculus. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl exploring how Haskell compiles to System F.
 
-  * An interesting [podcast](http://typetheorypodcast.com/) on Type Theory.
+* An interesting [podcast](http://typetheorypodcast.com/) on Type Theory.
   
-  * Videos from a recent functional programming conference [Compose](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5&app=desktop) in Melbourne.
+* Videos from the [ICFP 2016](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw?app=desktop).
   
-  * Video of Yann LeCun on [Deep Learning and the Future of AI](https://www.youtube.com/watch?v=wofXCQXq1pg). Perhaps there actually a missing *differentiable* column in the Curry-Howard correspondence. From 49:30 of the video: "Analogy through algebra: this is very important because a lot of us have been thinking
-that reasoning should not be done through logic or rules, but should be done through
-continuous mathematics. And the reason for that is that instead of symbols you have vectors,
-instead of logical operations you have continuous mathematical operations like linear algebra. The reason for doing is that is that now every operation the machine does is differentiable, so you can train it to do reasoning." (see 55:00 for memory).
+* Videos from a recent functional programming conference [Compose](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5&app=desktop) in Melbourne.
+  
+  * Video of Yann LeCun on [Deep Learning and the Future of AI](https://www.youtube.com/watch?v=wofXCQXq1pg). Perhaps there actually a missing *differentiable* column in the Curry-Howard correspondence. From 49:30 of the video: "Analogy through algebra: this is very important because a lot of us have been thinking that reasoning should not be done through logic or rules, but should be done through continuous mathematics. And the reason for that is that instead of symbols you have vectors, instead of logical operations you have continuous mathematical operations like linear algebra. The reason for doing is that is that now every operation the machine does is differentiable, so you can train it to do reasoning." (see 55:00 for memory).
