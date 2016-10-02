@@ -42,7 +42,7 @@ For the more categorical aspects, see:
 
 #### Other
 
-* The functional programming language Haskell compiles to an extension of System F. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl on this.
+* The functional programming language Haskell compiles to an extension of System F. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl on this, and a [talk by Simon Peyton Jones](https://www.youtube.com/watch?v=uR_VzYxvbxg).
 
 * An interesting [podcast](http://typetheorypodcast.com/) on Type Theory.
   
