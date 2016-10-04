@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* The Curry-Howard principle, October 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture notes](http://therisingsea.org/notes/talk-ch.pdf)).
 * The category of simply-typed lambda terms, September 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture 1](http://therisingsea.org/notes/talk-catsimplytyped.pdf), [lecture 2](http://therisingsea.org/notes/talk-catsimplytyped2.pdf)).
 * Sheaves of A-infinity algebras from matrix factorisations, September 2016 [at the IPMU](http://www.math.nagoya-u.ac.jp/~ohta/conference/conference2016_1/) ([lecture notes](http://therisingsea.org/notes/talk-ipmu-ainfmf.pdf)).
 * Generalised orbifolding, September 2016 [minicourse at the IPMU](http://www.math.nagoya-u.ac.jp/~ohta/conference/conference2016_1/) ([lecture 1](http://therisingsea.org/notes/talk-ipmu-genorb1.pdf), [lecture 2](http://therisingsea.org/notes/talk-ipmu-genorb2.pdf), [lecture 3](http://therisingsea.org/notes/talk-ipmu-genorb3.pdf)).
