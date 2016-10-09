@@ -19,8 +19,9 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
   * 15-9 Campbell Wheeler "Symmetric monoidal categories and functors" ([lecture notes](http://therisingsea.org/notes/talk-campbell-monoid.pdf)).
   * 22-9 **No seminar**
   * 29-9 **No seminar**
-  * 6-10 Daniel Murfet "The cobordism category 2Cob, Part 2"
-  * 13-10 TBD "2D TQFTs are equivalent to commutative Frobenius algebras"
+  * 5-10 **No seminar**
+  * 13-10 Daniel Murfet "The cobordism category 2Cob, Part 2"
+  * 20-10 Daniel Murfet "2D TQFTs are equivalent to commutative Frobenius algebras"
   
 #### References
 
