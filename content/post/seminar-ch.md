@@ -22,7 +22,7 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 20-9 Daniel Murfet "The category of simply-typed lambda terms II" ([lecture notes](http://therisingsea.org/notes/talk-catsimplytyped2.pdf) and an [appendix](http://therisingsea.org/notes/talk-catsimplytyped2-cuts.pdf))
   * 27-9 **No talk**
   * 4-10 Daniel Murfet "The Curry-Howard principle" ([lecture notes](http://therisingsea.org/notes/talk-ch.pdf))
-  * 11-10 James Clift "System F: Polymorphic lambda calculus" 
+  * 11-10 James Clift "System F: Polymorphic lambda calculus" ([lecture notes](http://therisingsea.org/notes/talk-james-systemF.pdf))
   * 18-10 William Troiani "System F in the real world: Haskell and functional programming"
   
 #### References
