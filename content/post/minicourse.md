@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* The cobordism category, October 2016 in the [TFT seminar](http://therisingsea.org/post/seminar-tft/) ([lecture notes](http://therisingsea.org/notes/talk-2cob.pdf)).
 * The Curry-Howard principle, October 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture notes](http://therisingsea.org/notes/talk-ch.pdf)).
 * The category of simply-typed lambda terms, September 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture 1](http://therisingsea.org/notes/talk-catsimplytyped.pdf), [lecture 2](http://therisingsea.org/notes/talk-catsimplytyped2.pdf)).
 * Sheaves of A-infinity algebras from matrix factorisations, September 2016 [at the IPMU](http://www.math.nagoya-u.ac.jp/~ohta/conference/conference2016_1/) ([lecture notes](http://therisingsea.org/notes/talk-ipmu-ainfmf.pdf)).

@@ -20,7 +20,7 @@ This is the webpage for the Topological Field Theory (TFT) seminar at the Univer
   * 22-9 **No seminar**
   * 29-9 **No seminar**
   * 5-10 **No seminar**
-  * 13-10 Daniel Murfet "The cobordism category 2Cob, Part 2"
+  * 13-10 Daniel Murfet "The cobordism category" ([lecture notes](http://therisingsea.org/notes/talk-2cob.pdf)).
   * 20-10 Daniel Murfet "2D TQFTs are equivalent to commutative Frobenius algebras"
   
 #### References
