@@ -23,7 +23,7 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 27-9 **No talk**
   * 4-10 Daniel Murfet "The Curry-Howard principle" ([lecture notes](http://therisingsea.org/notes/talk-ch.pdf))
   * 11-10 James Clift "System F: Polymorphic lambda calculus" ([lecture notes](http://therisingsea.org/notes/talk-james-systemF.pdf))
-  * 18-10 William Troiani "System F in the real world: Haskell and functional programming"
+  * 18-10 William Troiani "System F in the real world: Haskell and functional programming" (the referenced talk by Rich Hickey is "[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)")
   
 #### References
 
