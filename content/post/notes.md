@@ -42,6 +42,8 @@ It goes without saying that most of the results in my notes are from one book or
 *  [Section 3.7 - Serre Duality](http://therisingsea.org/notes/Section3.7-SerreDuality.pdf): (SDT) Notes on Serre Duality and dualising sheaves as presented in Hartshorne.
 *  [The Relative Proj Construction](http://therisingsea.org/notes/TheRelativeProjConstruction.pdf): (TRPC) Associating a Proj with a sheaf of graded algebras. The sheaf associated to a sheaf of graded modules, the graded module associated to a quasi-coherent sheaf, functorial properties, ideal sheaves and closed subschemes, the duple embedding, twisting with invertible sheaves. 
 *  [Ample Families](http://therisingsea.org/notes/AmpleFamilies.pdf): (AMF) Ample sheaves and ample families of sheaves on arbitrary schemes, as described in EGA and later SGA.
+* [Schemes via Noncommutative Localisation](http://therisingsea.org/notes/SchemesFromLocalisation.pdf): (SFL) Gabriel topologies and localisation with respect to them, the situation for commutative rings and how this relates to algebraic geometry. A lot of this is from Stenstrom's book.
+* [The Zariski site](http://therisingsea.org/notes/ZariskiTopology.pdf): (ZT) Definition of the Zariski site and the proof that schemes give sheaves on it. Probably directly from EGA, but I don't recall.
 
 #### Commutative Algebra
 
@@ -58,7 +60,8 @@ It goes without saying that most of the results in my notes are from one book or
 
 #### Category Theory and Noncommutative Algebra
 
-*   [Foundations for Category Theory](http://therisingsea.org/notes/FoundationsForCategoryTheory.pdf): (FCT) Outline of the problem of foundations in category theory, first order theories, NBG and associated problems, review of ZFC and grothendieck universes. This forms the logical background for all my notes.
+* [Basic Set Theory](http://therisingsea.org/notes/BasicSetTheory.pdf): (BST) Ordinal numbers, transfinite induction, cardinal numbers, cardinal operations, regular cardinals. 
+* [Foundations for Category Theory](http://therisingsea.org/notes/FoundationsForCategoryTheory.pdf): (FCT) Outline of the problem of foundations in category theory, first order theories, NBG and associated problems, review of ZFC and grothendieck universes. This forms the logical background for all my notes.
 *   [Abelian Categories](http://therisingsea.org/notes/AbelianCategories.pdf): (AC) Definition of categories, limits and colimits, functor categories, pointwise limits and colimits, adjoint functors, abelian categories, grothendieck abelian categories and reflective subcategories (mostly just to fix notation. These notes are not a complete reference on category theory).
 *   [Diagram Chasing in Abelian Categories](http://therisingsea.org/notes/DiagramChasingInAbelianCategories.pdf): (DCAC) Proving the Five Lemma in an abelian category, using an embedding to establish diagram chasing in arbitrary abelian categories (we use only the "first" embedding theorem into the category of abelian groups, since its proof is more accessible, and you probably have to do the same amount of work to avoid well-definedness issues for the connecting morphism even with the better embeddings).
 *   [Derived Functors](http://therisingsea.org/notes/DerivedFunctors.pdf): (DF) (co)chain complexes in an abelian category, (co)homology, projective and injective resolutions, left and right derived functors of additive functors between abelian categories, long exact (co)homology sequences, long exact sequences of derived functors, dimension shifting and acyclic resolutions, change of base, homology and colimits, cohomology and limits, delta functors.
