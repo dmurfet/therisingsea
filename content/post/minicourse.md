@@ -6,7 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
-* Derivatives of proofs in linear logic (joint with James Clift), May 2017 in Melbourne ([slides](http://therisingsea.org/notes/logic-talk-difflinearlogic.pdf) and [transcript](logic-talk-difflinearlogic-transcript.pdf)).
+* Derivatives of proofs in linear logic (joint with James Clift), May 2017 in Melbourne ([slides](http://therisingsea.org/notes/logic-talk-difflinearlogic.pdf) and [transcript](http://therisingsea.org/notes/logic-talk-difflinearlogic-transcript.pdf)).
 * The cobordism category, October 2016 in the [TFT seminar](http://therisingsea.org/post/seminar-tft/) ([lecture notes](http://therisingsea.org/notes/talk-2cob.pdf)).
 * The Curry-Howard principle, October 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture notes](http://therisingsea.org/notes/talk-ch.pdf)).
 * The category of simply-typed lambda terms, September 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture 1](http://therisingsea.org/notes/talk-catsimplytyped.pdf), [lecture 2](http://therisingsea.org/notes/talk-catsimplytyped2.pdf)).
