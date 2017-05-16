@@ -6,6 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
+* A tour of well-generated triangulated categories, May 2017 at [Neeman's 60th conference](https://www.math.uni-bielefeld.de/birep/meetings/neeman2017/) ([lecture notes](http://therisingsea.org/notes/talk-neeman-60th.pdf)).
 * Derivatives of proofs in linear logic (joint with James Clift), May 2017 in Melbourne ([slides](http://therisingsea.org/notes/logic-talk-difflinearlogic.pdf) and [transcript](http://therisingsea.org/notes/logic-talk-difflinearlogic-transcript.pdf)).
 * The cobordism category, October 2016 in the [TFT seminar](http://therisingsea.org/post/seminar-tft/) ([lecture notes](http://therisingsea.org/notes/talk-2cob.pdf)).
 * The Curry-Howard principle, October 2016 in the [CH seminar](http://therisingsea.org/post/seminar-ch/) ([lecture notes](http://therisingsea.org/notes/talk-ch.pdf)).
