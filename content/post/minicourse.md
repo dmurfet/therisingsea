@@ -6,7 +6,7 @@ title = "Recent talks"
 
 Slides from my recent talks:
 
-* Clifford algebras and 2D defect topological field theory, June 2017 at [Tensor Categories and Field Theory](https://sites.google.com/view/tensorcategories2017/home) ([lecture notes](http://therisingsea.org/notes/talk-cliffordtft.pdf).
+* Clifford algebras and 2D defect topological field theory, June 2017 at [Tensor Categories and Field Theory](https://sites.google.com/view/tensorcategories2017/home) ([lecture notes](http://therisingsea.org/notes/talk-cliffordtft.pdf)).
 * A tour of well-generated triangulated categories, May 2017 at [Neeman's 60th conference](https://www.math.uni-bielefeld.de/birep/meetings/neeman2017/) ([lecture notes](http://therisingsea.org/notes/talk-neeman-60th.pdf)).
 * Derivatives of proofs in linear logic (joint with James Clift), May 2017 in Melbourne ([slides](http://therisingsea.org/notes/logic-talk-difflinearlogic.pdf) and [transcript](http://therisingsea.org/notes/logic-talk-difflinearlogic-transcript.pdf)).
 * The cobordism category, October 2016 in the [TFT seminar](http://therisingsea.org/post/seminar-tft/) ([lecture notes](http://therisingsea.org/notes/talk-2cob.pdf)).
