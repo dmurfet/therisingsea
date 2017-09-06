@@ -1,11 +1,12 @@
 +++
 date = "2015-12-26T21:25:32-05:00"
-title = "Recent talks"
+title = "News"
 
 +++
 
 Slides from my recent talks:
 
+* Turing machines and coalgebras, September 2017 at [Neeman's 60th conference at ANU](http://maths.anu.edu.au/events/60th-birthday-amnon-neeman) ([lecture notes](http://therisingsea.org/notes/talk-loganu2017.pdf)).
 * Clifford algebras and 2D defect topological field theory, June 2017 at [Tensor Categories and Field Theory](https://sites.google.com/view/tensorcategories2017/home) ([lecture notes](http://therisingsea.org/notes/talk-cliffordtft.pdf)).
 * A tour of well-generated triangulated categories, May 2017 at [Neeman's 60th conference](https://www.math.uni-bielefeld.de/birep/meetings/neeman2017/) ([lecture notes](http://therisingsea.org/notes/talk-neeman-60th.pdf)).
 * Derivatives of proofs in linear logic (joint with James Clift), May 2017 in Melbourne ([slides](http://therisingsea.org/notes/logic-talk-difflinearlogic.pdf) and [transcript](http://therisingsea.org/notes/logic-talk-difflinearlogic-transcript.pdf)).
