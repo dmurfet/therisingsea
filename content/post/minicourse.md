@@ -6,6 +6,7 @@ title = "News"
 
 Slides from my recent talks:
 
+* Mini-course on A-infinity categories and matrix factorisations, September 2017 [at the IBS in Korea](https://cgp.ibs.re.kr/conferences/String_Field_Theory/) ([lecture 1](http://therisingsea.org/notes/talk-ibs2017-1.pdf)).
 * Turing machines and coalgebras, September 2017 at [Neeman's 60th conference at ANU](http://maths.anu.edu.au/events/60th-birthday-amnon-neeman) ([lecture notes](http://therisingsea.org/notes/talk-loganu2017.pdf)).
 * Clifford algebras and 2D defect topological field theory, June 2017 at [Tensor Categories and Field Theory](https://sites.google.com/view/tensorcategories2017/home) ([lecture notes](http://therisingsea.org/notes/talk-cliffordtft.pdf)).
 * A tour of well-generated triangulated categories, May 2017 at [Neeman's 60th conference](https://www.math.uni-bielefeld.de/birep/meetings/neeman2017/) ([lecture notes](http://therisingsea.org/notes/talk-neeman-60th.pdf)).
@@ -28,7 +29,7 @@ Slides from my recent talks:
 *  Stratifications and complexity in linear logic, March 2016 in the Melbourne logic seminar ([slides](http://therisingsea.org/notes/talk-stratifications.pdf) and [screencast](https://vimeo.com/160036378)).
 *  An introduction to A-infinity algebras, November 2015 in Melbourne ([lecture notes](http://therisingsea.org/notes/ainf-intro-talk.pdf)).
 
-I gave a [mini-course at the IBS in Korea](http://cgp.ibs.re.kr/conferences/MathematicalQuantumFieldTheory/) on topological field theory with defects, specifically the fusion of defects in topological Landau-Ginzburg models. This included several computer demos, the source for which can be found [on GitHub](https://github.com/dmurfet/mf).
+I gave a [mini-course at the IBS in Korea](http://cgp.ibs.re.kr/conferences/MathematicalQuantumFieldTheory/) in January 2016 on topological field theory with defects, specifically the fusion of defects in topological Landau-Ginzburg models. This included several computer demos, the source for which can be found [on GitHub](https://github.com/dmurfet/mf).
 
 *  Lecture 1: 2D TFT with defects and matrix factorisations ([lecture notes](http://therisingsea.org/notes/korea-lecture1.pdf)  and [video](https://vimeo.com/154577054)).
 *  Lecture 2: The bicategory of Landau-Ginzburg models ([lecture notes](http://therisingsea.org/notes/korea-lecture2.pdf) and [video](https://vimeo.com/154711340)).
