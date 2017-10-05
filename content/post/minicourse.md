@@ -4,6 +4,11 @@ title = "News"
 
 +++
 
+Recent papers of mine, and of my students:
+
+* James Clift's masters thesis, October 2017, [Turing machines and differential linear logic](http://therisingsea.org/notes/MScThesisJamesClift.pdf).
+* Patrick Elliott's masters thesis, October 2017, [A-infinity categories and matrix factorisations over hypersurface singularities](http://therisingsea.org/notes/MScThesisPatrickElliott.pdf).
+
 Slides from my recent talks:
 
 * Mini-course on A-infinity categories and matrix factorisations, September 2017 [at the IBS in Korea](https://cgp.ibs.re.kr/conferences/String_Field_Theory/) ([lecture 1](http://therisingsea.org/notes/talk-ibs2017-1.pdf), [lecture 2](http://therisingsea.org/notes/talk-ibs2017-2.pdf), [lecture 3](http://therisingsea.org/notes/talk-ibs2017-3.pdf)).
