@@ -9,7 +9,7 @@ This is the webpage for the Curry-Howard seminar at the University of Melbourne,
 
 Our aim this semester is to understand how to use adjoint functors and topoi to organise mathematical knowledge, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For more explanation see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf).
 
-The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home).
+The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
   
 #### Schedule
 
