@@ -13,7 +13,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   
 #### Schedule
 
-  * 8-3 Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf))
+  * 8-3 Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf), [video](https://vimeo.com/259518045))
   * 15-3 Daniel Murfet "The Curry-Howard correspondence"
   * 22-3 Will Troiani "Monads in category theory and computer science"
   * 29-3 James Clift "Towards the definition of a topos"
