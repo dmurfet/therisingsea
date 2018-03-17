@@ -10,15 +10,16 @@ This is the webpage for the Curry-Howard seminar at the University of Melbourne,
 Our aim this semester is to understand how to use adjoint functors and topoi to organise mathematical knowledge, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. For some additional motivation, see:
 
   * Caramello's paper "[The unification of mathematics via topos theory](https://arxiv.org/abs/1006.3930)",
-  * Cartier's paper "[A mad day's work: from Grothendieck to Connes and Kontsevich The evolution of concepts of space and symmetry](http://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/home.html)",
-  * The infinity-categorical [generalisation of topoi](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos) are important in homotopy type theory.
+  * Cartier's paper "[A mad day's work: from Grothendieck to Connes and Kontsevich](http://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/home.html)",
+  * [Higher topoi](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos) are important in homotopy type theory.
+  * Connes' talk on "[The arithmetic site](https://www.youtube.com/watch?v=FaGXxXuRhBI)".
   
 The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
   
 #### Schedule
 
   * 8-3 Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf), [video](https://vimeo.com/259518045))
-  * 15-3 Daniel Murfet "The Curry-Howard correspondence" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture2.pdf), the [notes](http://therisingsea.org/notes/talk-ch.pdf) from last semester and [additional thoughts](http://therisingsea.org/notes/samq.pdf) on Sam's question at the end)
+  * 15-3 Daniel Murfet "The Curry-Howard correspondence" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture2.pdf), [video](https://vimeo.com/260227984) relevant [notes](http://therisingsea.org/notes/talk-ch.pdf) from last semester and [additional thoughts](http://therisingsea.org/notes/samq.pdf) on Sam's question at the end)
   * 22-3 Will Troiani "Monads in category theory and computer science"
   * 29-3 James Clift "Towards the definition of a topos"
   
