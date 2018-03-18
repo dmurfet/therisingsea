@@ -1,15 +1,42 @@
 +++
 date = "2016-07-15T00:11:01-04:00"
-title = "Curry-Howard seminar 2016"
+title = "Curry-Howard seminar"
 menu = "main"
 
 +++
 
-The seminar has as its theme the growing field of connections between logic, functional programming and category theory, sometimes referred to as the [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) (or by the slogan "formulas-as-types, proofs-as-programs"). To receive announcements about the seminar [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. You should also check out the [Logic Seminar](http://blogs.unimelb.edu.au/logic/logic-seminar/) which has talks on more recent research in logic. **NOTE:** This is the webpage for the 2016 seminar, see [this page](http://therisingsea.org/post/seminar-ch-2018/) for the current seminar.
+This is the webpage for the [Curry-Howard]((https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)) seminar, which is about logic, categories and computation. The seminar is on **Thursdays from 2-3pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list or follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en). For previous semesters of the seminar, scroll down!
 
-Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard isomorphism", up to the proof of the original Curry-Howard correspondence (between simply-typed lambda calculus and intuitionistic logic) in Chapter 4, and to augment this with a third equivalence which involves category theory.
+Our aim this semester is to understand how to use adjoint functors and topoi to organise mathematical knowledge, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. For some additional motivation, see:
+
+  * Caramello's paper "[The unification of mathematics via topos theory](https://arxiv.org/abs/1006.3930)",
+  * Cartier's paper "[A mad day's work: from Grothendieck to Connes and Kontsevich](http://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/home.html)",
+  * [Higher topoi](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos) are important in homotopy type theory,
+  * Connes' talk on "[The arithmetic site](https://www.youtube.com/watch?v=FaGXxXuRhBI)".
   
-#### Schedule
+The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
+  
+#### Talk schedule
+
+  * 8-3 Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf) | [video](https://vimeo.com/259518045))
+  * 15-3 Daniel Murfet "The Curry-Howard correspondence (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture2.pdf) | [video](https://vimeo.com/260227984) | [more notes](http://therisingsea.org/notes/talk-ch.pdf) | [response](http://therisingsea.org/notes/samq.pdf) to Sam's question)
+  * 22-3 Will Troiani "Monads in category theory and computer science"
+  * 29-3 James Clift "The definition of a topos (Part 1)"
+  * James Clift "The definition of a topos (Part 2)"
+  * Daniel Murfet "First-order theories, models and morphisms"
+  
+#### References
+
+  * Mac lane, Moerdijk "Sheaves in Geometry and Logic".
+  * Lambek, Scott "Introduction to higher-order categorical logic"
+  * Barr, Wells "Toposes, triples and theories" 
+  * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)".
+  
+### Previous semesters of the seminar
+  
+#### S2 2016
+
+Our aim was to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard isomorphism", up to the proof of the original Curry-Howard correspondence (between simply-typed lambda calculus and intuitionistic logic) in Chapter 4.
 
   * 14-7 William Troiani "The Church-Rosser Theorem" ([lecture notes](http://therisingsea.org/notes/talk-will-churchrosser.pdf))
   * 2-8 William Troiani "Introduction to lambda calculus" (Sections 1.1-1.3, [lecture notes](http://therisingsea.org/notes/talk-will-lambda.pdf))
@@ -24,7 +51,7 @@ Our aim is to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard is
   * 11-10 James Clift "System F: Polymorphic lambda calculus" ([lecture notes](http://therisingsea.org/notes/talk-james-systemF.pdf))
   * 18-10 William Troiani "System F in the real world: Haskell and functional programming" ([lecture notes](http://therisingsea.org/notes/talk-will-haskell.pdf)) (the referenced talk by Rich Hickey is "[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)")
   
-#### References
+The references:
 
   * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)".
   * Girard, Lafont, Taylor "[Proofs and types](http://www.paultaylor.eu/stable/prot.pdf)".
