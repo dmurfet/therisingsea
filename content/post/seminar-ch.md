@@ -5,7 +5,7 @@ menu = "main"
 
 +++
 
-This is the webpage for the [Curry-Howard]((https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)) seminar, which is about logic, categories and computation. The seminar is on **Thursdays from 2-3pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list or follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en). For previous semesters of the seminar, scroll down!
+This is the webpage for the [Curry-Howard](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) seminar, which is about logic, categories and computation. The seminar is on **Thursdays from 2-3pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list or follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en). For previous semesters of the seminar, scroll down!
 
 Our aim this semester is to understand how to use adjoint functors and topoi to organise mathematical knowledge, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. For some additional motivation, see:
 
