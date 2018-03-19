@@ -1,5 +1,5 @@
 +++
-date = "2016-07-15T00:11:01-04:00"
+date = "2018-03-19T00:42:06+00:00"
 title = "Curry-Howard seminar"
 menu = "main"
 
@@ -23,7 +23,11 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 22-3 Will Troiani "Monads in category theory and computer science"
   * 29-3 James Clift "The definition of a topos (Part 1)"
   * James Clift "The definition of a topos (Part 2)"
-  * Daniel Murfet "First-order theories, models and morphisms"
+  * TBA "From higher-order logic to topoi (Part 1)"
+  * TBA "The topos of sheaves (Part 1)"
+  * TBA "From higher-order logic to topoi (Part 2)"
+  * TBA "The topos of sheaves (Part 2)"
+  * TBA "First-order theories and models in topoi"
   
 #### References
 
