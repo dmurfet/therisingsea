@@ -20,7 +20,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
 
   * 8-3 Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf) | [video](https://vimeo.com/259518045))
   * 15-3 Daniel Murfet "The Curry-Howard correspondence (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture2.pdf) | [video](https://vimeo.com/260227984) | [more notes](http://therisingsea.org/notes/talk-ch.pdf) | [response](http://therisingsea.org/notes/samq.pdf) to Sam's question)
-  * 22-3 Will Troiani "Monads in category theory and computer science"
+  * 22-3 Will Troiani "Monads in category theory and computer science" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture3.pdf))
   * 29-3 James Clift "The definition of a topos (Part 1)"
   * James Clift "The definition of a topos (Part 2)"
   * TBA "From higher-order logic to topoi (Part 1)"
