@@ -20,14 +20,17 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
 
   * 8-3 Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf) | [video](https://vimeo.com/259518045))
   * 15-3 Daniel Murfet "The Curry-Howard correspondence (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture2.pdf) | [video](https://vimeo.com/260227984) | [more notes](http://therisingsea.org/notes/talk-ch.pdf) | [response](http://therisingsea.org/notes/samq.pdf) to Sam's question)
-  * 22-3 Will Troiani "Monads in category theory and computer science" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture3.pdf))
+  * 22-3 Will Troiani "Monads and programs" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture3.pdf) | [video](https://vimeo.com/261278443))
   * 29-3 James Clift "The definition of a topos (Part 1)"
-  * James Clift "The definition of a topos (Part 2)"
-  * TBA "From higher-order logic to topoi (Part 1)"
-  * TBA "The topos of sheaves (Part 1)"
-  * TBA "From higher-order logic to topoi (Part 2)"
-  * TBA "The topos of sheaves (Part 2)"
-  * TBA "First-order theories and models in topoi"
+  * 5-4 **No talk** 
+  * 12-4 James Clift "The definition of a topos (Part 2)"
+  * 19-4 Patrick Elliott "The topos of sheaves (Part 1)"
+  * 26-4 Patrick Elliott "The topos of sheaves (Part 2)"
+  * 3-5 Daniel Murfet "Higher-order logic and topoi (Part 1)"
+  * 10-5 Daniel Murfet "Higher-order logic and topoi (Part 2)"
+  * 17-5 TBD "Geometric morphisms"
+  * 24-5 TBD "Classifying topoi (Part 1)"
+  * 31-5 TBD "Classifying topoi (Part 2)"
   
 #### References
 
