@@ -24,7 +24,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 29-3 James Clift "The definition of a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture4.pdf) | [video](https://vimeo.com/262515533))
   * 5-4 **No talk** 
   * 12-4 James Clift "The definition of a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture4.pdf) | [video](https://vimeo.com/264398841))
-  * 19-4 Patrick Elliott "Sheaves of sets (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture6.pdf))
+  * 19-4 Patrick Elliott "Sheaves of sets (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture6.pdf) | [video](https://vimeo.com/268009512))
   * 26-4 Patrick Elliott "Sheaves of sets (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture7.pdf))
   * 3-5 **No talk**
   * 10-5 Will Troiani "Higher-order logic and topoi (Part 1)"
