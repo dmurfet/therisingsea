@@ -11,6 +11,7 @@ Recent papers of mine, and of my students:
 
 Slides from my recent talks:
 
+* Derivatives of Turing machines in linear logic, May 2018 in the Melbourne pure math seminar ([lecture notes](http://therisingsea.org/notes/talk-turderiv.pdf))
 * Algebra and Artificial Intelligence, May 2018 in the Melbourne logic seminar ([slides](http://therisingsea.org/notes/talk-algebraai.pdf) | [video](https://vimeo.com/268308026))
 * Bar versus Koszul, April 2018 in the Melbourne topology seminar ([lecture notes](http://therisingsea.org/notes/talk-barvskoszul.pdf))
 * Mini-course on A-infinity categories and matrix factorisations, September 2017 [at the IBS in Korea](https://cgp.ibs.re.kr/conferences/String_Field_Theory/) ([lecture 1](http://therisingsea.org/notes/talk-ibs2017-1.pdf), [lecture 2](http://therisingsea.org/notes/talk-ibs2017-2.pdf), [lecture 3](http://therisingsea.org/notes/talk-ibs2017-3.pdf)).
