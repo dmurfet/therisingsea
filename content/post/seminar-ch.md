@@ -27,7 +27,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 19-4 Patrick Elliott "Sheaves of sets (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture6.pdf) | [video](https://vimeo.com/268009512))
   * 26-4 Patrick Elliott "Sheaves of sets (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture7.pdf) | [video](https://vimeo.com/268205555))
   * 3-5 **No talk**
-  * 10-5 Will Troiani "Higher-order logic and topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture8.pdf))
+  * 10-5 Will Troiani "Higher-order logic and topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture8.pdf) | [video](https://vimeo.com/269326119))
   * 17-5 Daniel Murfet "Higher-order logic and topoi (Part 2)"
   * 24-5 TBD "Classifying topoi (Part 1)"
   * 31-5 TBD "Classifying topoi (Part 2)"
