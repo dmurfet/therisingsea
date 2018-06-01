@@ -6,6 +6,8 @@ title = "News"
 
 Recent papers of mine, and of my students:
 
+* [Derivatives of Turing machines in Linear Logic](https://arxiv.org/abs/1805.11813) preprint with James Clift, May 2018.
+* [Encodings of Turing machines in Linear Logic](https://arxiv.org/abs/1805.10770) preprint with James Clift, May 2018.
 * [James Clift](mailto:jamesedwardclift@gmail.com)'s masters thesis, October 2017, [Turing machines and differential linear logic](http://therisingsea.org/notes/MScThesisJamesClift.pdf).
 * [Patrick Elliott](mailto:p.cd.elliott@gmail.com)'s masters thesis, October 2017, [A-infinity categories and matrix factorisations over hypersurface singularities](http://therisingsea.org/notes/MScThesisPatrickElliott.pdf).
 
