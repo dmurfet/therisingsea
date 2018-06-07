@@ -5,7 +5,7 @@ menu = "main"
 
 +++
 
-This is the webpage for the [Curry-Howard](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) seminar, which is about logic, categories and computation. The seminar is on **Thursdays from 2-3pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list or follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en). For previous semesters of the seminar, scroll down!
+This is the webpage for the [Curry-Howard](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) seminar, which is about logic, categories and computation. The seminar is on **Thursdays from 2-3pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list, follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en), or see all the videos on our [vimeo channel](https://vimeo.com/channels/1356315). For previous semesters of the seminar, scroll down!
 
 Our aim this semester is to understand how to use adjoint functors and topoi to organise mathematical knowledge, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. For some additional motivation, see:
 
@@ -28,9 +28,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 26-4 Patrick Elliott "Sheaves of sets (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture7.pdf) | [video](https://vimeo.com/268205555))
   * 3-5 **No talk**
   * 10-5 Will Troiani "Higher-order logic and topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture8.pdf) | [video](https://vimeo.com/269326119))
-  * 17-5 Daniel Murfet "Higher-order logic and topoi (Part 2)"
-  * 24-5 TBD "Classifying topoi (Part 1)"
-  * 31-5 TBD "Classifying topoi (Part 2)"
+  * 7-6 Daniel Murfet "Higher-order logic and topoi (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture9.pdf))
   
 #### References
 
@@ -77,10 +75,3 @@ For the more categorical aspects, see:
 
 * The functional programming language Haskell compiles to an extension of System F. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl on this, and a [talk by Simon Peyton Jones](https://www.youtube.com/watch?v=uR_VzYxvbxg).
 
-* An interesting [podcast](http://typetheorypodcast.com/) on Type Theory.
-  
-* Videos from the [ICFP 2016](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw?app=desktop) functional programming conference.
-  
-* Videos from a recent functional programming conference [Compose](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5&app=desktop) in Melbourne.
-  
-* Video of Yann LeCun on [Deep Learning and the Future of AI](https://www.youtube.com/watch?v=wofXCQXq1pg). Perhaps there is a missing *differentiable* column in the Curry-Howard correspondence. From 49:30 of the video: "Analogy through algebra: this is very important because a lot of us have been thinking that reasoning should not be done through logic or rules, but should be done through continuous mathematics. And the reason for that is that instead of symbols you have vectors, instead of logical operations you have continuous mathematical operations like linear algebra. The reason for doing is that is that now every operation the machine does is differentiable, so you can train it to do reasoning." (see 55:00 for memory).
