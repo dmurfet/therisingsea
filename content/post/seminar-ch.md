@@ -1,11 +1,11 @@
 +++
 date = "2018-03-19T00:42:06+00:00"
-title = "Curry-Howard seminar"
+title = "Logic seminar"
 menu = "main"
 
 +++
 
-This is the webpage for the [Curry-Howard](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) seminar, which is about logic, categories and computation. The seminar is on **Thursdays from 2-3pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list, follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en), or see all the videos on our [vimeo channel](https://vimeo.com/channels/1356315). For previous semesters of the seminar, scroll down!
+This is the webpage for the logic seminar, which is about logic, categories and computation. The seminar is on **Thursdays from 2-3pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list, follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en), or see all the videos on our [vimeo channel](https://vimeo.com/channels/1356315). For previous semesters of the seminar, scroll down!
 
 Our aim this semester is to understand how to use adjoint functors and topoi to organise mathematical knowledge, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. For some additional motivation, see:
 
@@ -27,7 +27,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 26-4 Patrick Elliott "Sheaves of sets (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture7.pdf) | [video](https://vimeo.com/268205555))
   * 10-5 Will Troiani "Higher-order logic and topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture8.pdf) | [video](https://vimeo.com/269326119))
   * 21-6 Daniel Murfet "Higher-order logic and topoi (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture9.pdf) | [video](https://vimeo.com/276873346))
-  * 28-6 Patrick Elliott "Sheaves form a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture10.pdf))
+  * 28-6 Patrick Elliott "Sheaves form a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture10.pdf) | [video](https://vimeo.com/277558756))
   * 5-7 Patrick Elliott "Sheaves form a topos (Part 2)"
   * 12-7 Daniel Murfet "Higher-order logic and topoi (Part 3)"
   * 19-7 Daniel Murfet "Classifying topoi (Part 1)"
