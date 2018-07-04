@@ -28,9 +28,9 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 10-5 Will Troiani "Higher-order logic and topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture8.pdf) | [video](https://vimeo.com/269326119))
   * 21-6 Daniel Murfet "Higher-order logic and topoi (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture9.pdf) | [video](https://vimeo.com/276873346))
   * 28-6 Patrick Elliott "Sheaves form a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture10.pdf) | [video](https://vimeo.com/277558756))
-  * 5-7 Patrick Elliott "Sheaves form a topos (Part 2)"
-  * 12-7 Daniel Murfet "Higher-order logic and topoi (Part 3)"
-  * 19-7 Daniel Murfet "Classifying topoi (Part 1)"
+  * 5-7 Patrick Elliott "Sheaves form a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture11.pdf))
+  * 12-7 Daniel Murfet "Classifying topoi (Part 1)"
+  * 19-7 James Clift "Internal language of topoi (Part 1)"
   * 26-7 Daniel Murfet "Classifying topoi (Part 2)"
   
 #### References
@@ -38,7 +38,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * Mac lane, Moerdijk "Sheaves in Geometry and Logic".
   * Lambek, Scott "Introduction to higher-order categorical logic"
   * Barr, Wells "Toposes, triples and theories" 
-  * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)".
+  * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](https://www.elsevier.com/books/lectures-on-the-curry-howard-isomorphism/sorensen/978-0-444-52077-7)".
   
 ### Previous semesters of the seminar
   
