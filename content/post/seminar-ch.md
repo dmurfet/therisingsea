@@ -28,7 +28,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 10-5 Lecture 8: Will Troiani "Higher-order logic and topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture8.pdf) | [video](https://vimeo.com/269326119))
   * 21-6 Lecture 9: Daniel Murfet "Higher-order logic and topoi (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture9.pdf) | [video](https://vimeo.com/276873346))
   * 28-6 Lecture 10: Patrick Elliott "Sheaves form a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture10.pdf) | [video](https://vimeo.com/277558756))
-  * 5-7 Lecture 11: Patrick Elliott "Sheaves form a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture11.pdf))
+  * 5-7 Lecture 11: Patrick Elliott "Sheaves form a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture11.pdf) | [video](https://vimeo.com/279269351))
   * 12-7 Lecture 12: Daniel Murfet "Classifying topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture12.pdf))
   * 19-7 James Clift "Internal language of topoi (Part 1)"
   * 26-7 Daniel Murfet "Classifying topoi (Part 2)"
