@@ -30,8 +30,9 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 28-6 Lecture 10: Patrick Elliott "Sheaves form a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture10.pdf) | [video](https://vimeo.com/277558756))
   * 5-7 Lecture 11: Patrick Elliott "Sheaves form a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture11.pdf) | [video](https://vimeo.com/279269351))
   * 12-7 Lecture 12: Daniel Murfet "Classifying topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture12.pdf) | [video](https://vimeo.com/279740146))
-  * 19-7 James Clift "Internal language of topoi (Part 1)"
-  * 26-7 Daniel Murfet "Classifying topoi (Part 2)"
+  * ?? James Clift "Internal language of topoi (Part 1)"
+  * ?? Daniel Murfet "Classifying topoi (Part 2)"
+  * ?? Will Troiani "The classifying space of rings"
   
 #### References
 
