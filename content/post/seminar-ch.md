@@ -5,7 +5,7 @@ menu = "main"
 
 +++
 
-This is the webpage for my seminar, the topic of which varies from semester to semester.  The seminar is on **Wednesdays from 3-4:30pm** in Room 107 of Peter Hall at the University of Melbourne. For announcements you can [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list, follow the seminar [on Twitter](https://twitter.com/chseminar?lang=en), or see all the videos on [Vimeo](https://vimeo.com/channels/1356315) or [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
+The seminar is on **Wednesdays from 3-4:30pm** in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [Vimeo](https://vimeo.com/channels/1356315) and [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
 
 Our aim this semester is to understand **how to use adjoint functors and topoi to organise mathematical knowledge**, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. For some additional motivation, see:
 
