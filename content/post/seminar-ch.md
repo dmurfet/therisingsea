@@ -31,9 +31,8 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 5-7 Lecture 11: Patrick Elliott "Sheaves form a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture11.pdf) | [video](https://vimeo.com/279269351))
   * 12-7 Lecture 12: Daniel Murfet "Classifying topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture12.pdf) | [video](https://vimeo.com/279740146))
   * 1-8 Lecture 13: James Clift "Higher-order logic and topoi (Part 3)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture13.pdf) | [video](https://vimeo.com/283164538))
-  * 8-8 **No talk**
-  * 15-8 Will Troiani "The classifying space of rings"
-  * 22-8 Daniel Murfet "Classifying topoi (Part 2)"
+  * 22-8 Will Troiani "The classifying space of rings" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture14.pdf))
+  * ??-8 Daniel Murfet "Classifying topoi (Part 2)"
   
 #### References
 
