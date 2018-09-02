@@ -4,7 +4,7 @@ title = "References on computation"
 
 +++
 
-My interest in the mathematical theory of computation is primarily due to the work of the brilliant logician [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard) on [linear logic](http://plato.stanford.edu/entries/logic-linear/). Below is a (not very comprehensive) list of references for the parts of the theory of computation that I either know a little about, or am interested in. The books can generally be downloaded in PDF form from [bookzz](http://www.bookzz.org), but do buy a copy as well.
+My interest in the mathematical theory of computation is primarily due to the work of the brilliant logician [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard) on [linear logic](http://plato.stanford.edu/entries/logic-linear/). Below is a (not very comprehensive) list of references for the parts of the theory of computation that I either know a little about, or am interested in.
 
 General "big picture" references on computation and logic:
 
@@ -32,7 +32,7 @@ Relations between computation and category theory:
 A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf) by John Baez and Mike Stay.
 *  [Categorical semantics of linear logic](http://www.pps.univ-paris-diderot.fr/~mellies/mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) by Paul-Andre Mellies.
 *  [Notions of computation and monads](https://core.ac.uk/download/files/145/21173011.pdf) by Eugenio Moggi.
-*  [Homotopy type theory](http://homotopytypetheory.org/) is a semantics of Martin-Lof type theory defined using homotopy-theory.
+*  [Homotopy type theory](http://homotopytypetheory.org/) is a semantics of Martin-Lof type theory defined using homotopy theory.
 
 Relations between computation and physics:
 
