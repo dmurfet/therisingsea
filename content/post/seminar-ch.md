@@ -16,7 +16,7 @@ Our aim this semester is to understand **how to use adjoint functors and topoi t
   
 The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
   
-#### Talk schedule
+Talk schedule:
 
   * 8-3 Lecture 1: Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf) | [video](https://vimeo.com/259518045))
   * 15-3 Lecture 2: Daniel Murfet "The Curry-Howard correspondence (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture2.pdf) | [video](https://vimeo.com/260227984) | [more notes](http://therisingsea.org/notes/talk-ch.pdf) | [response](http://therisingsea.org/notes/samq.pdf) to Sam's question)
@@ -32,10 +32,8 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   * 12-7 Lecture 12: Daniel Murfet "Classifying topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture12.pdf) | [video](https://vimeo.com/279740146))
   * 1-8 Lecture 13: James Clift "Higher-order logic and topoi (Part 3)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture13.pdf) | [video](https://vimeo.com/283164538))
   * 22-8 Lecture 14: Will Troiani "The classifying space of rings" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture14.pdf))
-  * ??-8 Lecture 15: Daniel Murfet "Classifying topoi (Part 2)"
-  * ??-9 Lecture 16: Daniel Murfet "Classifying topoi (Part 3)"
   
-#### References
+References:
 
   * Mac lane, Moerdijk "Sheaves in Geometry and Logic".
   * Lambek, Scott "Introduction to higher-order categorical logic"
@@ -44,7 +42,7 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   
 ### Previous semesters of the seminar
   
-#### S2 2016
+#### S2 2016 - Curry-Howard correspondence
 
 Our aim was to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard isomorphism", up to the proof of the original Curry-Howard correspondence (between simply-typed lambda calculus and intuitionistic logic) in Chapter 4.
 
@@ -61,28 +59,17 @@ Our aim was to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard i
   * 11-10 James Clift "System F: Polymorphic lambda calculus" ([lecture notes](http://therisingsea.org/notes/talk-james-systemF.pdf))
   * 18-10 William Troiani "System F in the real world: Haskell and functional programming" ([lecture notes](http://therisingsea.org/notes/talk-will-haskell.pdf)) (the referenced talk by Rich Hickey is "[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)")
   
-The references:
+References:
 
   * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)".
   * Girard, Lafont, Taylor "[Proofs and types](http://www.paultaylor.eu/stable/prot.pdf)".
   * Gallier "[Constructive Logics Part I](https://ai2-s2-pdfs.s3.amazonaws.com/55ec/dffd387d44e3d939a8a7dacf7c655a84a793.pdf)".
   * Wadler "[Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)".
   * Martin-Lof "[On the meanings of the logical constants and the justifications of the logical laws](https://www.andrew.cmu.edu/user/ulrikb/80-518-818/MartinLof83.pdf)".
-  
-For the more categorical aspects, see:
-
-  * Taylor "Practical foundations for mathematics"
-  * Lambek, Scott "Introduction to higher-order categorical logic"
-  * Barr, Wells "Toposes, triples and theories"
-  * Lawvere "Equality in hyperdoctrines and comprehension schema as an adjoint functor"
-
-Other
-
-* The functional programming language Haskell compiles to an extension of System F. There was a recent [blog post](http://www.stephendiehl.com/posts/ghc_03.html) by Stephen Diehl on this, and a [talk by Simon Peyton Jones](https://www.youtube.com/watch?v=uR_VzYxvbxg).
 
 #### S2 2016 - Topological field theory
 
-The theme for Semester 2 of 2016 is two-dimensional field theories, and our aim is to read [Kock's book](http://mat.uab.es/~kock/TQFT.html) on the equivalence between closed 2D TFTs and commutative Frobenius algebras. To receive announcements about the seminar [subscribe](http://www.tinyletter.com/dmurfet-tft) to the mailing list.
+Our aim was to read [Kock's book](http://mat.uab.es/~kock/TQFT.html) on the equivalence between closed 2D TFTs and commutative Frobenius algebras. The talks:
 
   * 28-7 Daniel Murfet "Topological Quantum Field Theory in two dimensions" ([slides](http://therisingsea.org/notes/talk-2dtqft.pdf)).
   * 4-8 Patrick Elliott "Introduction to Frobenius algebras" ([lecture notes](http://therisingsea.org/notes/talk-patrick.pdf)).
@@ -92,9 +79,8 @@ The theme for Semester 2 of 2016 is two-dimensional field theories, and our aim 
   * 8-9 Thomas Quella "Chern-Simons theory as an example of a TQFT" ([lecture notes](http://therisingsea.org/notes/Talk20160908.pdf)).
   * 15-9 Campbell Wheeler "Symmetric monoidal categories and functors" ([lecture notes](http://therisingsea.org/notes/talk-campbell-monoid.pdf)).
   * 13-10 Daniel Murfet "The cobordism category" ([lecture notes](http://therisingsea.org/notes/talk-2cob.pdf)).
-  * TBA Daniel Murfet "2D TQFTs are equivalent to commutative Frobenius algebras"
   
-The seminar is on hold until further notice. References:
+References:
 
   * [K] J. Kock's [TQFT book](http://mat.uab.es/~kock/TQFT.html).
   * [Ks] J. Kock's [short version of the TQFT book](http://mat.uab.es/~kock/TQFT/FS.pdf).
