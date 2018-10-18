@@ -6,7 +6,7 @@ title = "News"
 
 Recent papers of mine, and of my students:
 
-* [Albert Zhang](mailto:albert.y.zhang@gmail.com)'s masters thesis, October 2018, [Vertex algebras, Hopf algebras and lattices](http://therisingsea.org/notes/MScThesisAlbertZhang.pdf).
+* [Albert Zhang](mailto:albert.y.zhang@gmail.com)'s masters thesis, October 2018, [Vertex algebras, Hopf algebras and lattices](http://therisingsea.org/notes/MScThesisAlbertZhang.pdf) (and [talk slides](http://therisingsea.org/notes/albert-thesis-talk.pdf)).
 * [Derivatives of Turing machines in Linear Logic](https://arxiv.org/abs/1805.11813) preprint with James Clift, May 2018.
 * [Encodings of Turing machines in Linear Logic](https://arxiv.org/abs/1805.10770) preprint with James Clift, May 2018.
 * [James Clift](mailto:jamesedwardclift@gmail.com)'s masters thesis, October 2017, [Turing machines and differential linear logic](http://therisingsea.org/notes/MScThesisJamesClift.pdf).
