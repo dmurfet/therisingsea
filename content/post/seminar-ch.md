@@ -18,20 +18,21 @@ The seminar is supported by funding from [Data61](https://www.data61.csiro.au/),
   
 Talk schedule:
 
-  * 8-3 Lecture 1: Daniel Murfet "An invitation to topos theory" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture1.pdf) | [video](https://vimeo.com/259518045))
-  * 15-3 Lecture 2: Daniel Murfet "The Curry-Howard correspondence (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture2.pdf) | [video](https://vimeo.com/260227984) | [more notes](http://therisingsea.org/notes/talk-ch.pdf) | [response](http://therisingsea.org/notes/samq.pdf) to Sam's question)
-  * 22-3 Lecture 3: Will Troiani "Monads and programs" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture3.pdf) | [video](https://vimeo.com/261278443))
-  * 29-3 Lecture 4: James Clift "The definition of a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture4.pdf) | [video](https://vimeo.com/262515533))
-  * 12-4 Lecture 5: James Clift "The definition of a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture4.pdf) | [video](https://vimeo.com/264398841))
-  * 19-4 Lecture 6: Patrick Elliott "Sheaves of sets (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture6.pdf) | [video](https://vimeo.com/268009512))
-  * 26-4 Lecture 7: Patrick Elliott "Sheaves of sets (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture7.pdf) | [video](https://vimeo.com/268205555))
-  * 10-5 Lecture 8: Will Troiani "Higher-order logic and topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture8.pdf) | [video](https://vimeo.com/269326119))
-  * 21-6 Lecture 9: Daniel Murfet "Higher-order logic and topoi (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture9.pdf) | [video](https://vimeo.com/276873346))
-  * 28-6 Lecture 10: Patrick Elliott "Sheaves form a topos (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture10.pdf) | [video](https://vimeo.com/277558756))
-  * 5-7 Lecture 11: Patrick Elliott "Sheaves form a topos (Part 2)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture11.pdf) | [video](https://vimeo.com/279269351))
-  * 12-7 Lecture 12: Daniel Murfet "Classifying topoi (Part 1)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture12.pdf) | [video](https://vimeo.com/279740146))
-  * 1-8 Lecture 13: James Clift "Higher-order logic and topoi (Part 3)" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture13.pdf) | [video](https://vimeo.com/283164538))
-  * 22-8 Lecture 14: Will Troiani "The classifying space of rings" ([lecture notes](http://therisingsea.org/notes/ch2018-lecture14.pdf))
+  * Lecture 1: Daniel Murfet "An invitation to topos theory" ([notes](http://therisingsea.org/notes/ch2018-lecture1.pdf) | [video](https://vimeo.com/259518045))
+  * Lecture 2: Daniel Murfet "The Curry-Howard correspondence (Part 1)" ([notes](http://therisingsea.org/notes/ch2018-lecture2.pdf) | [video](https://vimeo.com/260227984) | [more notes](http://therisingsea.org/notes/talk-ch.pdf) | [response](http://therisingsea.org/notes/samq.pdf) to Sam's question)
+  * Lecture 3: Will Troiani "Monads and programs" ([notes](http://therisingsea.org/notes/ch2018-lecture3.pdf) | [video](https://vimeo.com/261278443))
+  * Lecture 4: James Clift "The definition of a topos (Part 1)" ([notes](http://therisingsea.org/notes/ch2018-lecture4.pdf) | [video](https://vimeo.com/262515533))
+  * Lecture 5: James Clift "The definition of a topos (Part 2)" ([notes](http://therisingsea.org/notes/ch2018-lecture4.pdf) | [video](https://vimeo.com/264398841))
+  * Lecture 6: Patrick Elliott "Sheaves of sets (Part 1)" ([notes](http://therisingsea.org/notes/ch2018-lecture6.pdf) | [video](https://vimeo.com/268009512))
+  * Lecture 7: Patrick Elliott "Sheaves of sets (Part 2)" ([notes](http://therisingsea.org/notes/ch2018-lecture7.pdf) | [video](https://vimeo.com/268205555))
+  * Lecture 8: Will Troiani "Higher-order logic and topoi (Part 1)" ([notes](http://therisingsea.org/notes/ch2018-lecture8.pdf) | [video](https://vimeo.com/269326119))
+  * Lecture 9: Daniel Murfet "Higher-order logic and topoi (Part 2)" ([notes](http://therisingsea.org/notes/ch2018-lecture9.pdf) | [video](https://vimeo.com/276873346))
+  * Lecture 10: Patrick Elliott "Sheaves form a topos (Part 1)" ([notes](http://therisingsea.org/notes/ch2018-lecture10.pdf) | [video](https://vimeo.com/277558756))
+  * Lecture 11: Patrick Elliott "Sheaves form a topos (Part 2)" ([notes](http://therisingsea.org/notes/ch2018-lecture11.pdf) | [video](https://vimeo.com/279269351))
+  * Lecture 12: Daniel Murfet "Classifying topoi (Part 1)" ([notes](http://therisingsea.org/notes/ch2018-lecture12.pdf) | [video](https://vimeo.com/279740146))
+  * Lecture 13: James Clift "Higher-order logic and topoi (Part 3)" ([notes](http://therisingsea.org/notes/ch2018-lecture13.pdf) | [video](https://vimeo.com/283164538))
+  * Lecture 14: Will Troiani "The classifying space of rings" ([notes](http://therisingsea.org/notes/ch2018-lecture14.pdf))
+  * Lecture 15: Daniel Murfet "Abstraction and adjunction" ([notes](http://therisingsea.org/notes/ch2018-lecture15.pdf))
   
 References:
 
