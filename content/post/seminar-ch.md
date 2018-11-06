@@ -5,16 +5,9 @@ menu = "main"
 
 +++
 
-The seminar is on **Wednesdays from 3-4:30pm** in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [Vimeo](https://vimeo.com/channels/1356315) and [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
+The seminar is held at irregular times in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [Vimeo](https://vimeo.com/channels/1356315) and [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
 
-Our aim this semester is to understand **how to use adjoint functors and topoi to organise mathematical knowledge**, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. For some additional motivation, see:
-
-  * Caramello's paper "[The unification of mathematics via topos theory](https://arxiv.org/abs/1006.3930)",
-  * Cartier's paper "[A mad day's work: from Grothendieck to Connes and Kontsevich](http://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/home.html)",
-  * [Higher topoi](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos) are important in homotopy type theory,
-  * Connes' talk on "[The arithmetic site](https://www.youtube.com/watch?v=FaGXxXuRhBI)".
-  
-The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
+Our aim of semester two 2018 was to understand **how to use adjoint functors and topoi to organise mathematical knowledge**, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
   
 Talk schedule:
 
@@ -40,6 +33,10 @@ References:
   * Lambek, Scott "Introduction to higher-order categorical logic"
   * Barr, Wells "Toposes, triples and theories" 
   * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](https://www.elsevier.com/books/lectures-on-the-curry-howard-isomorphism/sorensen/978-0-444-52077-7)".
+  * Caramello's paper "[The unification of mathematics via topos theory](https://arxiv.org/abs/1006.3930)",
+  * Cartier's paper "[A mad day's work: from Grothendieck to Connes and Kontsevich](http://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/home.html)",
+  * [Higher topoi](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos) are important in homotopy type theory,
+  * Connes' talk on "[The arithmetic site](https://www.youtube.com/watch?v=FaGXxXuRhBI)".
   
 ### Previous semesters of the seminar
   
