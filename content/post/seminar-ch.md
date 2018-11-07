@@ -25,7 +25,7 @@ Talk schedule:
   * Lecture 12: Daniel Murfet "Classifying topoi (Part 1)" ([notes](http://therisingsea.org/notes/ch2018-lecture12.pdf) | [video](https://vimeo.com/279740146))
   * Lecture 13: James Clift "Higher-order logic and topoi (Part 3)" ([notes](http://therisingsea.org/notes/ch2018-lecture13.pdf) | [video](https://vimeo.com/283164538))
   * Lecture 14: Will Troiani "The classifying space of rings" ([notes](http://therisingsea.org/notes/ch2018-lecture14.pdf))
-  * Lecture 15: Daniel Murfet "Abstraction and adjunction" ([notes](http://therisingsea.org/notes/ch2018-lecture15.pdf))
+  * Lecture 15: Daniel Murfet "Abstraction and adjunction" ([notes](http://therisingsea.org/notes/ch2018-lecture15.pdf) | [video1](https://youtu.be/AZduV9RDITM))
   
 References:
 
