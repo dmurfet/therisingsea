@@ -4,8 +4,9 @@ title = "News"
 
 +++
 
-Recent papers of mine, and of my students:
+Recent papers and lectures:
 
+* The [lecture notes and videos](http://therisingsea.org/post/mast30026/) for a semester course on Metric and Hilbert spaces (plus a [HOWTO](https://gist.github.com/dmurfet/a5e1d06cfa558db85cecb7e655976d19) on producing video lectures).
 * [Albert Zhang](mailto:albert.y.zhang@gmail.com)'s masters thesis, October 2018, [Vertex algebras, Hopf algebras and lattices](http://therisingsea.org/notes/MScThesisAlbertZhang.pdf) (and [talk slides](http://therisingsea.org/notes/albert-thesis-talk.pdf)).
 * [Derivatives of Turing machines in Linear Logic](https://arxiv.org/abs/1805.11813) preprint with James Clift, May 2018.
 * [Encodings of Turing machines in Linear Logic](https://arxiv.org/abs/1805.10770) preprint with James Clift, May 2018.
