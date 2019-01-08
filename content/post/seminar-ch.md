@@ -7,15 +7,13 @@ menu = "main"
 
 The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
 
-The aim of the seminar in semester one of 2019 is to understand aspects of **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one of the most promising approaches to making quantum computing work in practice is based on the homology and cohomology of surfaces! Moreover, some of [our neighbours](http://www.cqc2t.org/) here on campus are at the forefront of building quantum computers based on these ideas.
-
-For an entree to quantum computing, see the following recent talks:
+The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one of the most promising approaches to making quantum computing work in practice is based on the homology and cohomology of surfaces! Moreover, some of [our neighbours](http://www.cqc2t.org/) here on campus are at the forefront of building quantum computers based on these ideas. For an entree to quantum computing, see the following recent talks:
 
   * 2018 Australian of the Year Michelle Simmons "[The Einstein Lecture: The Quantum Computing Revolution](https://www.youtube.com/watch?v=FnPp73F5cnE)" (material on implementations of error correction from about 49:00).
   * Jason Alicea "[Topological Quantum Computing: Plenty of Room in the Middle](https://www.youtube.com/watch?v=qj-w6ISQL5Y)" 2018.
 
 
-*Draft* talk schedule:
+*Draft* talk schedule (beginning week 1):
 
   * Lecture 1: Daniel Murfet "Introduction to the seminar"
   * Lecture 2: James Clift "Universal Turing Machines"
@@ -24,7 +22,7 @@ For an entree to quantum computing, see the following recent talks:
   * Lecture 5: Isaac David Smith "Feynman's quantum circuits"
   * Lecture 6: Daniel Murfet "Deutsch's universal quantum computer (Part 1)"
   * Lecture 7: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
-  * Lecture 8: Hamideh Anjomshoa (?) "Applications of quantum computers"
+  * Lecture 8: TBD "Applications of quantum computers"
   * Lecture 9: Thomas Quella "Physical realisations of quantum computers"
   * Lecture 10: James Clift "Classical error correcting codes and multiplexing"
   * Lecture 11: Will Troiani "Crash course in homology and cohomology"
@@ -35,15 +33,17 @@ For an entree to quantum computing, see the following recent talks:
 
 Primary references:
 
-  * S. Arora, B. Barak "Computational complexity" 2009
-  * C. H. Bennett "[Logical reversibility of computation](https://www.math.ucsd.edu/~sbuss/CourseWeb/Math268_2013W/Bennett_Reversibiity.pdf)" 1973
-  * R. Feynman "[Lectures on Computation](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)" 1996.
-  * D. Deutsch, "[Quantum theory, the Church-Turing principle and the quantum computer](https://people.eecs.berkeley.edu/~christos/classics/Deutsch_quantum_theory.pdf)” 1985.
-  * E. Dennis, A. Kitaev, A. Landahl, J. Preskill "[Topological quantum memory](https://arxiv.org/abs/quant-ph/0110143v1)" 2001
-  * A. Kitaev “[Fault-tolerant quantum computation by anyons](https://arxiv.org/abs/quant-ph/9707021)” 2003.
-  * C. Hill, E. Peretez, S. J. Hile, M. G. House, M. Fuechsle, S. Rogge, M. Y. Simmons and L. C. L. Hollenberg “[A surface code quantum computer in silicon](http://advances.sciencemag.org/content/1/9/e1500707)” 2015
-  * M. Nielsen, I. Chuang "Quantum computation and quantum information" 2010.
-  
+  * [AB] S. Arora, B. Barak "Computational complexity" 2009
+  * [B] C. H. Bennett "[Logical reversibility of computation](https://www.math.ucsd.edu/~sbuss/CourseWeb/Math268_2013W/Bennett_Reversibiity.pdf)" 1973
+  * [F] R. Feynman "[Lectures on Computation](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)" 1996.
+  * [D] D. Deutsch, "[Quantum theory, the Church-Turing principle and the quantum computer](https://people.eecs.berkeley.edu/~christos/classics/Deutsch_quantum_theory.pdf)” 1985.
+  * [DKLP] E. Dennis, A. Kitaev, A. Landahl, J. Preskill "[Topological quantum memory](https://arxiv.org/abs/quant-ph/0110143v1)" 2001
+  * [K] A. Kitaev “[Fault-tolerant quantum computation by anyons](https://arxiv.org/abs/quant-ph/9707021)” 2003.
+  * [C] C. Hill, E. Peretez, S. J. Hile, M. G. House, M. Fuechsle, S. Rogge, M. Y. Simmons and L. C. L. Hollenberg “[A surface code quantum computer in silicon](http://advances.sciencemag.org/content/1/9/e1500707)” 2015
+  * [NC] M. Nielsen, I. Chuang "Quantum computation and quantum information" 2010.
+
+Explanation of the talk schedule: the aim by the end of the semester is to understand what a universal quantum computer is [D] and how the surface code introduced in [DKLP] and elaborated in [C] solves the main problem that one faces in actually physically realising such a computer, namely, quantum error correction. To understand what a universal quantum computer is, one has to first know what universal computation means (hence, Universal Turing Machines) and what reversible computation means, and to understand quantum error correction it is important to have seen classical error correction.
+
 Other useful links:
 
   * D. Brown, "[Lectures on topological codes and quantum computation](https://sites.google.com/site/danbrowneucl/teaching/lectures-on-topological-codes-and-quantum-computation)"
