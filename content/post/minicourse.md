@@ -6,7 +6,7 @@ title = "News"
 
 Recent papers and lectures:
 
-* The [lecture notes and videos](http://therisingsea.org/post/mast30026/) for a semester course on Metric and Hilbert spaces (plus a [HOWTO](https://gist.github.com/dmurfet/a5e1d06cfa558db85cecb7e655976d19) on producing video lectures).
+* The [notes and videos](http://therisingsea.org/post/mast30026/) for a course on Metric and Hilbert spaces (and [video HOWTO](https://gist.github.com/dmurfet/a5e1d06cfa558db85cecb7e655976d19)).
 * [Albert Zhang](mailto:albert.y.zhang@gmail.com)'s masters thesis, October 2018, [Vertex algebras, Hopf algebras and lattices](http://therisingsea.org/notes/MScThesisAlbertZhang.pdf) (and [talk slides](http://therisingsea.org/notes/albert-thesis-talk.pdf)).
 * [Derivatives of Turing machines in Linear Logic](https://arxiv.org/abs/1805.11813) preprint with James Clift, May 2018.
 * [Encodings of Turing machines in Linear Logic](https://arxiv.org/abs/1805.10770) preprint with James Clift, May 2018.
@@ -15,6 +15,8 @@ Recent papers and lectures:
 
 Slides from my recent talks:
 
+* Derivatives of Turing machines and inductive inference, Novermber 2018 at Peking University ([lecture notes](http://therisingsea.org/notes/talk-beida-tm-2018.pdf))
+* The computational content of Landau-Ginzburg models, November 2018 at BICMR, Beijing ([lecture notes](http://therisingsea.org/notes/talk-beida-lg-2018.pdf))
 * Derivatives of Turing machines in linear logic, May 2018 in the Melbourne pure math seminar ([lecture notes](http://therisingsea.org/notes/talk-turderiv.pdf))
 * Algebra and Artificial Intelligence, May 2018 in the Melbourne logic seminar ([slides](http://therisingsea.org/notes/talk-algebraai.pdf) | [video](https://vimeo.com/268308026))
 * Bar versus Koszul, April 2018 in the Melbourne topology seminar ([lecture notes](http://therisingsea.org/notes/talk-barvskoszul.pdf))

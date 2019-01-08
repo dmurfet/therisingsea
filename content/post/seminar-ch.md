@@ -5,9 +5,48 @@ menu = "main"
 
 +++
 
-The seminar is held at irregular times in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [Vimeo](https://vimeo.com/channels/1356315) and [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
+The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
 
-Our aim of semester two 2018 was to understand **how to use adjoint functors and topoi to organise mathematical knowledge**, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
+The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. The topic is of substantial commercial and physical interest, but it is also of intrinsic mathematical interest: for example, it is quite remarkable that the most promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces!
+
+Talk schedule:
+
+  * Lecture 1: Daniel Murfet "Introduction to the seminar"
+  * Lecture 2: James Clift "Universal Turing Machines"
+  * Lecture 3: Will Troiani "Reversible Turing Machines"
+  * Lecture 4: Thomas Quella "Crash course in quantum mechanics"
+  * Lecture 5: Isaac David Smith "Feynman's quantum circuits"
+  * Lecture 6: James Clift "Deutsch's universal quantum computer (Part 1)"
+  * Lecture 7: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
+  * Lecture 8: Hamideh Anjomshoa (?) "Applications of quantum computers"
+  * Lecture 9: Thomas Quella "Physical realisations of quantum computers"
+  * Lecture 10: James Clift "Classical error correcting codes and multiplexing"
+  * Lecture 11: Will Troiani "Crash course in homology and cohomology"
+  * Lecture 12: Daniel Murfet "Topological error correcting codes (Part 1)"
+  * Lecture 13: Daniel Murfet "Topological error correcting codes (Part 2)"
+  * Lecture 14: Thomas Quella "Tensor networks and quantum computation"
+  * Lecture 15: Chris Hill "Open problems for mathematicians"
+
+Primary references:
+
+  * S. Arora, B. Barak "Computational complexity" 2009
+  * C. H. Bennett "[Logical reversibility of computation](https://www.math.ucsd.edu/~sbuss/CourseWeb/Math268_2013W/Bennett_Reversibiity.pdf)" 1973
+  * R. Feynman "[Lectures on Computation](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)" 1996.
+  * D. Deutsch, "[Quantum theory, the Church-Turing principle and the quantum computer](https://people.eecs.berkeley.edu/~christos/classics/Deutsch_quantum_theory.pdf)” 1985.
+  * E. Dennis, A. Kitaev, A. Landahl, J. Preskill "[Topological quantum memory](https://arxiv.org/abs/quant-ph/0110143v1)" 2001
+  * A. Kitaev “[Fault-tolerant quantum computation by anyons](https://arxiv.org/abs/quant-ph/9707021)” 2003.
+  * C. Hill, E. Peretez, S. J. Hile, M. G. House, M. Fuechsle, S. Rogge, M. Y. Simmons and L. C. L. Hollenberg “[A surface code quantum computer in silicon](http://advances.sciencemag.org/content/1/9/e1500707)” 2015
+  * M. Nielsen, I. Chuang "Quantum computation and quantum information" 2010.
+  
+Other useful links:
+
+  * D. Brown, "[Lectures on topological codes and quantum computation](https://sites.google.com/site/danbrowneucl/teaching/lectures-on-topological-codes-and-quantum-computation)"
+  
+### Previous semesters of the seminar
+
+#### S2 2018 - Topos theory and logic
+
+Our aim in the second semester of 2018 was to understand **how to use adjoint functors and topoi to organise mathematical knowledge**, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
   
 Talk schedule:
 
@@ -37,8 +76,6 @@ References:
   * Cartier's paper "[A mad day's work: from Grothendieck to Connes and Kontsevich](http://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/home.html)",
   * [Higher topoi](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos) are important in homotopy type theory,
   * Connes' talk on "[The arithmetic site](https://www.youtube.com/watch?v=FaGXxXuRhBI)".
-  
-### Previous semesters of the seminar
   
 #### S2 2016 - Curry-Howard correspondence
 
