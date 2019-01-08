@@ -7,16 +7,22 @@ menu = "main"
 
 The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
 
-The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. The topic is of substantial commercial and physical interest, but it is also of intrinsic mathematical interest: for example, it is quite remarkable that the most promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces!
+The aim of the seminar in semester one of 2019 is to understand aspects of **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one of the most promising approaches to making quantum computing work in practice is based on the homology and cohomology of surfaces! Moreover, some of [our neighbours](http://www.cqc2t.org/) here on campus are at the forefront of building quantum computers based on these ideas.
 
-Talk schedule:
+For an entree to quantum computing, see the following recent talks:
+
+  * 2018 Australian of the Year Michelle Simmons "[The Einstein Lecture: The Quantum Computing Revolution](https://www.youtube.com/watch?v=FnPp73F5cnE)" (material on implementations of error correction from about 49:00).
+  * Jason Alicea "[Topological Quantum Computing: Plenty of Room in the Middle](https://www.youtube.com/watch?v=qj-w6ISQL5Y)" 2018.
+
+
+*Draft* talk schedule:
 
   * Lecture 1: Daniel Murfet "Introduction to the seminar"
   * Lecture 2: James Clift "Universal Turing Machines"
   * Lecture 3: Will Troiani "Reversible Turing Machines"
   * Lecture 4: Thomas Quella "Crash course in quantum mechanics"
   * Lecture 5: Isaac David Smith "Feynman's quantum circuits"
-  * Lecture 6: James Clift "Deutsch's universal quantum computer (Part 1)"
+  * Lecture 6: Daniel Murfet "Deutsch's universal quantum computer (Part 1)"
   * Lecture 7: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
   * Lecture 8: Hamideh Anjomshoa (?) "Applications of quantum computers"
   * Lecture 9: Thomas Quella "Physical realisations of quantum computers"
@@ -41,6 +47,7 @@ Primary references:
 Other useful links:
 
   * D. Brown, "[Lectures on topological codes and quantum computation](https://sites.google.com/site/danbrowneucl/teaching/lectures-on-topological-codes-and-quantum-computation)"
+  * National Academies of Sciences, Engineering, and Medicine "[Quantum Computing: Progress and Prospects](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)" 2018.
   
 ### Previous semesters of the seminar
 
