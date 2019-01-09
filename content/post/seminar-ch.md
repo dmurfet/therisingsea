@@ -12,24 +12,26 @@ The aim of the seminar in semester one of 2019 is to understand **topological er
   * 2018 Australian of the Year Michelle Simmons "[The Einstein Lecture: The Quantum Computing Revolution](https://www.youtube.com/watch?v=FnPp73F5cnE)" (material on implementations of error correction from about 49:00).
   * Jason Alicea "[Topological Quantum Computing: Plenty of Room in the Middle](https://www.youtube.com/watch?v=qj-w6ISQL5Y)" 2018.
 
+Preliminary talks (preceding the semester):
 
+  * Lecture A: James Clift "Universal Turing Machines"
+  * Lecture B: Will Troiani "Reversible Turing Machines"
+  
 *Draft* talk schedule (beginning week 1):
 
   * Lecture 1: Daniel Murfet "Introduction to the seminar"
-  * Lecture 2: James Clift "Universal Turing Machines"
-  * Lecture 3: Will Troiani "Reversible Turing Machines"
-  * Lecture 4: Thomas Quella "Crash course in quantum mechanics"
-  * Lecture 5: Isaac David Smith "Feynman's quantum circuits"
-  * Lecture 6: Daniel Murfet "Deutsch's universal quantum computer (Part 1)"
-  * Lecture 7: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
-  * Lecture 8: TBD "Applications of quantum computers"
-  * Lecture 9: Thomas Quella "Physical realisations of quantum computers"
-  * Lecture 10: James Clift "Classical error correcting codes and multiplexing"
-  * Lecture 11: Will Troiani "Crash course in homology and cohomology"
-  * Lecture 12: Daniel Murfet "Topological error correcting codes (Part 1)"
-  * Lecture 13: Daniel Murfet "Topological error correcting codes (Part 2)"
-  * Lecture 14: Thomas Quella "Tensor networks and quantum computation"
-  * Lecture 15: Chris Hill "Open problems for mathematicians"
+  * Lecture 2: Thomas Quella "Crash course in quantum mechanics"
+  * Lecture 3: Isaac David Smith "Feynman's quantum circuits"
+  * Lecture 4: Daniel Murfet "Deutsch's universal quantum computer (Part 1)"
+  * Lecture 5: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
+  * Lecture 6: TBD "Applications of quantum computers"
+  * Lecture 7: Thomas Quella "Physical realisations of quantum computers"
+  * Lecture 8: James Clift "Classical error correcting codes and multiplexing"
+  * Lecture 9: Will Troiani "Crash course in homology and cohomology"
+  * Lecture 10: Daniel Murfet "Topological error correcting codes (Part 1)"
+  * Lecture 11: Daniel Murfet "Topological error correcting codes (Part 2)"
+  * Lecture 12: Thomas Quella "Tensor networks and quantum computation"
+  * Lecture 13: Charles Hill "Open problems for mathematicians"
 
 Primary references:
 
