@@ -7,7 +7,11 @@ menu = "main"
 
 The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
 
-The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one of the most promising approaches to making quantum computing work in practice is based on the homology and cohomology of surfaces! Moreover, some of [our neighbours](http://www.cqc2t.org/) here on campus are at the forefront of building quantum computers based on these ideas. For an entree to quantum computing, see the following recent talks:
+The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces. Moreover, some of [our neighbours](http://www.cqc2t.org/) are at the forefront of building quantum computers based on these ideas. An attractive feature of the subject is the sheer boldness of the underlying ideas, for example in Deutsch's paper on universal quantum computation he writes in a section titled "Programming physics":
+
+> To view the Church-Turing hypothesis as a physical principle does not merely make computer science a branch of physics. It also makes part of experimental physics into a branch of computer science. The existence of a universal quantum computer Q implies that there exists a program for each physical process.
+
+For an entree to quantum computing, see the following recent talks:
 
   * 2018 Australian of the Year Michelle Simmons "[The Einstein Lecture: The Quantum Computing Revolution](https://www.youtube.com/watch?v=FnPp73F5cnE)" (material on implementations of error correction from about 49:00).
   * Jason Alicea "[Topological Quantum Computing: Plenty of Room in the Middle](https://www.youtube.com/watch?v=qj-w6ISQL5Y)" 2018.
@@ -22,7 +26,7 @@ Preliminary talks (preceding the semester):
   * Lecture 1: Daniel Murfet "Introduction to the seminar"
   * Lecture 2: Thomas Quella "Crash course in quantum mechanics"
   * Lecture 3: Isaac David Smith "Feynman's quantum circuits"
-  * Lecture 4: Daniel Murfet "Deutsch's universal quantum computer (Part 1)"
+  * Lecture 4: Will Troiani "Deutsch's universal quantum computer (Part 1)"
   * Lecture 5: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
   * Lecture 6: TBD "Applications of quantum computers"
   * Lecture 7: Thomas Quella "Physical realisations of quantum computers"
