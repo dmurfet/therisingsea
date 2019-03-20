@@ -5,6 +5,8 @@ menu = "main"
 
 +++
 
+**UPDATE:** The seminar webpage has moved [here](http://researchers.ms.unimelb.edu.au/~tquella@unimelb/#QC).
+
 The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
 
 The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces. Moreover, some of [our neighbours](http://www.cqc2t.org/) are at the forefront of building quantum computers based on these ideas. An attractive feature of the subject is the sheer boldness of the underlying ideas, for example in Deutsch's paper on universal quantum computation he writes in a section titled "Programming physics":
