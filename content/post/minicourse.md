@@ -6,6 +6,7 @@ title = "News"
 
 Recent papers and lectures:
 
+* [Will Troiani](mailto:william.a.troiani@gmail.com)'s masters thesis, May 2019, [Simplicial sets are algorithms](http://therisingsea.org/notes/MScThesisWillTroiani.pdf).
 * [Constructing A-infinity categories of matrix factorisations](https://arxiv.org/abs/1903.07211) preprint, March 2019 (my [working notes](https://gist.github.com/dmurfet/aca4146882870ea3dd6a1af793b1b90b) are available).
 * The [notes and videos](http://therisingsea.org/post/mast30026/) for a course on Metric and Hilbert spaces (and [video HOWTO](https://gist.github.com/dmurfet/a5e1d06cfa558db85cecb7e655976d19)).
 * [Albert Zhang](mailto:albert.y.zhang@gmail.com)'s masters thesis, October 2018, [Vertex algebras, Hopf algebras and lattices](http://therisingsea.org/notes/MScThesisAlbertZhang.pdf) (and [talk slides](http://therisingsea.org/notes/albert-thesis-talk.pdf)).
