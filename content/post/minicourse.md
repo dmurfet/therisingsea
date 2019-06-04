@@ -17,6 +17,7 @@ Recent papers and lectures:
 
 Slides from my recent talks:
 
+* Proof synthesis and differential linear logic, June 2019 at [CARMA](https://carma.newcastle.edu.au/meetings/cap/) ([slides](http://therisingsea.org/notes/talk-carma.pdf))
 * Derivatives of Turing machines and inductive inference, Novermber 2018 at Peking University ([lecture notes](http://therisingsea.org/notes/talk-beida-tm-2018.pdf))
 * The computational content of Landau-Ginzburg models, November 2018 at BICMR, Beijing ([lecture notes](http://therisingsea.org/notes/talk-beida-lg-2018.pdf))
 * Derivatives of Turing machines in linear logic, May 2018 in the Melbourne pure math seminar ([lecture notes](http://therisingsea.org/notes/talk-turderiv.pdf))
