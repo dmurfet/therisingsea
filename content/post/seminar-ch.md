@@ -5,9 +5,27 @@ menu = "main"
 
 +++
 
-**UPDATE:** The seminar webpage has moved [here](http://researchers.ms.unimelb.edu.au/~tquella@unimelb/#QC).
 
 The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
+
+In semester two of 2019 we are going to study **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+
+* [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
+
+* [AlphaStar blog post](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+
+Background on deep learning and reinforcement learning:
+
+* I. Goodfellow, Y. Bengio, A. Courville "[Deep learning](https://www.deeplearningbook.org/)"
+* R. S. Sutton and A. G. Barto "[Reinforcement learning](http://www.incompleteideas.net/book/the-book-2nd.html)" 2nd edution, 2018.
+* C. F. Higham, D. J. Higham "[Deep learning: an introduction for applied mathematicians](https://arxiv.org/abs/1801.05894)"
+* F. Chollet "Deep learning with Python" (practical)
+  
+### Previous semesters of the seminar
+
+#### S1 2019 - Topological quantum computing
+
+**UPDATE:** The seminar webpage has moved [here](http://researchers.ms.unimelb.edu.au/~tquella@unimelb/#QC).
 
 The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces. Moreover, some of [our neighbours](http://www.cqc2t.org/) are at the forefront of building quantum computers based on these ideas. An attractive feature of the subject is the sheer boldness of the underlying ideas, for example in Deutsch's paper on universal quantum computation he writes in a section titled "Programming physics":
 
@@ -57,8 +75,6 @@ Other useful links:
   * D. Brown, "[Lectures on topological codes and quantum computation](https://sites.google.com/site/danbrowneucl/teaching/lectures-on-topological-codes-and-quantum-computation)"
   * National Academies of Sciences, Engineering, and Medicine "[Quantum Computing: Progress and Prospects](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)" 2018.
   
-### Previous semesters of the seminar
-
 #### S2 2018 - Topos theory and logic
 
 Our aim in the second semester of 2018 was to understand **how to use adjoint functors and topoi to organise mathematical knowledge**, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
