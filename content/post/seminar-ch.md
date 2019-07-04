@@ -14,10 +14,12 @@ In semester two of 2019 we are going to study **deep reinforcement learning** wi
 
 * [AlphaStar blog post](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 
+* [Deep RL for theorem proving](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be) an interview with Szegedy.
+
 Background on deep learning and reinforcement learning:
 
 * I. Goodfellow, Y. Bengio, A. Courville "[Deep learning](https://www.deeplearningbook.org/)"
-* R. S. Sutton and A. G. Barto "[Reinforcement learning](http://www.incompleteideas.net/book/the-book-2nd.html)" 2nd edution, 2018.
+* R. S. Sutton and A. G. Barto "[Reinforcement learning](http://www.incompleteideas.net/book/the-book-2nd.html)" 2nd edition, 2018.
 * C. F. Higham, D. J. Higham "[Deep learning: an introduction for applied mathematicians](https://arxiv.org/abs/1801.05894)"
 * F. Chollet "Deep learning with Python" (practical)
   
@@ -50,7 +52,7 @@ Preliminary talks (preceding the semester):
   * Lecture 5: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
   * Lecture 6: TBD "Applications of quantum computers"
   * Lecture 7: Thomas Quella "Physical realisations of quantum computers"
-  * Lecture 8: James Clift "Classical error correcting codes and multiplexing"
+  * Lecture 8: James Clift "Classical error correcting codes and multiplexing" ([notes](http://therisingsea.org/notes/talk-james-ecc.pdf))
   * Lecture 9: Will Troiani "Crash course in homology and cohomology"
   * Lecture 10: Daniel Murfet "Topological error correcting codes (Part 1)"
   * Lecture 11: Daniel Murfet "Topological error correcting codes (Part 2)"
