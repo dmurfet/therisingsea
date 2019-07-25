@@ -17,6 +17,7 @@ Recent papers and lectures:
 
 Slides from my recent talks:
 
+* Monoidal bicategories of critical points, July 2019 ([lecture notes](http://therisingsea.org/notes/talk-symbicatlg.pdf))
 * Constructing A-infinity categories of matrix factorisations, July 2019 at [RRAGE](http://www.fields.utoronto.ca/activities/19-20/rrage) ([slides](http://therisingsea.org/notes/talk-rrage.pdf))
 * Proof synthesis and differential linear logic, June 2019 at [CARMA](https://carma.newcastle.edu.au/meetings/cap/) ([slides](http://therisingsea.org/notes/talk-carma.pdf) | [screencast](https://youtu.be/IW4LjjAWrO4))
 * Derivatives of Turing machines and inductive inference, Novermber 2018 at Peking University ([lecture notes](http://therisingsea.org/notes/talk-beida-tm-2018.pdf))
