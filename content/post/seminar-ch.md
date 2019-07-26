@@ -54,8 +54,8 @@ Preliminary talks (preceding the semester):
   * Lecture 7: Thomas Quella "Physical realisations of quantum computers"
   * Lecture 8: James Clift "Classical error correcting codes and multiplexing" ([notes](http://therisingsea.org/notes/talk-james-ecc.pdf))
   * Lecture 9: Will Troiani "Crash course in homology and cohomology"
-  * Lecture 10: Daniel Murfet "Topological error correcting codes (Part 1)"
-  * Lecture 11: Daniel Murfet "Topological error correcting codes (Part 2)"
+  * Lecture 10: Isaac David Smith "Topological error correcting codes (Part 1)" ([notes](http://therisingsea.org/notes/talk-isaac-1.pdf))
+  * Lecture 11: Isaac David Smith "Topological error correcting codes (Part 2)" ([notes](http://therisingsea.org/notes/talk-isaac-2.pdf))
   * Lecture 12: Thomas Quella "Tensor networks and quantum computation"
   * Lecture 13: Charles Hill "Open problems for mathematicians"
 
