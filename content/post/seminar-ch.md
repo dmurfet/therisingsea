@@ -6,15 +6,26 @@ menu = "main"
 +++
 
 
-The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down!
-
-In semester two of 2019 we are going to study **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
 
 * [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
 
 * [AlphaStar blog post](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 
 * [Deep RL for theorem proving](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be) an interview with Szegedy.
+
+There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep learning* and *reinforcement learning*, and we will have talks on all three aspects. One important running theme will be the dichotomy between problems with small and large state spaces, and the corresponding need for function approximation (the successful incorporation of which is what makes AlphaGo scientifically interesting).
+
+Talk schedule:
+
+  * Lecture 1: ??? "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
+  * Lecture 2: ??? "Fixed points and the Bellman equation" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf))
+  * Lecture 3: ??? "Reinforcement learning 1: policy and value functions" (Sutton & Barto)
+  * Lecture 4: ??? "Reinforcement learning 2: the policy gradient theorem" (Sutton & Barto)
+  * Lecture 5: ??? "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457))
+  * Lecture 6: ??? "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
+  * Lecture 7: ??? "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
+  * Lecture 8: ??? "AlphaStar and the Transformer architecture"
 
 Background on deep learning and reinforcement learning:
 
@@ -43,7 +54,7 @@ Preliminary talks (preceding the semester):
   * Lecture A: James Clift "Universal Turing Machines"
   * Lecture B: Will Troiani "Reversible Turing Machines"
   
-*Draft* talk schedule (beginning week 1):
+Talk schedule (beginning week 1):
 
   * Lecture 1: Daniel Murfet "Introduction to the seminar"
   * Lecture 2: Thomas Quella "Crash course in quantum mechanics"
