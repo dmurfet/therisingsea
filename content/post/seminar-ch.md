@@ -20,12 +20,14 @@ Talk schedule:
 
   * Lecture 1: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
   * Lecture 2: Will Troiani "Fixed points and the Bellman equation" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf))
-  * Lecture 3: ??? "Reinforcement learning 1: policy and value functions" (Sutton & Barto)
+  * Lecture 3: Thomas Quella "Reinforcement learning 1: policy and value functions" (Sutton & Barto)
   * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457))
   * Lecture 5: Susan Wei (tbc) "Reinforcement learning 2: the policy gradient theorem" (Sutton & Barto)
   * Lecture 6: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
-  * Lecture 7: ??? "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
-  * Lecture 8: ??? "AlphaStar and the Transformer architecture"
+  * Lecture 7: ??? "An introduction to deep learning"
+  * Lecture 7: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
+  * Lecture 8: Thomas Quella "Deep learning in physics"
+  * Lecture 9: Daniel Murfet "AlphaStar and the Transformer architecture"
 
 Background on deep learning and reinforcement learning:
 
