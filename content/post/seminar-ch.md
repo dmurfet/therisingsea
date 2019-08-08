@@ -19,15 +19,15 @@ There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep lea
 Talk schedule:
 
   * Lecture 1: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
-  * Lecture 2: Will Troiani "Fixed points and the Bellman equation" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf))
-  * Lecture 3: Thomas Quella "Reinforcement learning 1: policy and value functions" (Sutton & Barto)
-  * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457))
-  * Lecture 5: Susan Wei (tbc) "Reinforcement learning 2: the policy gradient theorem" (Sutton & Barto)
-  * Lecture 6: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
-  * Lecture 7: ??? "An introduction to deep learning"
-  * Lecture 8: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
-  * Lecture 9: Thomas Quella "Deep learning in physics"
-  * Lecture 10: Daniel Murfet "AlphaStar and the Transformer architecture"
+  * Lecture 2: ??? "Fixed points and the Bellman equation" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf))
+  * Lecture 3: Thomas Quella "Introduction to reinforcement learning" (value-based and policy-based methods, Sutton & Barto)
+  * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457)) (counter-examples ala Minsky)
+  * Lecture 5: ??? "Deep learning and statistical mechanics" (Hopfield networks)
+  * Lecture 6: Susan Wei "An introduction to deep learning" (autodiff, optimisation alg SGD, initialisations)
+  * Lecture 7: ??? "Convolutional networks and deep reinforcement learning" (Sutton & Barto)
+  * Lecture 8: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
+  * Lecture 9: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
+  * Lecture 10: Daniel Murfet "AlphaStar and attention"
 
 Background on deep learning and reinforcement learning:
 
