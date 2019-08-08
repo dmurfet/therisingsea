@@ -25,9 +25,9 @@ Talk schedule:
   * Lecture 5: Susan Wei (tbc) "Reinforcement learning 2: the policy gradient theorem" (Sutton & Barto)
   * Lecture 6: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
   * Lecture 7: ??? "An introduction to deep learning"
-  * Lecture 7: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
-  * Lecture 8: Thomas Quella "Deep learning in physics"
-  * Lecture 9: Daniel Murfet "AlphaStar and the Transformer architecture"
+  * Lecture 8: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
+  * Lecture 9: Thomas Quella "Deep learning in physics"
+  * Lecture 10: Daniel Murfet "AlphaStar and the Transformer architecture"
 
 Background on deep learning and reinforcement learning:
 
