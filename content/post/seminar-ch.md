@@ -18,12 +18,12 @@ There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep lea
 
 Talk schedule:
 
-  * Lecture 1: ??? "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
-  * Lecture 2: ??? "Fixed points and the Bellman equation" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf))
+  * Lecture 1: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
+  * Lecture 2: Will Troiani "Fixed points and the Bellman equation" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf))
   * Lecture 3: ??? "Reinforcement learning 1: policy and value functions" (Sutton & Barto)
-  * Lecture 4: ??? "Reinforcement learning 2: the policy gradient theorem" (Sutton & Barto)
-  * Lecture 5: ??? "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457))
-  * Lecture 6: ??? "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
+  * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457))
+  * Lecture 5: Susan Wei (tbc) "Reinforcement learning 2: the policy gradient theorem" (Sutton & Barto)
+  * Lecture 6: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
   * Lecture 7: ??? "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
   * Lecture 8: ??? "AlphaStar and the Transformer architecture"
 
