@@ -6,7 +6,7 @@ menu = "main"
 +++
 
 
-The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
 
 * [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
 
@@ -18,16 +18,20 @@ There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep lea
 
 Talk schedule:
 
-  * Lecture 1: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
-  * Lecture 2: ??? "Fixed points and the Bellman equation" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf))
-  * Lecture 3: Thomas Quella "Introduction to reinforcement learning" (value-based and policy-based methods, Sutton & Barto)
+  * Lecture 1: Daniel Murfet "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf)) (Bellman equation)
+  * Lecture 2: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
+  * Lecture 3: Thomas Quella "Hopfield networks and statistical mechanics"
   * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457)) (counter-examples ala Minsky)
-  * Lecture 5: ??? "Deep learning and statistical mechanics" (Hopfield networks)
-  * Lecture 6: Susan Wei "An introduction to deep learning" (autodiff, optimisation alg SGD, initialisations)
-  * Lecture 7: ??? "Convolutional networks and deep reinforcement learning" (Sutton & Barto)
-  * Lecture 8: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
-  * Lecture 9: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
-  * Lecture 10: Daniel Murfet "AlphaStar and attention"
+  * Lecture 5: Susan Wei "An introduction to deep learning" (autodiff, optimisation alg SGD, initialisations)
+  * Lecture 6: ??? "Convolutional networks and deep reinforcement learning" (Sutton & Barto)
+  * Lecture 7: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
+  * Lecture 8: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
+  * Lecture 9: Daniel Murfet "AlphaStar and attention"
+  
+Currently unscheduled talks:
+
+  * Lecture ??: Rohan Mitta "Theorem proving and Lean"
+  * Lecture ??: Elliot Catt "Solomonoff induction and the limits of RL"
 
 Background on deep learning and reinforcement learning:
 
