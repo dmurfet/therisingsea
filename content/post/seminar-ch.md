@@ -14,12 +14,14 @@ The seminar is held in Room 107 of Peter Hall. For announcements of talks [subsc
 
 * [Deep RL for theorem proving](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be) an interview with Szegedy.
 
+* [Silver on classic games](https://www.youtube.com/watch?v=ld28AU7DDB4) 1:43:40 "If there's one thing to take away from this, it's that really doing things in the principled way - you have to believe in your principles and you have to believe that you can overcome all of this knowledge that it feels like you should be building into the system. But actually each time you put knowledge into a system you're really handicapping it, and if you really go back to the beginning and find the right principle to learn for itself it will do better eventually." (on this note see the [bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html))
+
 There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep learning* and *reinforcement learning*, and we will have talks on all three aspects. One important running theme will be the dichotomy between problems with small and large state spaces, and the corresponding need for function approximation (the successful incorporation of which is what makes AlphaGo scientifically interesting).
 
 Talk schedule:
 
-  * Lecture 1: Daniel Murfet "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf)) (Bellman equation)
-  * Lecture 2: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
+  * Lecture 1: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
+  * Lecture 2: Will Troiani "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf)) (Bellman equation)
   * Lecture 3: Thomas Quella "Hopfield networks and statistical mechanics"
   * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457)) (counter-examples ala Minsky)
   * Lecture 5: Susan Wei "An introduction to deep learning" (autodiff, optimisation alg SGD, initialisations)
