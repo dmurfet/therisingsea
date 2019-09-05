@@ -18,12 +18,13 @@ The seminar is held in Room 107 of Peter Hall. For announcements of talks [subsc
 
 There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep learning* and *reinforcement learning*, and we will have talks on all three aspects. One important running theme will be the dichotomy between problems with small and large state spaces, and the corresponding need for function approximation (the successful incorporation of which is what makes AlphaGo scientifically interesting).
 
-Talk schedule:
+Talk schedule (beginning 6-6-2019):
 
+  * Lecture 0: Geoff Hinton [video](https://www.youtube.com/watch?v=izrG86jycck) "Deep learning"
   * Lecture 1: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
   * Lecture 2: Will Troiani "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf)) (Bellman equation)
   * Lecture 3: Thomas Quella "Hopfield networks and statistical mechanics"
-  * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem) also [constructively](https://arxiv.org/abs/1907.11457)) (counter-examples ala Minsky)
+  * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem))
   * Lecture 5: Susan Wei "An introduction to deep learning" (autodiff, optimisation alg SGD, initialisations)
   * Lecture 6: ??? "Convolutional networks and deep reinforcement learning" (Sutton & Barto)
   * Lecture 7: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)

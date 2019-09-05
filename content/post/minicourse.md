@@ -6,7 +6,7 @@ title = "News"
 
 Recent papers and lectures:
 
-* [Logic and the 2-Simplicial Transformer](https://arxiv.org/pdf/1909.00668.pdf) preprint, September 2019 ([code repository](https://github.com/dmurfet/2simplicialtransformer/)).
+* [Logic and the 2-Simplicial Transformer](https://arxiv.org/abs/1909.00668) preprint, September 2019 ([code repository](https://github.com/dmurfet/2simplicialtransformer/)).
 * [Will Troiani](mailto:william.a.troiani@gmail.com)'s masters thesis, May 2019, [Simplicial sets are algorithms](http://therisingsea.org/notes/MScThesisWillTroiani.pdf).
 * [Constructing A-infinity categories of matrix factorisations](https://arxiv.org/abs/1903.07211) preprint, March 2019 (my [working notes](https://gist.github.com/dmurfet/aca4146882870ea3dd6a1af793b1b90b) are available).
 * The [notes and videos](http://therisingsea.org/post/mast30026/) for a course on Metric and Hilbert spaces (and [video HOWTO](https://gist.github.com/dmurfet/a5e1d06cfa558db85cecb7e655976d19)).
