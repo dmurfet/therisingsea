@@ -21,8 +21,8 @@ There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep lea
 Talk schedule (beginning 6-6-2019):
 
   * Lecture 0: Geoff Hinton [video](https://www.youtube.com/watch?v=izrG86jycck) "Deep learning" ([intro notes](http://therisingsea.org/notes/deeprl-seminar-talk1.pdf))
-  * Lecture 1: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
-  * Lecture 2: Will Troiani "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf)) (Bellman equation)
+  * Lecture 1: Daniel Murfet "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/mast30026/lecture14.pdf)) (Bellman equation)
+  * Lecture 2: James Clift "Turing and Intelligent Machinery" ([paper](https://weightagnostic.github.io/papers/turing1948.pdf))
   * Lecture 3: Thomas Quella "Hopfield networks and statistical mechanics"
   * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([ref](https://en.wikipedia.org/wiki/Universal_approximation_theorem), [paper](https://arxiv.org/pdf/1710.11278.pdf))
   * Lecture 5: Susan Wei "An introduction to deep learning" (autodiff, optimisation alg SGD, initialisations)
