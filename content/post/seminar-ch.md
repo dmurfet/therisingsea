@@ -6,7 +6,7 @@ menu = "main"
 +++
 
 
-The seminar is held in Room 107 of Peter Hall. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+The seminar is held in the Belz room of Peter Hall on Fridays 1-2pm. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
 
 * [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
 
@@ -29,12 +29,12 @@ Talk schedule (beginning 6-6-2019):
   * Lecture 6: Mingming Gong "Convolutional networks and deep reinforcement learning" (Sutton & Barto)
   * Lecture 7: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
   * Lecture 8: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
-  * Lecture 9: Daniel Murfet "AlphaStar and attention"
-  
-Currently unscheduled talks:
-
-  * Lecture ??: Rohan Mitta "Theorem proving and Lean"
+  * Lecture 9: Daniel Murfet "AlphaStar and attention" (including Transformer models in deep RL, [here](https://deepmind.com/research/publications/deep-reinforcement-learning-relational-inductive-biases))
   * Lecture ??: Elliot Catt "Solomonoff induction and the limits of RL"
+    
+There is a bonus talk:
+
+  * Rohan Mitta "Introduction to Formal Proof Verification in Lean" 13-9-19
 
 Background on deep learning and reinforcement learning:
 
@@ -42,7 +42,8 @@ Background on deep learning and reinforcement learning:
 * R. S. Sutton and A. G. Barto "[Reinforcement learning](http://www.incompleteideas.net/book/the-book-2nd.html)" 2nd edition, 2018.
 * C. F. Higham, D. J. Higham "[Deep learning: an introduction for applied mathematicians](https://arxiv.org/abs/1801.05894)"
 * F. Chollet "Deep learning with Python" (practical)
-  
+* J. Clift, D. Doryn, D. Murfet, J. Wallbridge "[Logic and the 2-simplicial Transformer](https://arxiv.org/abs/1909.00668)"
+
 ### Previous semesters of the seminar
 
 #### S1 2019 - Topological quantum computing
