@@ -6,7 +6,7 @@ menu = "main"
 +++
 
 
-The seminar is held in the Belz room of Peter Hall on Fridays 1-2pm. For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+The seminar is held in the **Russell Love theatre** of Peter Hall on Fridays 1-2pm (note the room change). For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
 
 * [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
 
@@ -35,6 +35,10 @@ Talk schedule (beginning 6-6-2019):
 There is a bonus talk:
 
   * Rohan Mitta "Introduction to Formal Proof Verification in Lean" 13-9-19
+
+Remarks
+
+  * There is an interesting historical connection between talks 2 and 3. In his article "[Now what](https://pni.princeton.edu/john-hopfield/john-j.-hopfield-now-what)" Hopfield recalls working for a year on random networks before inventing his associate memory networks (it is not clear if Turing's B-type machines had any influence on this work).
 
 Background on deep learning and reinforcement learning:
 
