@@ -38,7 +38,7 @@ There is a bonus talk:
 
 Remarks
 
-  * There is an interesting historical connection between talks 2 and 3. In his article "[Now what](https://pni.princeton.edu/john-hopfield/john-j.-hopfield-now-what)" Hopfield recalls working for a year on random networks before inventing his associate memory networks (it is not clear if Turing's B-type machines had any influence on this work).
+  * There is an interesting historical connection between talks 2 and 3. In his article "[Now what](https://pni.princeton.edu/john-hopfield/john-j.-hopfield-now-what)" Hopfield recalls working for a year on random networks before inventing his associative memory networks (it is not clear if Turing's B-type machines had any influence on this work).
 
 Background on deep learning and reinforcement learning:
 
