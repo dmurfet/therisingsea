@@ -6,13 +6,17 @@ menu = "main"
 +++
 
 
-The seminar is held in the **Russell Love theatre** of Peter Hall on Fridays 1-2pm (note the room change). For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+The seminar is held in the **Russell Love theatre** of Peter Hall on Fridays 1-2pm (note the room change). For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! 
+
+#### Current seminar
+
+In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+
+* [Deep learning in Australia](https://gist.github.com/dmurfet/072e8503368acdccf32b641f1e800e99) a very rough list of researchers in this area.
 
 * [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
 
 * [AlphaStar blog post](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
-
-* [Deep RL for theorem proving](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be) an interview with Szegedy.
 
 * [Silver on classic games](https://www.youtube.com/watch?v=ld28AU7DDB4) 1:43:40 "If there's one thing to take away from this, it's that really doing things in the principled way - you have to believe in your principles and you have to believe that you can overcome all of this knowledge that it feels like you should be building into the system. But actually each time you put knowledge into a system you're really handicapping it, and if you really go back to the beginning and find the right principle to learn for itself it will do better eventually." (on this note see the [bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html))
 
@@ -30,7 +34,7 @@ Talk schedule (beginning 6-6-2019):
   * Lecture 7: James Clift "Solving games with tree search" (*alpha-beta search*, *dynamic programming*)
   * Lecture 8: Daniel Murfet "AlphaGo" (following the DeepMind paper, also Sutton & Barto)
   * Lecture 9: Daniel Murfet "AlphaStar and attention" (including Transformer models in deep RL, [here](https://deepmind.com/research/publications/deep-reinforcement-learning-relational-inductive-biases))
-  * Lecture ??: Elliot Catt "Solomonoff induction and the limits of RL"
+  * Lecture 10: Elliot Catt "Solomonoff induction and the limits of RL"
     
 There is a bonus talk:
 
@@ -39,6 +43,7 @@ There is a bonus talk:
 Remarks
 
   * There is an interesting historical connection between talks 2 and 3. In his article "[Now what](https://pni.princeton.edu/john-hopfield/john-j.-hopfield-now-what)" Hopfield recalls working for a year on random networks before inventing his associative memory networks (Hopfield clarified in an email that he rejected Turing's approach because of the globally synchronised clock that it requires).
+  * On the topic of formal proofs, see Kevin Buzzard's recent talk "[The future of mathematics?](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)".
 
 Background on deep learning and reinforcement learning:
 
@@ -47,14 +52,11 @@ Background on deep learning and reinforcement learning:
 * C. F. Higham, D. J. Higham "[Deep learning: an introduction for applied mathematicians](https://arxiv.org/abs/1801.05894)"
 * F. Chollet "Deep learning with Python" (practical)
 * J. Clift, D. Doryn, D. Murfet, J. Wallbridge "[Logic and the 2-simplicial Transformer](https://arxiv.org/abs/1909.00668)"
-
-### Previous semesters of the seminar
+* [Deep RL for theorem proving](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be) an interview with Szegedy.
 
 #### S1 2019 - Topological quantum computing
 
-**UPDATE:** The seminar webpage has moved [here](http://researchers.ms.unimelb.edu.au/~tquella@unimelb/#QC).
-
-The aim of the seminar in semester one of 2019 is to understand **topological error correcting codes and how they enable universal quantum computers**. This is a remarkable application of topology to computation: one promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces. Moreover, some of [our neighbours](http://www.cqc2t.org/) are at the forefront of building quantum computers based on these ideas. An attractive feature of the subject is the sheer boldness of the underlying ideas, for example in Deutsch's paper on universal quantum computation he writes in a section titled "Programming physics":
+The aim of the seminar in semester one of 2019 was to understand **topological error correcting codes and how they enable universal quantum computers**. The primary organiser for this was Thomas Quella. This is a remarkable application of topology to computation: one promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces. Moreover, some of [our neighbours](http://www.cqc2t.org/) are at the forefront of building quantum computers based on these ideas. An attractive feature of the subject is the sheer boldness of the underlying ideas, for example in Deutsch's paper on universal quantum computation he writes in a section titled "Programming physics":
 
 > To view the Church-Turing hypothesis as a physical principle does not merely make computer science a branch of physics. It also makes part of experimental physics into a branch of computer science. The existence of a universal quantum computer Q implies that there exists a program for each physical process.
 
@@ -63,26 +65,22 @@ For an entree to quantum computing, see the following recent talks:
   * 2018 Australian of the Year Michelle Simmons "[The Einstein Lecture: The Quantum Computing Revolution](https://www.youtube.com/watch?v=FnPp73F5cnE)" (material on implementations of error correction from about 49:00).
   * Jason Alicea "[Topological Quantum Computing: Plenty of Room in the Middle](https://www.youtube.com/watch?v=qj-w6ISQL5Y)" 2018.
 
-Preliminary talks (preceding the semester):
-
-  * Lecture A: James Clift "Universal Turing Machines"
-  * Lecture B: Will Troiani "Reversible Turing Machines"
-  
-Talk schedule (beginning week 1):
-
-  * Lecture 1: Daniel Murfet "Introduction to the seminar"
-  * Lecture 2: Thomas Quella "Crash course in quantum mechanics"
-  * Lecture 3: Isaac David Smith "Feynman's quantum circuits"
-  * Lecture 4: Will Troiani "Deutsch's universal quantum computer (Part 1)"
-  * Lecture 5: Daniel Murfet "Deutsch's universal quantum computer (Part 2)"
-  * Lecture 6: TBD "Applications of quantum computers"
-  * Lecture 7: Thomas Quella "Physical realisations of quantum computers"
-  * Lecture 8: James Clift "Classical error correcting codes and multiplexing" ([notes](http://therisingsea.org/notes/talk-james-ecc.pdf))
-  * Lecture 9: Will Troiani "Crash course in homology and cohomology"
-  * Lecture 10: Isaac David Smith "Topological error correcting codes (Part 1)" ([notes](http://therisingsea.org/notes/talk-isaac-1.pdf))
-  * Lecture 11: Isaac David Smith "Topological error correcting codes (Part 2)" ([notes](http://therisingsea.org/notes/talk-isaac-2.pdf))
-  * Lecture 12: Thomas Quella "Tensor networks and quantum computation"
-  * Lecture 13: Charles Hill "Open problems for mathematicians"
+  * Lecture 1: James Clift "Universal Turing Machines" ([notes](http://therisingsea.org/notes/talk-james-utm.pdf))
+  * Lecture 2: Will Troiani "Reversible Turing Machines" ([notes](http://therisingsea.org/notes/talk-will-reversible.pdf))
+  * Lecture 3: Thomas Quella "Crash course in quantum mechanics" ([notes](http://therisingsea.org/notes/talk-thomas-quantum.pdf))
+  * Lecture 4: Isaac David Smith "Feynman's quantum circuits" ([notes](http://therisingsea.org/notes/talk-isaac-quantumcircuits.pdf))
+  * Lecture 5: Isaac David Smith "Deutsch's universal quantum computer (Part 1)"
+  * Lecture 6: Sam Tonetto and Gary Mooney "On the complexity of Ising spin glass models"
+  * Lecture 7: Stephane Dartois "Deutsch's universal quantum computer (Part 2)"
+  * Lecture 8: Charles Hill "Applications of quantum computers 1: Algorithms"
+  * Lecture 9: Charles Hill "Applications of quantum computers 2: Quantum annealers"
+  * Lecture 10: Thomas Quella "Physical realisations of quantum computers"
+  * Lecture 11: James Clift "Classical error correcting codes" ([notes](http://therisingsea.org/notes/talk-james-ecc.pdf))
+  * Lecture 12: Will Troiani "Crash course in homology and cohomology" ([notes](http://therisingsea.org/notes/talk-will-homology.pdf))
+  * Lecture 13: Isaac David Smith "Quantum error correcting codes" ([notes](http://therisingsea.org/notes/talk-isaac-1.pdf))
+  * Lecture 14: Isaac David Smith "Stabiliser formalism and the toric code" ([notes](http://therisingsea.org/notes/talk-isaac-2.pdf))
+  * Lecture 15: Thomas Quella "Matrix product states and tensor networks" ([notes](http://therisingsea.org/notes/talk-thomas-mps.pdf))
+  * Lecture 16: Charles Hill "Open problems for mathematicians"
 
 Primary references:
 
@@ -102,7 +100,7 @@ Other useful links:
   * D. Brown, "[Lectures on topological codes and quantum computation](https://sites.google.com/site/danbrowneucl/teaching/lectures-on-topological-codes-and-quantum-computation)"
   * National Academies of Sciences, Engineering, and Medicine "[Quantum Computing: Progress and Prospects](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)" 2018.
   
-#### S2 2018 - Topos theory and logic
+#### S2 2018 - Topos theory and categorical logic
 
 Our aim in the second semester of 2018 was to understand **how to use adjoint functors and topoi to organise mathematical knowledge**, following Mac Lane and Moerdijk's book "Sheaves in Geometry and Logic". For an explanation of this aim see the [seminar announcement](http://therisingsea.org/notes/seminar-2018-sem1.pdf) and the first lecture below. The seminar is supported by funding from [Data61](https://www.data61.csiro.au/), [DST group](https://www.dst.defence.gov.au/) and [ACEMS](https://acems.org.au/home) as part of a collaboration which aims to [develop new tools](http://therisingsea.org/notes/fmme.pdf) to aid human reasoning about mathematics and software.
   
