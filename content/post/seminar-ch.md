@@ -79,9 +79,9 @@ For an entree to quantum computing, see the following recent talks:
   * Lecture 10: Thomas Quella "Physical realisations of quantum computers"
   * Lecture 11: James Clift "Classical error correcting codes" ([notes](http://therisingsea.org/notes/talk-james-ecc.pdf))
   * Lecture 12: Will Troiani "Crash course in homology and cohomology" ([notes](http://therisingsea.org/notes/talk-will-homology.pdf))
-  * Lecture 13: Isaac David Smith "Quantum error correcting codes" ([notes](http://therisingsea.org/notes/talk-isaac-1.pdf))
-  * Lecture 14: Isaac David Smith "Stabiliser formalism and the toric code" ([notes](http://therisingsea.org/notes/talk-isaac-2.pdf))
-  * Lecture 15: Thomas Quella "Matrix product states and tensor networks" ([notes](http://therisingsea.org/notes/talk-thomas-mps.pdf))
+  * Lecture 13: Isaac David Smith "Quantum error correcting codes" ([notes](http://therisingsea.org/notes/talk-isaac-1.pdf) | [video](https://youtu.be/Hs4q4FtuuNw))
+  * Lecture 14: Isaac David Smith "Stabiliser formalism and the toric code" ([notes](http://therisingsea.org/notes/talk-isaac-2.pdf) | [video](https://youtu.be/TwlUgop_Qe4))
+  * Lecture 15: Thomas Quella "Matrix product states and tensor networks" ([notes](http://therisingsea.org/notes/talk-thomas-mps.pdf) | [video](https://youtu.be/Bvs6ijMA3qM))
   * Lecture 16: Charles Hill "Open problems for mathematicians"
 
 Primary references:
