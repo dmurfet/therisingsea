@@ -8,6 +8,8 @@ menu = "main"
 
 The seminar is held in the **Russell Love theatre** of Peter Hall on Fridays 1-2pm (note the room change). For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
 
+* [An introduction to deep reinforcement learning](https://arxiv.org/pdf/1811.12560.pdf).
+
 * [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
 
 * [AlphaStar blog post](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
