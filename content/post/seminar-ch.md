@@ -20,8 +20,6 @@ In semester two of 2019 we are going to study reasoning in the context of **deep
 
 * [AlphaStar blog post](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 
-* [Silver on classic games](https://www.youtube.com/watch?v=ld28AU7DDB4) 1:43:40 "If there's one thing to take away from this, it's that really doing things in the principled way - you have to believe in your principles and you have to believe that you can overcome all of this knowledge that it feels like you should be building into the system. But actually each time you put knowledge into a system you're really handicapping it, and if you really go back to the beginning and find the right principle to learn for itself it will do better eventually." (on this note see the [bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html))
-
 There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep learning* and *reinforcement learning*, and we will have talks on all three aspects. One important running theme will be the dichotomy between problems with small and large state spaces, and the corresponding need for function approximation (the successful incorporation of which is what makes AlphaGo scientifically interesting).
 
 Talk schedule (beginning 6-6-2019):
@@ -46,6 +44,7 @@ Remarks
 
   * There is an interesting historical connection between talks 2 and 3. In his article "[Now what](https://pni.princeton.edu/john-hopfield/john-j.-hopfield-now-what)" Hopfield recalls working for a year on random networks before inventing his associative memory networks (Hopfield clarified in an email that he rejected Turing's approach because of the globally synchronised clock that it requires).
   * On the topic of formal proofs, see Kevin Buzzard's recent talk "[The future of mathematics?](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)".
+  * [Silver on classic games](https://www.youtube.com/watch?v=ld28AU7DDB4) 1:43:40 "If there's one thing to take away from this, it's that really doing things in the principled way - you have to believe in your principles and you have to believe that you can overcome all of this knowledge that it feels like you should be building into the system. But actually each time you put knowledge into a system you're really handicapping it, and if you really go back to the beginning and find the right principle to learn for itself it will do better eventually." (on this note see the [bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html))
 
 Background on deep learning and reinforcement learning:
 
