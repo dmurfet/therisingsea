@@ -55,6 +55,10 @@ Background on deep learning and reinforcement learning:
 * J. Clift, D. Doryn, D. Murfet, J. Wallbridge "[Logic and the 2-simplicial Transformer](https://arxiv.org/abs/1909.00668)"
 * [Deep RL for theorem proving](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be) an interview with Szegedy.
 
+Interesting theory papers:
+
+ * J. Lee, L. Xiao, S. S. Schoenholz, Y. Bahri, R. Novak, J. Sohl-Dickstein, J. Pennington, "[Wide neural networks of any depth evolve as linear models under gradient descent](https://arxiv.org/pdf/1902.06720.pdf)" 2019.
+
 #### S1 2019 - Topological quantum computing
 
 The aim of the seminar in semester one of 2019 was to understand **topological error correcting codes and how they enable universal quantum computers**. The primary organisers for this were *Thomas Quella* and *Charles Hill*. This is a remarkable application of topology to computation: one promising approach to making quantum computing work in practice is based on the homology and cohomology of surfaces. Moreover, some of [our neighbours](http://www.cqc2t.org/) are at the forefront of building quantum computers based on these ideas. An attractive feature of the subject is the sheer boldness of the underlying ideas, for example in Deutsch's paper on universal quantum computation he writes in a section titled "Programming physics":
