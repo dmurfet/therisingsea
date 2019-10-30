@@ -4,7 +4,7 @@ title = "News"
 
 +++
 
-Recent papers and lectures:
+Recent papers:
 
 * [Logic and the 2-Simplicial Transformer](https://arxiv.org/abs/1909.00668) preprint, September 2019 ([code repository](https://github.com/dmurfet/2simplicialtransformer/)).
 * [Will Troiani](mailto:william.a.troiani@gmail.com)'s masters thesis, May 2019, [Simplicial sets are algorithms](http://therisingsea.org/notes/MScThesisWillTroiani.pdf).
@@ -18,6 +18,7 @@ Recent papers and lectures:
 
 Slides from my recent talks:
 
+* From critical points to A-infinity categories, October 2019 at Macquarie ([lecture notes](http://therisingsea.org/notes/talk-macquarie-2019.pdf))
 * Monoidal bicategories of critical points, July 2019 ([lecture notes](http://therisingsea.org/notes/talk-symbicatlg.pdf))
 * Constructing A-infinity categories of matrix factorisations, July 2019 at [RRAGE](http://www.fields.utoronto.ca/activities/19-20/rrage) ([slides](http://therisingsea.org/notes/talk-rrage.pdf))
 * Proof synthesis and differential linear logic, June 2019 at [CARMA](https://carma.newcastle.edu.au/meetings/cap/) ([slides](http://therisingsea.org/notes/talk-carma.pdf) | [screencast](https://youtu.be/IW4LjjAWrO4))
