@@ -18,6 +18,7 @@ Recent papers:
 
 Slides from my recent talks:
 
+* Mathematics of AlphaGo, November 2019 colloquium at Macquarie ([lecture notes](http://therisingsea.org/notes/talk-alphago.pdf))
 * From critical points to A-infinity categories, October 2019 at Macquarie ([lecture notes](http://therisingsea.org/notes/talk-macquarie-2019.pdf))
 * Monoidal bicategories of critical points, July 2019 ([lecture notes](http://therisingsea.org/notes/talk-symbicatlg.pdf))
 * Constructing A-infinity categories of matrix factorisations, July 2019 at [RRAGE](http://www.fields.utoronto.ca/activities/19-20/rrage) ([slides](http://therisingsea.org/notes/talk-rrage.pdf))
