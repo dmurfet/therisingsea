@@ -29,7 +29,7 @@ Talk schedule:
   * Lecture 2: James Clift "Turing and Intelligent Machinery" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture2.pdf) | [video](https://youtu.be/iYdoW4ZLes4) | [Turing's paper](https://weightagnostic.github.io/papers/turing1948.pdf))
   * Lecture 3: Thomas Quella "Hopfield networks and statistical mechanics" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture3.pdf) | [video](https://youtu.be/Vv9dmlFZcfo))
   * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture4.pdf) | [paper](https://arxiv.org/pdf/1710.11278.pdf))
-  * Lecture 5: Susan Wei "Deep learning as a continuous dynamical system" ([paper](http://www.jmlr.org/papers/volume18/17-653/17-653.pdf))
+  * Lecture 5: Susan Wei "Deep learning as a continuous dynamical system" ([video](https://youtu.be/ZFLJ7svnP5E) | [paper](http://www.jmlr.org/papers/volume18/17-653/17-653.pdf))
   * Lecture 6: Mingming Gong "Convolutional neural networks"
   * Lecture 7: Daniel Murfet "AlphaGo" ([notes](http://therisingsea.org/notes/talk-alphago.pdf))
   * Lecture 8: Elliot Catt "Solomonoff induction and the limits of RL"
