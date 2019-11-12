@@ -31,7 +31,7 @@ Talk schedule:
   * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture4.pdf) | [paper](https://arxiv.org/pdf/1710.11278.pdf))
   * Lecture 5: Susan Wei "Deep learning as a continuous dynamical system" ([video](https://youtu.be/ZFLJ7svnP5E) | [paper](http://www.jmlr.org/papers/volume18/17-653/17-653.pdf))
   * Lecture 6: Mingming Gong "Convolutional neural networks"
-  * Lecture 7: Daniel Murfet "AlphaGo" ([notes](http://therisingsea.org/notes/talk-alphago.pdf) | [video](https://youtu.be/rOiaZ1hVb-A) )
+  * Lecture 7: Daniel Murfet "AlphaGo" ([notes](http://therisingsea.org/notes/talk-alphago.pdf) | [video](https://youtu.be/rOiaZ1hVb-A))
   * Lecture 8: Elliot Catt "Solomonoff induction and the limits of RL"
     
 There is a bonus talk:
