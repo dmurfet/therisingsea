@@ -153,6 +153,8 @@ Our aim was to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard i
   * 11-10 James Clift "System F: Polymorphic lambda calculus" ([lecture notes](http://therisingsea.org/notes/talk-james-systemF.pdf))
   * 18-10 William Troiani "System F in the real world: Haskell and functional programming" ([lecture notes](http://therisingsea.org/notes/talk-will-haskell.pdf)) (the referenced talk by Rich Hickey is "[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)")
   
+Thanks to Camillo Fiorentini for noticing errors in the original notes for the lecture on strong normalisation, and for suggesting the fix (incorporated in the current version).  
+
 References:
 
   * Sorensen, Urzyczyn "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)".
