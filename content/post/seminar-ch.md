@@ -6,11 +6,21 @@ menu = "main"
 +++
 
 
-The seminar is held in the **Russell Love theatre** of Peter Hall on Fridays 1-2pm (note the room change). For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from the talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! 
+The seminar is held **online** via Zoom (meeting IDs below). For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from many talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! 
 
 #### Current seminar
 
-In semester two of 2019 we are going to study reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we will look at deep learning more generally. Some relevant background information:
+In semester one of 2020 we are running a seminar on cohomological field theories (CohFTs) moduli spaces of curves and Landau-Ginzburg models, with an aim to understand the construction of the [Polishchuk-Vaintrob CohFT](https://arxiv.org/abs/1105.2903). From the third talk, all talks will be **online only** and may be accessed by anybody using Zoom.
+
+Talk schedule:
+
+  * Lecture 1: Paul Norbury "Introduction to CohFTs and Frobenius manifolds"
+  * Lecture 2: Emanuel Scheidegger (Peking University) "FJRW theory, an overview"
+  * Lecture 3: Daniel Murfet "Introduction to matrix factorisations Part 1" ([join with Zoom](https://unimelb.zoom.us/j/6805102102) 11am Melbourne time 25/3/2020)
+
+#### S2 2019 - Deep learning and reinforcement learning
+
+In semester two of 2019 we studied reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we looked at deep learning more generally. Some relevant background information:
 
 * [Deep learning in Australia](https://gist.github.com/dmurfet/072e8503368acdccf32b641f1e800e99) a very rough list of researchers in this area.
 
