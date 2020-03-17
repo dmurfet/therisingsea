@@ -15,7 +15,7 @@ In semester one of 2020 we are running a seminar on cohomological field theories
 Talk schedule:
 
   * Lecture 1: Paul Norbury "Introduction to CohFTs and Frobenius manifolds"
-  * Lecture 2: Emanuel Scheidegger (Peking University) "FJRW theory, an overview"
+  * Lecture 2: Emanuel Scheidegger (Peking University) "FJRW theory, an overview" ([DM's notes](http://therisingsea.org/notes/talk-emanuel-fjrw.pdf))
   * Lecture 3: Daniel Murfet "Introduction to matrix factorisations Part 1" ([join with Zoom](https://unimelb.zoom.us/j/6805102102) 11am Melbourne time 25/3/2020)
 
 #### S2 2019 - Deep learning and reinforcement learning
