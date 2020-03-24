@@ -16,7 +16,7 @@ Talk schedule:
 
   * Lecture 1: Paul Norbury "Introduction to CohFTs and Frobenius manifolds"
   * Lecture 2: Emanuel Scheidegger (Peking University) "FJRW theory, an overview" ([DM's notes](http://therisingsea.org/notes/talk-emanuel-fjrw.pdf))
-  * Lecture 3: Daniel Murfet "Introduction to matrix factorisations Part 1" ([join with Zoom](https://unimelb.zoom.us/j/6805102102) 11am Melbourne time 25/3/2020)
+  * Lecture 3: Daniel Murfet "Introduction to matrix factorisations Part 1" ([join with Zoom](https://unimelb.zoom.us/j/6805102102) 11am Melbourne time 25/3/2020) ([notes](http://therisingsea.org/notes/talk-lgcohftseminar-intromf1.pdf))
 
 #### S2 2019 - Deep learning and reinforcement learning
 
@@ -77,7 +77,6 @@ For an entree to quantum computing, see the following recent talks:
 
   * 2018 Australian of the Year Michelle Simmons "[The Einstein Lecture: The Quantum Computing Revolution](https://www.youtube.com/watch?v=FnPp73F5cnE)" (material on implementations of error correction from about 49:00).
   * Jason Alicea "[Topological Quantum Computing: Plenty of Room in the Middle](https://www.youtube.com/watch?v=qj-w6ISQL5Y)" 2018.
-
   * Lecture 1: James Clift "Universal Turing Machines" ([notes](http://therisingsea.org/notes/talk-james-utm.pdf))
   * Lecture 2: Will Troiani "Reversible Turing Machines" ([notes](http://therisingsea.org/notes/talk-will-reversible.pdf))
   * Lecture 3: Thomas Quella "Crash course in quantum mechanics" ([notes](http://therisingsea.org/notes/talk-thomas-quantum.pdf))
