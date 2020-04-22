@@ -149,8 +149,7 @@ References:
 
 Our aim was to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard isomorphism", up to the proof of the original Curry-Howard correspondence (between simply-typed lambda calculus and intuitionistic logic) in Chapter 4.
 
-  * 14-7 William Troiani "The Church-Rosser Theorem" ([lecture notes](http://therisingsea.org/notes/talk-will-churchrosser.pdf))
-  * 2-8 William Troiani "Introduction to lambda calculus" (Sections 1.1-1.3, [lecture notes](http://therisingsea.org/notes/talk-will-lambda.pdf))
+  * Will Troiani "Introduction to lambda calculus and the Church-Rosser Theorem" ([lecture notes](https://williamtroiani.github.io/pdfs/ChurchRosserTheorem.pdf) | [old notes 1](http://therisingsea.org/notes/talk-will-churchrosser.pdf) | [old notes 2](http://therisingsea.org/notes/talk-will-lambda.pdf))
   * 9-8 Samuel Lyons "All partial recursive functions are lambda-definable" (Section 1.7, [lecture notes](http://therisingsea.org/notes/talk-sam-definable.pdf))
   * 16-8 James Clift "Simply-typed lambda calculus and strong normalisation" (Chapter 3, [lecture notes](http://therisingsea.org/notes/talk-james-simplytyped.pdf))
   * 23-8 Shawn Standefer "Introduction to natural deduction" (Chapter 2, [lecture notes](http://therisingsea.org/notes/talk-shawn-introintuit.pdf))
@@ -160,7 +159,7 @@ Our aim was to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard i
   * 20-9 Daniel Murfet "The category of simply-typed lambda terms II" ([lecture notes](http://therisingsea.org/notes/talk-catsimplytyped2.pdf) and an [appendix](http://therisingsea.org/notes/talk-catsimplytyped2-cuts.pdf))
   * 4-10 Daniel Murfet "The Curry-Howard principle" ([lecture notes](http://therisingsea.org/notes/talk-ch.pdf))
   * 11-10 James Clift "System F: Polymorphic lambda calculus" ([lecture notes](http://therisingsea.org/notes/talk-james-systemF.pdf))
-  * 18-10 William Troiani "System F in the real world: Haskell and functional programming" ([lecture notes](http://therisingsea.org/notes/talk-will-haskell.pdf)) (the referenced talk by Rich Hickey is "[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)")
+  * 18-10 Will Troiani "System F in the real world: Haskell and functional programming" ([lecture notes](http://therisingsea.org/notes/talk-will-haskell.pdf)) (the referenced talk by Rich Hickey is "[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)")
   
 Thanks to Camillo Fiorentini for noticing errors in the original notes for the lecture on strong normalisation, and for suggesting the fix (incorporated in the current version).  
 
