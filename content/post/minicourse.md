@@ -6,7 +6,8 @@ title = "News"
 
 Recent papers:
 
-* [Logic and the 2-Simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) published at [ICLR 2020](https://iclr.cc/) ([code and videos](https://github.com/dmurfet/2simplicialtransformer/) | [arXiv version](https://arxiv.org/abs/1909.00668)).
+* Isaac David Smith's masters thesis, June 2020, [Investigating Defect Topological Quantum Field Theories as Models for Quantum Error-Correction](https://therisingsea.org/notes/MScThesisIsaacDavidSmith.pdf).
+* [Logic and the 2-Simplicial Transformer](https://iclr.cc/virtual_2020/poster_rkecJ6VFvr.html) published at [ICLR 2020](https://iclr.cc/) ([code and videos](https://github.com/dmurfet/2simplicialtransformer/) | [arXiv version](https://arxiv.org/abs/1909.00668)).
 * [Will Troiani](mailto:william.a.troiani@gmail.com)'s masters thesis, May 2019, [Simplicial sets are algorithms](http://therisingsea.org/notes/MScThesisWillTroiani.pdf).
 * [Constructing A-infinity categories of matrix factorisations](https://arxiv.org/abs/1903.07211) preprint, March 2019 (my [working notes](https://gist.github.com/dmurfet/aca4146882870ea3dd6a1af793b1b90b) are available).
 * The [notes and videos](http://therisingsea.org/post/mast30026/) for a course on Metric and Hilbert spaces (and [video HOWTO](https://gist.github.com/dmurfet/a5e1d06cfa558db85cecb7e655976d19)).
