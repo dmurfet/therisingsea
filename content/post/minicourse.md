@@ -22,6 +22,8 @@ News:
 
 Slides from my recent talks:
 
+* Introduction to matrix factorisations, April 2020 in University of Melbourne moduli spaces seminar ([Part 1 notes]((http://therisingsea.org/notes/talk-intro-mf-2020-1.pdf) | [Part 2 notes]((http://therisingsea.org/notes/talk-intro-mf-2020-2.pdf))
+* From critical points to extended TQFTs, April 2020 in Monash topology seminar ([notes](http://therisingsea.org/notes/talk-monash-2020.pdf))
 * A-infinity categories of matrix factorisations via A-infinity idempotents, January 2020 at KIAS workshop on [Atiyah classes and related topics](http://events.kias.re.kr/h/WAC20/) ([notes](http://therisingsea.org/notes/talk-ainfmf-kais.pdf))
 * Mathematics of AlphaGo, November 2019 colloquium at Macquarie ([notes](http://therisingsea.org/notes/talk-alphago.pdf) | [screencast](https://youtu.be/rOiaZ1hVb-A))
 * From critical points to A-infinity categories, October 2019 at Macquarie ([notes](http://therisingsea.org/notes/talk-macquarie-2019.pdf))
