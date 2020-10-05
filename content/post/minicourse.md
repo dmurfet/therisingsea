@@ -6,7 +6,9 @@ title = "News"
 
 News:
 
-* [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) preprint with William Troiani.
+* [Deep Learning is Singular, and That's Good](https://openreview.net/forum?id=8EGmvcCVrmZ) preprint from [MDLG](http://mdlg.ai) on theory of deep learning.
+* [Geometry of Program Synthesis](https://openreview.net/forum?id=qiydAcw6Re) preprint with James Clift and James Wallbridge.
+* [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) preprint with William Troiani on sequent calculus, lambda calculus and the Curry-Howard correspondence.
 * Isaac David Smith's masters thesis, June 2020, [Investigating Defect Topological Quantum Field Theories as Models for Quantum Error-Correction](http://therisingsea.org/notes/MScThesisIsaacDavidSmith.pdf).
 * [Logic and the 2-Simplicial Transformer](https://iclr.cc/virtual_2020/poster_rkecJ6VFvr.html) published at [ICLR 2020](https://iclr.cc/) ([code and videos](https://github.com/dmurfet/2simplicialtransformer/) | [arXiv version](https://arxiv.org/abs/1909.00668)).
 * [Will Troiani](mailto:william.a.troiani@gmail.com)'s masters thesis, May 2019, [Simplicial sets are algorithms](http://therisingsea.org/notes/MScThesisWillTroiani.pdf).
