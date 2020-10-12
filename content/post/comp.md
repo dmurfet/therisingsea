@@ -4,7 +4,7 @@ title = "References on computation"
 
 +++
 
-My interest in the mathematical theory of computation is primarily due to the work of the brilliant logician [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard) on [linear logic](http://plato.stanford.edu/entries/logic-linear/). Below is a (not very comprehensive) list of references for the parts of the theory of computation that I either know a little about, or am interested in.
+My interest in the mathematical theory of computation is primarily due to the work of the logician [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard) on [linear logic](http://plato.stanford.edu/entries/logic-linear/). Below is a list of references for the parts of the theory of computation that I either know a little about, or am interested in.
 
 General "big picture" references on computation and logic:
 
@@ -21,7 +21,7 @@ Some references on lambda-calculus, System F and proof theory:
 Some references on computational complexity theory:
 
 *  [Why philosophers should care about computational complexity](http://www.scottaaronson.com/papers/philos.pdf) by Scott Aaronson.
-*  [Topological views on computational complexity](http://stationq.cnsi.ucsb.edu/~freedman/Publications/67.pdf) by Michael Freedman (Fields medallist and now [director of Station Q](http://research.microsoft.com/en-us/press/mfreedman.aspx)).
+*  [Topological views on computational complexity](https://www.emis.de//journals/DMJDMV/xvol-icm/06/Freedman.MAN.html) by Michael Freedman.
 *  [Light linear logic](http://iml.univ-mrs.fr/~girard/LLL.pdf.gz) by Jean-Yves Girard.
 *  [Light logic and polynomial time computation](http://www.kurims.kyoto-u.ac.jp/~terui/phd.pdf) by Kazushige Terui.
 
