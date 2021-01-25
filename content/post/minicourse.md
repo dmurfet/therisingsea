@@ -6,6 +6,7 @@ title = "News"
 
 News:
 
+* The Rising Sea is now on [metauni](https://metauni.org) a network of virtual spaces built on Roblox and Discord. Many of my talks this year will be hosted there.
 * [Deep Learning is Singular, and That's Good](https://openreview.net/forum?id=8EGmvcCVrmZ), October 2020, preprint from [MDLG](http://mdlg.ai) on theory of deep learning.
 * [Geometry of Program Synthesis](https://openreview.net/forum?id=qiydAcw6Re), October 2020, preprint with James Clift and James Wallbridge.
 * [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131), August 2020, preprint with William Troiani on sequent calculus, lambda calculus and the Curry-Howard correspondence ([video](https://youtu.be/hu6Pdo_Yzqc)).
