@@ -6,7 +6,6 @@ title = "News"
 
 News:
 
-* Theory of Deep Learning, January 2021, a general introduction to the topic in the Rising Sea metauni node ([video](https://youtu.be/xNqGxgiP0Cc)).
 * The Rising Sea is now on [metauni](https://metauni.org), a network of virtual spaces built on Roblox and Discord. Many of my talks this year will be hosted there.
 * [Deep Learning is Singular, and That's Good](https://openreview.net/forum?id=8EGmvcCVrmZ), October 2020, preprint from [MDLG](http://mdlg.ai) on theory of deep learning.
 * [Geometry of Program Synthesis](https://openreview.net/forum?id=qiydAcw6Re), October 2020, preprint with James Clift and James Wallbridge.
@@ -22,8 +21,10 @@ News:
 * [James Clift](mailto:jamesedwardclift@gmail.com)'s masters thesis, October 2017, [Turing machines and differential linear logic](http://therisingsea.org/notes/MScThesisJamesClift.pdf).
 * [Patrick Elliott](mailto:p.cd.elliott@gmail.com)'s masters thesis, October 2017, [A-infinity categories and matrix factorisations over hypersurface singularities](http://therisingsea.org/notes/MScThesisPatrickElliott.pdf).
 
-Slides from my recent talks:
+My recent talks:
 
+* Introduction to singularity theory, March 2021 ([notes](http://therisingsea.org/notes/LGCFT1.pdf))
+* Theory of Deep Learning, January 2021, a general introduction to the topic in the Rising Sea metauni node ([video](https://youtu.be/xNqGxgiP0Cc)).
 * Introduction to matrix factorisations, April 2020 in University of Melbourne moduli spaces seminar ([Part 1 notes](http://therisingsea.org/notes/talk-intro-mf-2020-1.pdf) | [Part 2 notes](http://therisingsea.org/notes/talk-intro-mf-2020-2.pdf))
 * From critical points to extended TQFTs, April 2020 in Monash topology seminar ([notes](http://therisingsea.org/notes/talk-monash-2020.pdf))
 * A-infinity categories of matrix factorisations via A-infinity idempotents, January 2020 at KIAS workshop on [Atiyah classes and related topics](http://events.kias.re.kr/h/WAC20/) ([notes](http://therisingsea.org/notes/talk-ainfmf-kais.pdf))
