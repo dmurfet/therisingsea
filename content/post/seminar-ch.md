@@ -6,23 +6,7 @@ menu = "main"
 +++
 
 
-The seminar is held **online** via Zoom (meeting IDs below). For announcements of talks [subscribe](http://www.tinyletter.com/dmurfet) to the mailing list. The videos from many talks are available on [YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd). For previous semesters of the seminar, scroll down! 
-
-#### Current seminar
-
-In semester one of 2021 we are running a seminar on renormalisation (in physics) vs resolution (in algebraic geometry). This material is jointly relevant both to the Landau-Ginzburg / Conformal Field Theory correspondence and singular learning theory of deep learning.
-
-Topics to be covered:
-
-  * A1-A5. Basic algebraic geometry (Hartshorne 1.1-1.5) in the language of algebraic varieties, focusing on blow-ups and singularities
-  * A6. Definition of resolution, statement of Hironaka's theorem
-  * A7. Universal property of blowup (scheme theoretic)
-  * B. Renormalisation
-  * C. Lie theory, starting at some point (assume some background) 
-  * CX. Resolution of simple singularities (Slodowy)
-
-  * Johanna - Hamiltonian reduction?
-
+The current seminar is the [Computation, Geometry, Logic seminar](https://cglseminar.github.io).
 
 #### S1 2020
 
