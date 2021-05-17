@@ -42,8 +42,23 @@ It goes without saying that most of the results in my notes are from one book or
 *  [Section 3.7 - Serre Duality](http://therisingsea.org/notes/Section3.7-SerreDuality.pdf): (SDT) Notes on Serre Duality and dualising sheaves as presented in Hartshorne.
 *  [The Relative Proj Construction](http://therisingsea.org/notes/TheRelativeProjConstruction.pdf): (TRPC) Associating a Proj with a sheaf of graded algebras. The sheaf associated to a sheaf of graded modules, the graded module associated to a quasi-coherent sheaf, functorial properties, ideal sheaves and closed subschemes, the duple embedding, twisting with invertible sheaves. 
 *  [Ample Families](http://therisingsea.org/notes/AmpleFamilies.pdf): (AMF) Ample sheaves and ample families of sheaves on arbitrary schemes, as described in EGA and later SGA.
-* [Schemes via Noncommutative Localisation](http://therisingsea.org/notes/SchemesFromLocalisation.pdf): (SFL) Gabriel topologies and localisation with respect to them, the situation for commutative rings and how this relates to algebraic geometry. A lot of this is from Stenstrom's book.
-* [The Zariski site](http://therisingsea.org/notes/ZariskiTopology.pdf): (ZT) Definition of the Zariski site and the proof that schemes give sheaves on it. Probably directly from EGA, but I don't recall.
+*  [Schemes via Noncommutative Localisation](http://therisingsea.org/notes/SchemesFromLocalisation.pdf): (SFL) Gabriel topologies and localisation with respect to them, the situation for commutative rings and how this relates to algebraic geometry. A lot of this is from Stenstrom's book.
+*  [The Zariski site](http://therisingsea.org/notes/ZariskiTopology.pdf): (ZT) Definition of the Zariski site and the proof that schemes give sheaves on it. Probably directly from EGA, but I don't recall.
+
+My handwritten notes for Sections 1 and 2 of Hartshorne:
+
+*  [Section 1.1](http://therisingsea.org/notes/hartshorne1-1.pdf): Affine varieties
+*  [Section 1.2](http://therisingsea.org/notes/hartshorne1-2.pdf): Projective varities
+*  [Section 1.3](http://therisingsea.org/notes/hartshorne1-3.pdf): Morphisms
+*  [Section 1.4](http://therisingsea.org/notes/hartshorne1-4.pdf): Rational maps
+*  [Section 1.5](http://therisingsea.org/notes/hartshorne1-5.pdf): Nonsingular varieties
+*  [Section 1.6](http://therisingsea.org/notes/hartshorne1-6.pdf): Nonsingular curves
+*  [Section 1.7](http://therisingsea.org/notes/hartshorne1-7.pdf): Intersections in projective space
+*  [Section 2.1](http://therisingsea.org/notes/hartshorne2-1.pdf): Sheaves
+*  [Section 2.2](http://therisingsea.org/notes/hartshorne2-2.pdf): Schemes
+*  [Section 2.3](http://therisingsea.org/notes/hartshorne2-3.pdf): First properties of schemes
+*  [Section 2.4](http://therisingsea.org/notes/hartshorne2-4.pdf): Separated and proper morphisms
+*  [Section 2.5](http://therisingsea.org/notes/hartshorne2-5.pdf): Sheaves of modules
 
 #### Commutative Algebra
 
