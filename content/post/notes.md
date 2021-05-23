@@ -45,7 +45,7 @@ It goes without saying that most of the results in my notes are from one book or
 *  [Schemes via Noncommutative Localisation](http://therisingsea.org/notes/SchemesFromLocalisation.pdf): (SFL) Gabriel topologies and localisation with respect to them, the situation for commutative rings and how this relates to algebraic geometry. A lot of this is from Stenstrom's book.
 *  [The Zariski site](http://therisingsea.org/notes/ZariskiTopology.pdf): (ZT) Definition of the Zariski site and the proof that schemes give sheaves on it. Probably directly from EGA, but I don't recall.
 
-My handwritten notes for Sections 1 and 2 of Hartshorne:
+My handwritten notes for Sections 1 and 2 of Hartshorne (there are some [corrections](http://therisingsea.org/notes/hartshorne-errata.rtf)):
 
 *  [Section 1.1](http://therisingsea.org/notes/hartshorne1-1.pdf): Affine varieties
 *  [Section 1.2](http://therisingsea.org/notes/hartshorne1-2.pdf): Projective varities
@@ -59,6 +59,7 @@ My handwritten notes for Sections 1 and 2 of Hartshorne:
 *  [Section 2.3](http://therisingsea.org/notes/hartshorne2-3.pdf): First properties of schemes
 *  [Section 2.4](http://therisingsea.org/notes/hartshorne2-4.pdf): Separated and proper morphisms
 *  [Section 2.5](http://therisingsea.org/notes/hartshorne2-5.pdf): Sheaves of modules
+*  [Section 2.5 proj](http://therisingsea.org/notes/hartshorne2-5-proj.pdf): Sheaves of modules (Proj)
 
 #### Commutative Algebra
 
