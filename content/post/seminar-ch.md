@@ -8,16 +8,6 @@ menu = "main"
 
 The current seminar is the [Computation, Geometry, Logic seminar](https://cglseminar.github.io).
 
-#### S1 2020
-
-In semester one of 2020 we are running a seminar on cohomological field theories (CohFTs) moduli spaces of curves and Landau-Ginzburg models, with an aim to understand the construction of the [Polishchuk-Vaintrob CohFT](https://arxiv.org/abs/1105.2903). From the third talk, all talks will be **online only** and may be accessed by anybody using Zoom.
-
-Talk schedule:
-
-  * Lecture 1: Paul Norbury "Introduction to CohFTs and Frobenius manifolds"
-  * Lecture 2: Emanuel Scheidegger (Peking University) "FJRW theory, an overview" ([DM's notes](http://therisingsea.org/notes/talk-emanuel-fjrw.pdf))
-  * Lecture 3: Daniel Murfet "Introduction to matrix factorisations Part 1" ([join with Zoom](https://unimelb.zoom.us/j/6805102102) 11am Melbourne time 25/3/2020) ([notes](http://therisingsea.org/notes/talk-lgcohftseminar-intromf1.pdf))
-
 #### S2 2019 - Deep learning and reinforcement learning
 
 In semester two of 2019 we studied reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we looked at deep learning more generally. Some relevant background information:
@@ -42,7 +32,6 @@ Talk schedule:
   * Lecture 5: Susan Wei "Deep learning as a continuous dynamical system" ([video](https://youtu.be/ZFLJ7svnP5E) | [paper](http://www.jmlr.org/papers/volume18/17-653/17-653.pdf))
   * Lecture 6: Daniel Murfet "AlphaGo" ([slides](http://therisingsea.org/notes/talk-alphago.pdf) | [video](https://youtu.be/rOiaZ1hVb-A))
   * Lecture 7: Mingming Gong "Convolutional neural networks"
-  * Lecture 8: Elliot Catt "Solomonoff induction and the limits of RL"
     
 There is a bonus talk:
 
