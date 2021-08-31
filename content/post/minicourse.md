@@ -36,7 +36,7 @@ My recent talks:
 * Derivatives of Turing machines and inductive inference, November 2018 at Peking University ([notes](http://therisingsea.org/notes/talk-beida-tm-2018.pdf))
 * The computational content of Landau-Ginzburg models, November 2018 at BICMR, Beijing ([notes](http://therisingsea.org/notes/talk-beida-lg-2018.pdf))
 * Derivatives of Turing machines in linear logic, May 2018 in the Melbourne pure math seminar ([notes](http://therisingsea.org/notes/talk-turderiv.pdf))
-* Algebra and Artificial Intelligence, May 2018 in the Melbourne logic seminar ([slides](http://therisingsea.org/notes/talk-algebraai.pdf) | [video](https://vimeo.com/268308026))
+* Algebra and Artificial Intelligence, May 2018 in the Melbourne logic seminar ([slides](http://therisingsea.org/notes/talk-algebraai.pdf) | [video](https://youtu.be/hamXXemjJZg))
 * Bar versus Koszul, April 2018 in the Melbourne topology seminar ([notes](http://therisingsea.org/notes/talk-barvskoszul.pdf))
 * Mini-course on A-infinity categories and matrix factorisations, September 2017 [at the IBS in Korea](https://cgp.ibs.re.kr/conferences/String_Field_Theory/) ([lecture 1](http://therisingsea.org/notes/talk-ibs2017-1.pdf), [lecture 2](http://therisingsea.org/notes/talk-ibs2017-2.pdf), [lecture 3](http://therisingsea.org/notes/talk-ibs2017-3.pdf)).
 * Turing machines and coalgebras, September 2017 at [Neeman's 60th conference at ANU](http://maths.anu.edu.au/events/60th-birthday-amnon-neeman) ([notes](http://therisingsea.org/notes/talk-loganu2017.pdf)).
