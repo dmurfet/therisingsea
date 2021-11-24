@@ -7,7 +7,7 @@ title = "News"
 News:
 
 * Jackson Godfrey's masters thesis, October 2021, [Superbicategories](http://therisingsea.org/notes/MSc-Godfrey.pdf).
-* Liam Carroll's masters thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
+* [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s masters thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
 * [Tom Waring](https://thomaskwaring.github.io)'s masters thesis, October 2021, [Geometric perspectives on program synthesis and semantics](http://therisingsea.org/notes/MSc-Waring.pdf).
 * The Rising Sea is now on [metauni](https://metauni.org), a network of virtual spaces built on Roblox and Discord. Many of my talks this year will be hosted there.
 * [Deep Learning is Singular, and That's Good](https://openreview.net/forum?id=8EGmvcCVrmZ), October 2020, preprint from [MDLG](http://mdlg.ai) on theory of deep learning.
