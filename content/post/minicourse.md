@@ -6,6 +6,7 @@ title = "News"
 
 News:
 
+* David Li's summer scholar project, February 2022, [AlphaFold](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf).
 * Jackson Godfrey's masters thesis, October 2021, [Superbicategories](http://therisingsea.org/notes/MSc-Godfrey.pdf).
 * [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s masters thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
 * [Tom Waring](https://thomaskwaring.github.io)'s masters thesis, October 2021, [Geometric perspectives on program synthesis and semantics](http://therisingsea.org/notes/MSc-Waring.pdf).
