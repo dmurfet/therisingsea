@@ -6,6 +6,7 @@ title = "News"
 
 News:
 
+* We're teaching an introductory algebraic geometry class at metauni ([MAG](https://metauni.org/mag/)) in June 2022.
 * David Li's summer scholar project, February 2022, [AlphaFold](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf).
 * Jackson Godfrey's masters thesis, October 2021, [Superbicategories](http://therisingsea.org/notes/MSc-Godfrey.pdf).
 * [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s masters thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
