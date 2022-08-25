@@ -6,7 +6,7 @@ title = "News"
 
 News:
 
-* We're teaching an introductory algebraic geometry class at metauni ([MAG](https://metauni.org/mag/)) in June 2022.
+* We taught an introductory algebraic geometry class at metauni ([MAG](https://metauni.org/mag/)) in June 2022.
 * David Li's summer scholar project, February 2022, [AlphaFold](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf).
 * Jackson Godfrey's masters thesis, October 2021, [Superbicategories](http://therisingsea.org/notes/MSc-Godfrey.pdf).
 * [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s masters thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
@@ -26,8 +26,9 @@ News:
 * [James Clift](mailto:jamesedwardclift@gmail.com)'s masters thesis, October 2017, [Turing machines and differential linear logic](http://therisingsea.org/notes/MScThesisJamesClift.pdf).
 * [Patrick Elliott](mailto:p.cd.elliott@gmail.com)'s masters thesis, October 2017, [A-infinity categories and matrix factorisations over hypersurface singularities](http://therisingsea.org/notes/MScThesisPatrickElliott.pdf).
 
-My recent talks:
+Some talks:
 
+* Matrix factorisations and Quantum Error Correcting Codes, July 2022 ([notes](http://therisingsea.org/notes/talk-mfqecc.pdf)).
 * Introduction to singularity theory, March 2021 ([notes](http://therisingsea.org/notes/LGCFT1.pdf))
 * Theory of Deep Learning, January 2021, a general introduction to the topic in the Rising Sea metauni node ([video](https://youtu.be/xNqGxgiP0Cc)).
 * Introduction to matrix factorisations, April 2020 in University of Melbourne moduli spaces seminar ([Part 1 notes](http://therisingsea.org/notes/talk-intro-mf-2020-1.pdf) | [Part 2 notes](http://therisingsea.org/notes/talk-intro-mf-2020-2.pdf))
