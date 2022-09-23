@@ -6,6 +6,7 @@ title = "News"
 
 News:
 
+* The second metauni class "Shadows of Computation" is an introductory class on category theory and the links to computer science. [Sign up here](https://metauni.org/soc/).
 * Spencer Wong's masters thesis, May 2022, [From Analytic to Algebraic: The Algebraic Geometry of Two Layer Neural Networks](http://therisingsea.org/notes/MScThesisSpencerWong.pdf).
 * We taught an introductory algebraic geometry class at metauni ([MAG](https://metauni.org/mag/)) in June 2022.
 * David Li's summer scholar project, February 2022, [AlphaFold](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf).
