@@ -6,8 +6,8 @@ title = "News"
 
 News:
 
-* Rohan Hitchcock's masters thesis, October 2021, [Differentiation, Division and the Bicategory of Landau-Ginzburg Models](http://therisingsea.org/notes/MScThesisRohanHitchcock.pdf).
-* Matthew Farrugia-Roberts' masters thesis, October 2021, [Structural Degeneracy in Neural Networks](https://far.in.net/mthesis).
+* Rohan Hitchcock's masters thesis, October 2022, [Differentiation, Division and the Bicategory of Landau-Ginzburg Models](http://therisingsea.org/notes/MScThesisRohanHitchcock.pdf).
+* Matthew Farrugia-Roberts' masters thesis, October 2022, [Structural Degeneracy in Neural Networks](https://far.in.net/mthesis).
 * Spencer Wong's masters thesis, May 2022, [From Analytic to Algebraic: The Algebraic Geometry of Two Layer Neural Networks](http://therisingsea.org/notes/MScThesisSpencerWong.pdf).
 * [Elimination and cut-elimination in multiplicative linear logic](https://arxiv.org/abs/2207.10871), July 2022, preprint with Will Troiani.
 * We taught an introductory algebraic geometry class at metauni ([MAG](https://metauni.org/mag/)) in June 2022.
